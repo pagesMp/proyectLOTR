@@ -1,0 +1,131 @@
+[
+    {   
+        "id": 1,
+        "name": "Warrior",
+        "effects": [
+            {
+                "targetType": "Might",
+                "targetScope": "Commander",
+                "amount": 25
+            },
+            {
+                "targetType": "Skill Point(s)",
+                "targetScope": "Commander",
+                "amount": 2
+            },
+            {
+                "targetType": "Physical Damage",
+                "targetScope": "Commander",
+                "amount": 10,
+                "units": "percent"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Balanced",
+        "effects": [
+            {
+                "targetType": "Might",
+                "targetScope": "Commander",
+                "amount": 25
+            },
+            {
+                "targetType": "Focus",
+                "targetScope": "Commander",
+                "amount": 25
+            },
+            {
+                "targetType": "Speed",
+                "targetScope": "Commander",
+                "amount": 25
+            },
+            {
+                "targetType": "Skill Point(s)",
+                "targetScope": "Commander",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Tip Master"
+    },
+    {
+        "id": 4,
+        "name": "Special"
+    },
+    {
+        "id": 5,
+        "name": "Leader",
+        "effects": [
+            {
+                "targetType": "Command",
+                "targetScope": "Commander",
+                "amount": 5
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Support",
+        "effects": [
+            {
+                "targetType": "Might",
+                "targetScope": "Commander",
+                "amount": 25
+            },
+            {
+                "targetType": "Skill Point(s)",
+                "targetScope": "Commander",
+                "amount": 5
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Control"
+    },
+    {
+        "id": 8,
+        "name": "Heal"
+    },
+    {
+        "id": 9,
+        "name": "Strategist",
+        "effects": [
+            {
+                "targetType": "Focus",
+                "targetScope": "Commander",
+                "amount": 25
+            },
+            {
+                "targetType": "Focus",
+                "targetSubtype": "PoisonDamage",
+                "targetScope": "Commander",
+                "amount": 10,
+                "units": "percent"
+            },
+            {
+                "targetType": "Focus",
+                "targetSubtype": "BurnDamage",
+                "targetScope": "Commander",
+                "amount": 10,
+                "units": "percent"
+            },
+            {
+                "targetType": "Skill Point(s)",
+                "targetScope": "Commander",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Poison"
+    },
+    {
+        "id": 11,
+        "name": "Burn"
+    }
+]
