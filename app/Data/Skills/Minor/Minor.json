@@ -1639,5 +1639,245 @@
         "id": 328,
         "name": "Heavily Wounded",
         "effects":{}
+    },
+    {
+        "id": 329,
+        "name": "Frighened",
+        "effects":{}
+    },
+    {
+        "id": 330,
+        "name": "Inspiration",
+        "effects":{}
+    },
+    {
+        "id": 331,
+        "name": "Dwarven Leader",
+        "effects":{}
+    },
+    {
+        "id": 332,
+        "name": "Heavily Wounded",
+        "effects":{}
+    },
+    {
+        "id": 333,
+        "name": "Whirlwind",
+        "effects":{}
+    },
+    {
+        "id": 334,
+        "name": "All-In",
+        "effects":{}
+    },
+    {
+        "id": 335,
+        "name": "Longbeard",
+        "effects":{}
+    },
+    {
+        "id": 336,
+        "name": "Giant Slayer",
+        "effects":{}
+    },
+    {
+        "id": 337,
+        "name": "Silver-tall",
+        "effects":{}
+    },
+    {
+        "id": 338,
+        "name": "Magical Barrier",
+        "effects":{}
+    },
+    {
+        "id": 339,
+        "name": "Armed Escort",
+        "effects":{}
+    },
+    {
+        "id": 340,
+        "name": "Foresight",
+        "effects":{}
+    },
+    {
+        "id": 341,
+        "name": "Shield Training",
+        "effects":{}
+    },
+    {
+        "id": 342,
+        "name": "Deadeye",
+        "effects":{}
+    },
+    {
+        "id": 343,
+        "name": "Firing Formation",
+        "effects":{}
+    },
+    {
+        "id": 344,
+        "name": "Elven Leader",
+        "effects":{}
+    },
+    {
+        "id": 345,
+        "name": "Reinforcement",
+        "effects":{}
+    },
+    {
+        "id": 346,
+        "name": "Defensive Stance",
+        "effects":{}
+    },
+    {
+        "id": 347,
+        "name": "Cleave",
+        "effects":{}
+    },
+    {
+        "id": 348,
+        "name": "Riding Excellence",
+        "effects":{}
+    },
+    {
+        "id": 349,
+        "name": "Flanking",
+        "effects":{}
+    },
+    {
+        "id": 350,
+        "name": "Mounted Combat",
+        "effects":{}
+    },
+    {
+        "id": 351,
+        "name": "Vow of Protection",
+        "effects":{}
+    },
+    {
+        "id": 352,
+        "name": "Chaotic Retreat",
+        "effects":{}
+    },
+    {
+        "id": 353,
+        "name": "Discipline",
+        "effects":{}
+    },
+    {
+        "id": 354,
+        "name": "Swing",
+        "effects":{}
+    },
+    {
+        "id": 355,
+        "name": "Cleave",
+        "effects":{}
+    },
+    {
+        "id": 356,
+        "name": "Riding Excellence",
+        "effects":{}
+    },
+    {
+        "id": 357,
+        "name": "Attack Vitals",
+        "effects":{}
+    },
+    {
+        "id": 358,
+        "name": "Cull the Weak",
+        "effects":{}
+    },
+    {
+        "id": 359,
+        "name": "Flanking",
+        "effects":{}
+    },
+    {
+        "id": 360,
+        "name": "Mounted Combat",
+        "effects":{}
+    },
+    {
+        "id": 361,
+        "name": "Reinforcement",
+        "effects":{}
+    },
+    {
+        "id": 362,
+        "name": "Fortify",
+        "effects":{}
+    },
+    {
+        "id": 363,
+        "name": "Cleave",
+        "effects":{}
+    },
+    {
+        "id": 364,
+        "name": "Brawler",
+        "effects":{}
+    },
+    {
+        "id": 365,
+        "name": "Gallant",
+        "effects":{}
+    },
+    {
+        "id": 366,
+        "name": "Nobility",
+        "effects":{}
+    },
+    {
+        "id": 367,
+        "name": "Mounted Combat",
+        "effects":{}
+    },
+    {
+        "id": 368,
+        "name": "Coalition",
+        "effects":{}
+    },
+    {
+        "id": 369,
+        "name": "Reinforcement",
+        "effects":{}
+    },
+    {
+        "id": 370,
+        "name": "Fortify",
+        "effects":{}
+    },
+    {
+        "id": 371,
+        "name": "Clear-Headed",
+        "effects":{}
+    },
+    {
+        "id": 372,
+        "name": "Inquisitive",
+        "effects":{}
+    },
+    {
+        "id": 373,
+        "name": "Wild Magic",
+        "effects":{}
+    },
+    {
+        "id": 374,
+        "name": "Fanaticism",
+        "effects":{}
+    },
+    {
+        "id": 375,
+        "name": "Arson",
+        "effects":{}
+    },
+    {
+        "id": 376,
+        "name": "Enrage",
+        "effects":{}
     }
 ]

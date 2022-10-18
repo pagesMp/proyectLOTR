@@ -986,145 +986,145 @@
     {
         "id": 164,
         "name": "Revivalist",
-        "minorSkills": [],
+        "minorSkills": [329, 330],
         "effects": {}
     },
     {
         "id": 165,
         "name": "Lord of Moria",
-        "minorSkills": [],
+        "minorSkills": [331, 332],
         "effects": {}
     },
     {
         "id": 166,
         "name": "Durin's Blood",
-        "minorSkills": [],
+        "minorSkills": [333, 334],
         "effects": {}
     },
     {
         "id": 167,
         "name": "Warrior of the Lonely Mountain",
-        "minorSkills": [],
+        "minorSkills": [335, 336],
         "effects": {}
     },
     {
         "id": 168,
         "name": "The Wise",
-        "minorSkills": [],
+        "minorSkills": [337, 338],
         "effects": {}
     },
     {
         "id": 169,
         "name": "Guide",
-        "minorSkills": [],
+        "minorSkills": [339, 340],
         "effects": {}
     },
     {
         "id": 170,
         "name": "Grey Elf",
-        "minorSkills": [],
+        "minorSkills": [341, 342],
         "effects": {}
     },
     {
         "id": 171,
         "name": "Lord of Lórien",
-        "minorSkills": [],
+        "minorSkills": [343, 344],
         "effects": {}
     },
     {
         "id": 172,
         "name": "The Renewed",
-        "minorSkills": [],
+        "minorSkills": [345, 346],
         "effects": {}
     },
     {
         "id": 173,
         "name": "Rohirrim",
-        "minorSkills": [],
+        "minorSkills": [347, 348],
         "effects": {}
     },
     {
         "id": 174,
         "name": "Éored Leader",
-        "minorSkills": [],
+        "minorSkills": [349, 350],
         "effects": {}
     },
     {
         "id": 175,
         "name": "Horsemaster",
-        "minorSkills": [],
+        "minorSkills": [351, 352],
         "effects": {}
     },
     {
         "id": 176,
         "name": "Marshal of the Mark",
-        "minorSkills": [],
+        "minorSkills": [353, 354],
         "effects": {}
     },
     {
         "id": 177,
         "name": "Rohirrim",
-        "minorSkills": [],
+        "minorSkills": [355, 356],
         "effects": {}
     },
     {
         "id": 178,
         "name": "Éading",
-        "minorSkills": [],
+        "minorSkills": [357, 358],
         "effects": {}
     },
     {
         "id": 179,
         "name": "Éored Leader",
-        "minorSkills": [],
+        "minorSkills": [359, 360],
         "effects": {}
     },
     {
         "id": 180,
         "name": "Ally",
-        "minorSkills": [],
+        "minorSkills": [361, 362],
         "effects": {}
     },
     {
         "id": 181,
         "name": "The Fair",
-        "minorSkills": [],
+        "minorSkills": [363, 364],
         "effects": {}
     },
     {
         "id": 182,
         "name": "Heir",
-        "minorSkills": [],
+        "minorSkills": [365, 366],
         "effects": {}
     },
     {
         "id": 183,
         "name": "Prince of Dol Amroth",
-        "minorSkills": [],
+        "minorSkills": [367, 368],
         "effects": {}
     },
     {
         "id": 184,
         "name": "Ally",
-        "minorSkills": [],
+        "minorSkills": [369, 370],
         "effects": {}
     },
     {
         "id": 185,
         "name": "Ruling Steward",
-        "minorSkills": [],
+        "minorSkills": [371, 372],
         "effects": {}
     },
     {
         "id": 186,
         "name": "Palantír Scryer",
-        "minorSkills": [],
+        "minorSkills": [373, 374],
         "effects": {}
     },
     {
         "id": 187,
         "name": "Mad Steward",
-        "minorSkills": [],
+        "minorSkills": [375, 376],
         "effects": {}
     },
     {
