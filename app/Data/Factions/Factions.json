@@ -1,42 +1,62 @@
 [
     {
+        "id": 1,
         "name": "Gondor",
         "firstCommander": "Faramir"
     },
     {
+        "id": 2,
         "name": "Rohan",
         "firstCommander": "Eowyn"
     },
     {
+        "id": 3,
         "name": "Lindon",
         "firstCommander": "Haldir"
     },
     {
+        "id": 4,
         "name": "Arnor",
         "firstCommander": "Angmar"
     },
     {
+        "id": 5,
         "name": "Angmar",
         "firstCommander": "Agzok"
     },
     {
+        "id": 6,
         "name": "Lothlorien",
         "firstCommander": "Haldir"
     },
     {
+        "id": 7,
         "name": "Erebor",
         "firstCommander": "Dwalin"
     },
     {
+        "id": 8,
         "name": "Rhun",
         "firstCommander": "Khaldoon"
     },
     {
+        "id": 9,
         "name": "Mordor",
         "firstCommander": "Gorbag"
     },
     {
+        "id": 10,
         "name": "Isengard",
         "firstCommander": "Ugthak"
+    },
+    {
+        "id": 11,
+        "name": "Variagas",
+        "firstCommander": "Unknown"
+    },
+    {
+        "id": 12,
+        "name": "Gundabad",
+        "firstCommander": "Unknown"
     }
 ]
