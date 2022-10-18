@@ -568,7 +568,206 @@
         "name": "Second Wind",
         "minorSkills": [],
         "effects": {}
+    },
+    {
+        "id": 96,
+        "name": "War Chant",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 97,
+        "name": "Harfoots",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 98,
+        "name": "Hobbit Adventurer",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 99,
+        "name": "Palantír Scryer",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 100,
+        "name": "Clerk",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 101,
+        "name": "Musician",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 102,
+        "name": "Durin's Blood",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 103,
+        "name": "Warrior of the Lonely Mountain",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 104,
+        "name": "Marchwarden of Lórien",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 105,
+        "name": "Guide",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 106,
+        "name": "Silvan Elf",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 107,
+        "name": "Galadhrim",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 108,
+        "name": "Experienced Warrior",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 109,
+        "name": "Musician",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 110,
+        "name": "Durin's Blood",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 111,
+        "name": "Warrior of the Lonely Mountain",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 112,
+        "name": "Shieldmaiden",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 113,
+        "name": "Rohirrim",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 114,
+        "name": "Dernhelm",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 115,
+        "name": "White Lady of Rohan",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 116,
+        "name": "High Warden of the White Tower",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 117,
+        "name": "Heir",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 118,
+        "name": "Warden",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 119,
+        "name": "Horn of Gondor",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 120,
+        "name": "Rangers of Ithilien",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 121,
+        "name": "Last Steward",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 122,
+        "name": "Guide",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 123,
+        "name": "Heir",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 124,
+        "name": "Devotion",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 125,
+        "name": "Herald",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 126,
+        "name": "Red Arrow",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 127,
+        "name": "Warden",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 128,
+        "name": "",
+        "minorSkills": [],
+        "effects": {}
     }
+
   
     
 
