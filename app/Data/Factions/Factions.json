@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Gondor",
+        "firstCommander": "Faramir"
+    },
+    {
+        "name": "Rohan",
+        "firstCommander": "Eowyn"
+    },
+    {
+        "name": "Lindon",
+        "firstCommander": "Haldir"
+    },
+    {
+        "name": "Arnor",
+        "firstCommander": "Angmar"
+    },
+    {
+        "name": "Angmar",
+        "firstCommander": "Agzok"
+    },
+    {
+        "name": "Lothlorien",
+        "firstCommander": "Haldir"
+    },
+    {
+        "name": "Erebor",
+        "firstCommander": "Dwalin"
+    },
+    {
+        "name": "Rhun",
+        "firstCommander": "Khaldoon"
+    },
+    {
+        "name": "Mordor",
+        "firstCommander": "Gorbag"
+    },
+    {
+        "name": "Isengard",
+        "firstCommander": "Ugthak"
+    }
+]
