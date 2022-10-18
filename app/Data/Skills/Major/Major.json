@@ -10,5 +10,132 @@
         "name": "Black Numenorean",
         "minorSkills": [],
         "effects": {}
+    },
+    {
+        "id": 3,
+        "name": "Shadows of the Mist",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 4,
+        "name": "Mountain Warrior",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 5,
+        "name": "Arsonist",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 6,
+        "name": "Warband Leader",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 7,
+        "name": "Conspirator",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 8,
+        "name": "Warg Trainer",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 9,
+        "name": "Wormtongue",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 10,
+        "name": "Second-in-Command",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id":11,
+        "name": "Survivor",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 12,
+        "name": "Wizard's Assistant",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 13,
+        "name": "The Reckless",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 14,
+        "name": "Captor",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 15,
+        "name": "Watchman of Cirith Ungol",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 16,
+        "name": "Cirith Ungol Garrison",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 17,
+        "name": "Interrogator",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 18,
+        "name": "Old Orc",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 19,
+        "name": "Grey Leader",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 20,
+        "name": "Watchman of Cirith Ungol",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 21,
+        "name": "Pursuer",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 22,
+        "name": "Searing Axe",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 23,
+        "name": "Uruk-hai Elite",
+        "minorSkills": [],
+        "effects": {}
     }
+
 ]
