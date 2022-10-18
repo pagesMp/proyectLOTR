@@ -638,5 +638,325 @@
         "id": 128,
         "name": "Dishearten",
         "effects":{}
+    },
+    {
+        "id": 129,
+        "name": "Nimbleness",
+        "effects":{}
+    },
+    {
+        "id": 130,
+        "name": "Everlasting Torture",
+        "effects":{}
+    },
+    {
+        "id": 131,
+        "name": "Armour Corrosion",
+        "effects":{}
+    },
+    {
+        "id": 132,
+        "name": "Consequence of Greed",
+        "effects":{}
+    },
+    {
+        "id": 133,
+        "name": "Morgul Poison",
+        "effects":{}
+    },
+    {
+        "id": 134,
+        "name": "Nazgûl Screech",
+        "effects":{}
+    },
+    {
+        "id": 135,
+        "name": "Intimidation",
+        "effects":{}
+    },
+    {
+        "id": 136,
+        "name": "Feint",
+        "effects":{}
+    },
+    {
+        "id": 137,
+        "name": "Phalanx",
+        "effects":{}
+    },
+    {
+        "id": 138,
+        "name": "Fortify",
+        "effects":{}
+    },
+    {
+        "id": 139,
+        "name": "Discipline",
+        "effects":{}
+    },
+    {
+        "id": 140,
+        "name": "Anticipation",
+        "effects":{}
+    },
+    {
+        "id": 141,
+        "name": "Heavily Wounded",
+        "effects":{}
+    },
+    {
+        "id": 142,
+        "name": "Resupply",
+        "effects":{}
+    },
+    {
+        "id": 143,
+        "name": "Grond",
+        "effects":{}
+    },
+    {
+        "id": 144,
+        "name": "Orcish Warlord",
+        "effects":{}
+    },
+    {
+        "id": 145,
+        "name": "Sand Soldier",
+        "effects":{}
+    },
+    {
+        "id": 146,
+        "name": "Frontline Rescue",
+        "effects":{}
+    },
+    {
+        "id": 147,
+        "name": "Evile Alliance",
+        "effects":{}
+    },
+    {
+        "id": 148,
+        "name": "Iron Guard",
+        "effects":{}
+    },
+    {
+        "id": 149,
+        "name": "Phalanx",
+        "effects":{}
+    },
+    {
+        "id": 150,
+        "name": "Sandstorm",
+        "effects":{}
+    },
+    {
+        "id": 151,
+        "name": "Absolute Leader",
+        "effects":{}
+    },
+    {
+        "id": 152,
+        "name": "Tribal Tactics",
+        "effects":{}
+    },
+    {
+        "id": 153,
+        "name": "Arson",
+        "effects":{}
+    },
+    {
+        "id": 154,
+        "name": "Poweder Keg",
+        "effects":{}
+    },
+    {
+        "id": 155,
+        "name": "High Alert",
+        "effects":{}
+    },
+    {
+        "id": 156,
+        "name": "Haven",
+        "effects":{}
+    },
+    {
+        "id": 157,
+        "name": "Tribal Tactics",
+        "effects":{}
+    },
+    {
+        "id": 158,
+        "name": "Evile Alliance",
+        "effects":{}
+    },
+    {
+        "id": 159,
+        "name": "Wild Magic",
+        "effects":{}
+    },
+    {
+        "id": 160,
+        "name": "Resupply",
+        "effects":{}
+    },
+    {
+        "id": 161,
+        "name": "Break Defences",
+        "effects":{}
+    },
+    {
+        "id": 162,
+        "name": "Enflame",
+        "effects":{}
+    },
+    {
+        "id": 163,
+        "name": "Morgul Commander",
+        "effects":{}
+    },
+    {
+        "id": 164,
+        "name": "Convener",
+        "effects":{}
+    },
+    {
+        "id": 165,
+        "name": "Morgul Poison",
+        "effects":{}
+    },
+    {
+        "id": 166,
+        "name": "Nazgûl Screech",
+        "effects":{}
+    },
+    {
+        "id": 167,
+        "name": "Chaotic Retreat",
+        "effects":{}
+    },
+    {
+        "id": 168,
+        "name": "Dishearten",
+        "effects":{}
+    },
+    {
+        "id": 169,
+        "name": "Enfeeble",
+        "effects":{}
+    },
+    {
+        "id": 170,
+        "name": "Ring of Terror",
+        "effects":{}
+    },
+    {
+        "id": 171,
+        "name": "Trembling Strike",
+        "effects":{}
+    },
+    {
+        "id": 172,
+        "name": "Black Arts",
+        "effects":{}
+    },
+    {
+        "id": 173,
+        "name": "Soul Siphon",
+        "effects":{}
+    },
+    {
+        "id": 174,
+        "name": "Overload",
+        "effects":{}
+    },
+    {
+        "id": 175,
+        "name": "Dazzle",
+        "effects":{}
+    },
+    {
+        "id": 176,
+        "name": "Confusion",
+        "effects":{}
+    },
+    {
+        "id": 177,
+        "name": "Focus Discharge",
+        "effects":{}
+    },
+    {
+        "id": 178,
+        "name": "Trembling Strike",
+        "effects":{}
+    },
+    {
+        "id": 179,
+        "name": "Wild Magic",
+        "effects":{}
+    },
+    {
+        "id": 180,
+        "name": "Fanaticism",
+        "effects":{}
+    },
+    {
+        "id": 181,
+        "name": "Astonish",
+        "effects":{}
+    },
+    {
+        "id": 182,
+        "name": "Soul Siphon",
+        "effects":{}
+    },
+    {
+        "id": 183,
+        "name": "Uruk-hai Captain",
+        "effects":{}
+    },
+    {
+        "id": 184,
+        "name": "Morgul Commander",
+        "effects":{}
+    },
+    {
+        "id": 185,
+        "name": "Delayed Plague",
+        "effects":{}
+    },
+    {
+        "id": 186,
+        "name": "Plague",
+        "effects":{}
+    },
+    {
+        "id": 187,
+        "name": "Nimbleness",
+        "effects":{}
+    },
+    {
+        "id": 188,
+        "name": "Dishearten",
+        "effects":{}
+    },
+    {
+        "id": 189,
+        "name": "Morgul Poison",
+        "effects":{}
+    },
+    {
+        "id": 190,
+        "name": "Nazgûl Screech",
+        "effects":{}
+    },
+    {
+        "id": 191,
+        "name": "Chilling Edge",
+        "effects":{}
+    },
+    {
+        "id": 192,
+        "name": "Fanaticism",
+        "effects":{}
     }
 ]

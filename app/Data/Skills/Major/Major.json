@@ -386,193 +386,193 @@
     {
         "id": 64,
         "name": "Catastrophe of Elves",
-        "minorSkills": [],
+        "minorSkills": [129, 130],
         "effects": {}
     },
     {
         "id": 65,
         "name": "Catastrophe of Dwarves",
-        "minorSkills": [],
+        "minorSkills": [131, 132],
         "effects": {}
     },
     {
         "id": 66,
         "name": "Ringwraith",
-        "minorSkills": [],
+        "minorSkills": [133, 134],
         "effects": {}
     },
     {
         "id": 67,
         "name": "Catastrophe of Men",
-        "minorSkills": [],
+        "minorSkills": [135, 136],
         "effects": {}
     },
     {
         "id": 68,
         "name": "Overlord",
-        "minorSkills": [],
+        "minorSkills": [137, 138],
         "effects": {}
     },
     {
         "id": 69,
         "name": "Second-in-Command",
-        "minorSkills": [],
+        "minorSkills": [139, 140],
         "effects": {}
     },
     {
         "id": 70,
         "name": "The Crippled",
-        "minorSkills": [],
+        "minorSkills": [141, 142],
         "effects": {}
     },
     {
         "id": 71,
         "name": "Morgul Lieutenant",
-        "minorSkills": [],
+        "minorSkills": [143, 144],
         "effects": {}
     },
     {
         "id": 72,
         "name": "Lord of the Sand",
-        "minorSkills": [],
+        "minorSkills": [145, 146],
         "effects": {}
     },
     {
         "id": 73,
         "name": "Easterling",
-        "minorSkills": [],
+        "minorSkills": [147, 148],
         "effects": {}
     },
     {
         "id": 74,
         "name": "Golden Visage",
-        "minorSkills": [],
+        "minorSkills": [149, 150],
         "effects": {}
     },
     {
         "id": 75,
         "name": "Master of the War Charoit",
-        "minorSkills": [],
+        "minorSkills": [151, 152],
         "effects": {}
     },
     {
         "id": 76,
         "name": "Fire Dancer",
-        "minorSkills": [],
+        "minorSkills": [153, 154],
         "effects": {}
     },
     {
         "id": 77,
         "name": "Horn of Harad",
-        "minorSkills": [],
+        "minorSkills": [155, 156],
         "effects": {}
     },
     {
         "id": 78,
         "name": "Haradrim",
-        "minorSkills": [],
+        "minorSkills": [157, 158],
         "effects": {}
     },
     {
         "id": 79,
         "name": "Lord of Mumakil",
-        "minorSkills": [],
+        "minorSkills": [159, 160],
         "effects": {}
     },
     {
         "id": 80,
         "name": "Lord of Nazgûl",
-        "minorSkills": [],
+        "minorSkills": [161, 162],
         "effects": {}
     },
     {
         "id": 81,
         "name": "Black Captain",
-        "minorSkills": [],
+        "minorSkills": [163, 164],
         "effects": {}
     },
     {
         "id": 82,
         "name": "Ringwraith",
-        "minorSkills": [],
+        "minorSkills": [165, 166],
         "effects": {}
     },
     {
         "id": 83,
         "name": "Lord of Minas Morgul",
-        "minorSkills": [],
+        "minorSkills": [167, 168],
         "effects": {}
     },
     {
         "id": 84,
         "name": "The Deceiver",
-        "minorSkills": [],
+        "minorSkills": [169, 170],
         "effects": {}
     },
     {
         "id": 85,
         "name": "Lord of Gifts",
-        "minorSkills": [],
+        "minorSkills": [171, 172],
         "effects": {}
     },
     {
         "id": 86,
         "name": "Gorthaur",
-        "minorSkills": [],
+        "minorSkills": [173, 174],
         "effects": {}
     },
     {
         "id": 87,
         "name": "The Enemy",
-        "minorSkills": [],
+        "minorSkills": [175, 176],
         "effects": {}
     },
     {
         "id": 88,
         "name": "Of Many Colours",
-        "minorSkills": [],
+        "minorSkills": [177, 178],
         "effects": {}
     },
     {
         "id": 89,
         "name": "Palantír Scryer",
-        "minorSkills": [],
+        "minorSkills": [179, 180],
         "effects": {}
     },
     {
         "id": 90,
         "name": "Voice of Saruman",
-        "minorSkills": [],
+        "minorSkills": [181, 182],
         "effects": {}
     },
     {
         "id": 91,
         "name": "Sharkey",
-        "minorSkills": [],
+        "minorSkills": [183, 184],
         "effects": {}
     },
     {
         "id": 92,
         "name": "Undertaker",
-        "minorSkills": [],
+        "minorSkills": [185, 186],
         "effects": {}
     },
     {
         "id": 93,
         "name": "Undead Commander",
-        "minorSkills": [],
+        "minorSkills": [187, 188],
         "effects": {}
     },
     {
         "id": 94,
         "name": "Ringwraith",
-        "minorSkills": [],
+        "minorSkills": [189, 190],
         "effects": {}
     },
     {
         "id": 95,
         "name": "Second Wind",
-        "minorSkills": [],
+        "minorSkills": [191, 192],
         "effects": {}
     },
     {
