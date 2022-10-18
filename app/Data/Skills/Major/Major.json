@@ -1121,9 +1121,316 @@
         "minorSkills": [],
         "effects": {}
     },
-
-
-  
-    
-
+    {
+        "id": 188,
+        "name": "Icicle",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 189,
+        "name": "Kingly Kin",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 190,
+        "name": "White Council",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 191,
+        "name": "High King",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 192,
+        "name": "White Council",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 193,
+        "name": "Teleri",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 194,
+        "name": "Lord of the Havens",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 195,
+        "name": "The Shipwright",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 196,
+        "name": "Lord of Imladris",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 197,
+        "name": "Half-elven",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 198,
+        "name": "White Council",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 199,
+        "name": "Vilya's Ringbearer",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 200,
+        "name": "Wizard",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 201,
+        "name": "The Brown",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 202,
+        "name": "Healer",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 203,
+        "name": "Bird-tamer",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 204,
+        "name": "Mirkwood's Vigour",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 205,
+        "name": "Grey Elf",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 206,
+        "name": "Heir of Greenwood the Great",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 207,
+        "name": "King of the Woodland Realm",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 208,
+        "name": "Ironfoot",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 209,
+        "name": "Lord of the Iorn Hills",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 210,
+        "name": "Durin's Blood",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 211,
+        "name": "King Under the Mountain ",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 212,
+        "name": "Oakenshield",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 213,
+        "name": "Revivalist",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 214,
+        "name": "King Under the Mountain ",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 215,
+        "name": "King of Durin's Folk",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 216,
+        "name": "The White",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 217,
+        "name": "Wizard",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 218,
+        "name": "White Council",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 219,
+        "name": "White Rider",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 220,
+        "name": "Mistress of Magic",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 221,
+        "name": "Lady of Lórien",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 222,
+        "name": "White Council",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 223,
+        "name": "Nenya's Guardian",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 224,
+        "name": "Eldest",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 225,
+        "name": "Fangorn",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 226,
+        "name": "Shepherds of the Trees",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 227,
+        "name": "Wizard's Bane",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 228,
+        "name": "Incorporeal",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 229,
+        "name": "Betrayer",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 230,
+        "name": "Men of the Mountains",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 231,
+        "name": "Army of the Dead",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 232,
+        "name": "Andúril",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 233,
+        "name": "Elessar",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 234,
+        "name": "Strider",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 235,
+        "name": "Kinf of Men",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 236,
+        "name": "Ringbearers",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 237,
+        "name": "Great King",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 238,
+        "name": "King of the Dúnedain",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 239,
+        "name": "Last Alliance",
+        "minorSkills": [],
+        "effects": {}
+    }
 ]
