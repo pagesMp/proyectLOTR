@@ -958,5 +958,326 @@
         "id": 192,
         "name": "Fanaticism",
         "effects":{}
+    },
+    {
+        "id": 193,
+        "name": "Relief",
+        "effects":{}
+    },
+    {
+        "id": 194,
+        "name": "Level-headed",
+        "effects":{}
+    },
+    {
+        "id": 195,
+        "name": "Pipe-weed Connoisseur",
+        "effects":{}
+    },
+    {
+        "id": 196,
+        "name": "Inquisitive",
+        "effects":{}
+    },
+    {
+        "id": 197,
+        "name": "Ent-friend",
+        "effects":{}
+    },
+    {
+        "id": 198,
+        "name": "Giant Slayer",
+        "effects":{}
+    },
+    {
+        "id": 199,
+        "name": "Wild Magic",
+        "effects":{}
+    },
+    {
+        "id": 200,
+        "name": "Fanaticism",
+        "effects":{}
+    },
+    {
+        "id": 201,
+        "name": "Clear-Headed",
+        "effects":{}
+    },
+    {
+        "id": 202,
+        "name": "Inquisitive",
+        "effects":{}
+    },
+    {
+        "id": 203,
+        "name": "Relief",
+        "effects":{}
+    },
+    {
+        "id": 204,
+        "name": "Level-headed",
+        "effects":{}
+    },
+    {
+        "id": 205,
+        "name": "Whirlwind",
+        "effects":{}
+    },
+    {
+        "id": 206,
+        "name": "All-In",
+        "effects":{}
+    },
+    {
+        "id": 207,
+        "name": "Longbeard",
+        "effects":{}
+    },
+    {
+        "id": 208,
+        "name": "Giant Slayer",
+        "effects":{}
+    },
+    {
+        "id": 209,
+        "name": "Cull the Weak",
+        "effects":{}
+    },
+    {
+        "id": 210,
+        "name": "Elite",
+        "effects":{}
+    },
+    {
+        "id": 211,
+        "name": "Armed Escort",
+        "effects":{}
+    },
+    {
+        "id": 212,
+        "name": "Foresight",
+        "effects":{}
+    },
+    {
+        "id": 213,
+        "name": "Beast Training",
+        "effects":{}
+    },
+    {
+        "id": 214,
+        "name": "Forest Agility",
+        "effects":{}
+    },
+    {
+        "id": 215,
+        "name": "Fortify",
+        "effects":{}
+    },
+    {
+        "id": 216,
+        "name": "Shield Training",
+        "effects":{}
+    },
+    {
+        "id": 217,
+        "name": "Hunt Down",
+        "effects":{}
+    },
+    {
+        "id": 218,
+        "name": "Collaboration",
+        "effects":{}
+    },
+    {
+        "id": 219,
+        "name": "Relief",
+        "effects":{}
+    },
+    {
+        "id": 220,
+        "name": "Level-headed",
+        "effects":{}
+    }
+    ,
+    {
+        "id": 221,
+        "name": "Whirlwind",
+        "effects":{}
+    },
+    {
+        "id": 222,
+        "name": "All-In",
+        "effects":{}
+    },
+    {
+        "id": 223,
+        "name": "Longbeard",
+        "effects":{}
+    },
+    {
+        "id": 224,
+        "name": "Giant Slayer",
+        "effects":{}
+    },
+    {
+        "id": 225,
+        "name": "Attack Vitals",
+        "effects":{}
+    },
+    {
+        "id": 226,
+        "name": "Defensive Stance",
+        "effects":{}
+    },
+    {
+        "id": 227,
+        "name": "Cleave",
+        "effects":{}
+    },
+    {
+        "id": 228,
+        "name": "Riding Excellence",
+        "effects":{}
+    },
+    {
+        "id": 229,
+        "name": "Cripple",
+        "effects":{}
+    },
+    {
+        "id": 230,
+        "name": "Giant Slayer",
+        "effects":{}
+    },
+    {
+        "id": 231,
+        "name": "Frontline Rescue",
+        "effects":{}
+    },
+    {
+        "id": 232,
+        "name": "Nobility",
+        "effects":{}
+    },
+    {
+        "id": 233,
+        "name": "Disarm",
+        "effects":{}
+    },
+    {
+        "id": 234,
+        "name": "Swing",
+        "effects":{}
+    },
+    {
+        "id": 235,
+        "name": "Gallant",
+        "effects":{}
+    },
+    {
+        "id": 236,
+        "name": "Nobility",
+        "effects":{}
+    },
+    {
+        "id": 237,
+        "name": "Collaboration",
+        "effects":{}
+    },
+    {
+        "id": 238,
+        "name": "Defensive Stance",
+        "effects":{}
+    },
+    {
+        "id": 239,
+        "name": "Well-prepared",
+        "effects":{}
+    },
+    {
+        "id": 240,
+        "name": "Lower Defences",
+        "effects":{}
+    },
+    {
+        "id": 241,
+        "name": "Flanking",
+        "effects":{}
+    },
+    {
+        "id": 242,
+        "name": "Rush",
+        "effects":{}
+    },
+    {
+        "id": 243,
+        "name": "Inquisitive",
+        "effects":{}
+    },
+    {
+        "id": 244,
+        "name": "Leader",
+        "effects":{}
+    },
+    {
+        "id": 245,
+        "name": "Armed Escort",
+        "effects":{}
+    },
+    {
+        "id": 246,
+        "name": "Foresight",
+        "effects":{}
+    },
+    {
+        "id": 247,
+        "name": "Gallant",
+        "effects":{}
+    },
+    {
+        "id": 248,
+        "name": "Nobility",
+        "effects":{}
+    },
+    {
+        "id": 249,
+        "name": "Cleave",
+        "effects":{}
+    },
+    {
+        "id": 250,
+        "name": "Gallant",
+        "effects":{}
+    },
+    {
+        "id": 251,
+        "name": "Logistics",
+        "effects":{}
+    },
+    {
+        "id": 252,
+        "name": "March",
+        "effects":{}
+    },
+    {
+        "id": 253,
+        "name": "Reinforcement",
+        "effects":{}
+    },
+    {
+        "id": 254,
+        "name": "Phalanx",
+        "effects":{}
+    },
+    {
+        "id": 255,
+        "name": "Collaboration",
+        "effects":{}
+    },
+    {
+        "id": 256,
+        "name": "Defensive Stance",
+        "effects":{}
     }
 ]

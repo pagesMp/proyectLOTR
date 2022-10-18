@@ -578,193 +578,193 @@
     {
         "id": 96,
         "name": "War Chant",
-        "minorSkills": [],
+        "minorSkills": [193, 194],
         "effects": {}
     },
     {
         "id": 97,
         "name": "Harfoots",
-        "minorSkills": [],
+        "minorSkills": [195, 196],
         "effects": {}
     },
     {
         "id": 98,
         "name": "Hobbit Adventurer",
-        "minorSkills": [],
+        "minorSkills": [197, 198],
         "effects": {}
     },
     {
         "id": 99,
         "name": "Palantír Scryer",
-        "minorSkills": [],
+        "minorSkills": [199, 200],
         "effects": {}
     },
     {
         "id": 100,
         "name": "Clerk",
-        "minorSkills": [],
+        "minorSkills": [201, 202],
         "effects": {}
     },
     {
         "id": 101,
         "name": "Musician",
-        "minorSkills": [],
+        "minorSkills": [203, 204],
         "effects": {}
     },
     {
         "id": 102,
         "name": "Durin's Blood",
-        "minorSkills": [],
+        "minorSkills": [205, 206],
         "effects": {}
     },
     {
         "id": 103,
         "name": "Warrior of the Lonely Mountain",
-        "minorSkills": [],
+        "minorSkills": [207, 208],
         "effects": {}
     },
     {
         "id": 104,
         "name": "Marchwarden of Lórien",
-        "minorSkills": [],
+        "minorSkills": [209, 210],
         "effects": {}
     },
     {
         "id": 105,
         "name": "Guide",
-        "minorSkills": [],
+        "minorSkills": [211, 212],
         "effects": {}
     },
     {
         "id": 106,
         "name": "Silvan Elf",
-        "minorSkills": [],
+        "minorSkills": [213, 214],
         "effects": {}
     },
     {
         "id": 107,
         "name": "Galadhrim",
-        "minorSkills": [],
+        "minorSkills": [215, 216],
         "effects": {}
     },
     {
         "id": 108,
         "name": "Experienced Warrior",
-        "minorSkills": [],
+        "minorSkills": [217, 218],
         "effects": {}
     },
     {
         "id": 109,
         "name": "Musician",
-        "minorSkills": [],
+        "minorSkills": [219, 220],
         "effects": {}
     },
     {
         "id": 110,
         "name": "Durin's Blood",
-        "minorSkills": [],
+        "minorSkills": [221, 222],
         "effects": {}
     },
     {
         "id": 111,
         "name": "Warrior of the Lonely Mountain",
-        "minorSkills": [],
+        "minorSkills": [223, 224],
         "effects": {}
     },
     {
         "id": 112,
         "name": "Shieldmaiden",
-        "minorSkills": [],
+        "minorSkills": [225, 226],
         "effects": {}
     },
     {
         "id": 113,
         "name": "Rohirrim",
-        "minorSkills": [],
+        "minorSkills": [227, 228],
         "effects": {}
     },
     {
         "id": 114,
         "name": "Dernhelm",
-        "minorSkills": [],
+        "minorSkills": [229, 230],
         "effects": {}
     },
     {
         "id": 115,
         "name": "White Lady of Rohan",
-        "minorSkills": [],
+        "minorSkills": [231, 232],
         "effects": {}
     },
     {
         "id": 116,
         "name": "High Warden of the White Tower",
-        "minorSkills": [],
+        "minorSkills": [233, 234],
         "effects": {}
     },
     {
         "id": 117,
         "name": "Heir",
-        "minorSkills": [],
+        "minorSkills": [235, 236],
         "effects": {}
     },
     {
         "id": 118,
         "name": "Warden",
-        "minorSkills": [],
+        "minorSkills": [237, 238],
         "effects": {}
     },
     {
         "id": 119,
         "name": "Horn of Gondor",
-        "minorSkills": [],
+        "minorSkills": [239, 240],
         "effects": {}
     },
     {
         "id": 120,
         "name": "Rangers of Ithilien",
-        "minorSkills": [],
+        "minorSkills": [241, 242],
         "effects": {}
     },
     {
         "id": 121,
         "name": "Last Steward",
-        "minorSkills": [],
+        "minorSkills": [243, 244],
         "effects": {}
     },
     {
         "id": 122,
         "name": "Guide",
-        "minorSkills": [],
+        "minorSkills": [245, 246],
         "effects": {}
     },
     {
         "id": 123,
         "name": "Heir",
-        "minorSkills": [],
+        "minorSkills": [247, 248],
         "effects": {}
     },
     {
         "id": 124,
         "name": "Devotion",
-        "minorSkills": [],
+        "minorSkills": [249, 250],
         "effects": {}
     },
     {
         "id": 125,
         "name": "Herald",
-        "minorSkills": [],
+        "minorSkills": [251, 252],
         "effects": {}
     },
     {
         "id": 126,
         "name": "Red Arrow",
-        "minorSkills": [],
+        "minorSkills": [253, 254],
         "effects": {}
     },
     {
         "id": 127,
         "name": "Warden",
-        "minorSkills": [],
+        "minorSkills": [255, 256],
         "effects": {}
     },
     {
