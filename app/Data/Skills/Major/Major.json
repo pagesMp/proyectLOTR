@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "Persecutor",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 2,
+        "name": "Black Numenorean",
+        "minorSkills": [],
+        "effects": {}
+    }
+]
