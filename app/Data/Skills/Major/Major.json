@@ -218,169 +218,169 @@
     {
         "id": 36,
         "name": "Shadows of the East",
-        "minorSkills": [],
+        "minorSkills": [73, 74],
         "effects": {}
     },
     {
         "id": 37,
         "name": "Second-in-Command",
-        "minorSkills": [],
+        "minorSkills": [75, 76],
         "effects": {}
     },
     {
         "id": 38,
         "name": "Ringwraith",
-        "minorSkills": [],
+        "minorSkills": [77, 78],
         "effects": {}
     },
     {
         "id": 39,
         "name": "The black Easterling",
-        "minorSkills": [],
+        "minorSkills": [79, 80],
         "effects": {}
     },
     {
         "id": 40,
         "name": "Undertaker",
-        "minorSkills": [],
+        "minorSkills": [81, 82],
         "effects": {}
     },
     {
         "id": 41,
-        "name": "Black Numenorean",
-        "minorSkills": [],
+        "name": "Black Númenórean",
+        "minorSkills": [83, 84],
         "effects": {}
     },
     {
         "id": 42,
         "name": "Ringwraith",
-        "minorSkills": [],
+        "minorSkills": [85, 86],
         "effects": {}
     },
     {
         "id": 43,
         "name": "Shape of the Void",
-        "minorSkills": [],
+        "minorSkills": [87, 88],
         "effects": {}
     },
     {
         "id": 44,
         "name": "Pursuer",
-        "minorSkills": [],
+        "minorSkills": [89, 90],
         "effects": {}
     },
     {
         "id": 45,
         "name": "Uruk-hai Elite",
-        "minorSkills": [],
+        "minorSkills": [91, 92],
         "effects": {}
     },
     {
         "id": 46,
         "name": "Uruk-hai First-born",
-        "minorSkills": [],
+        "minorSkills": [93, 94],
         "effects": {}
     },
     {
         "id": 47,
         "name": "The White Hand",
-        "minorSkills": [],
+        "minorSkills": [95, 96],
         "effects": {}
     },
     {
         "id": 48,
         "name": "Pursuer",
-        "minorSkills": [],
+        "minorSkills": [97, 98],
         "effects": {}
     },
     {
         "id": 49,
         "name": "Uruk-hai Elite",
-        "minorSkills": [],
+        "minorSkills": [99, 100],
         "effects": {}
     },
     {
         "id": 50,
         "name": "Outlaw",
-        "minorSkills": [],
+        "minorSkills": [101, 102],
         "effects": {}
     },
     {
         "id": 51,
         "name": "The White Hand",
-        "minorSkills": [],
+        "minorSkills": [103, 104],
         "effects": {}
     },
     {
         "id": 52,
         "name": "Assassin",
-        "minorSkills": [],
+        "minorSkills": [105, 106],
         "effects": {}
     },
     {
         "id": 53,
         "name": "Warband Leader",
-        "minorSkills": [],
+        "minorSkills": [107, 108],
         "effects": {}
     },
     {
         "id": 54,
         "name": "Survivor",
-        "minorSkills": [],
+        "minorSkills": [109, 110],
         "effects": {}
     },
     {
         "id": 55,
         "name": "Interrogator",
-        "minorSkills": [],
+        "minorSkills": [111, 112],
         "effects": {}
     },
     {
         "id": 56,
         "name": "Raider",
-        "minorSkills": [],
+        "minorSkills": [113, 114],
         "effects": {}
     },
     {
         "id": 57,
         "name": "Warship Capitan",
-        "minorSkills": [],
+        "minorSkills": [115, 116],
         "effects": {}
     },
     {
         "id": 58,
         "name": "Conspirator",
-        "minorSkills": [],
+        "minorSkills": [117, 118],
         "effects": {}
     },
     {
         "id": 59,
         "name": "Corsair of Umbar",
-        "minorSkills": [],
+        "minorSkills": [119, 120],
         "effects": {}
     },
     {
         "id": 60,
         "name": "Black Númenórean",
-        "minorSkills": [],
+        "minorSkills": [121, 122],
         "effects": {}
     },
     {
         "id": 61,
         "name": "Harbinger of Darkness",
-        "minorSkills": [],
+        "minorSkills": [123, 124],
         "effects": {}
     },
     {
         "id": 62,
         "name": "Messenger",
-        "minorSkills": [],
+        "minorSkills": [125, 126],
         "effects": {}
     },
     {
         "id": 63,
         "name": "Lieutenant of Barad-dûr",
-        "minorSkills": [],
+        "minorSkills": [127, 128],
         "effects": {}
     },
     {
