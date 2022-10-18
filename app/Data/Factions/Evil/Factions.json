@@ -1,0 +1,38 @@
+[
+    {
+        "id": 5,
+        "name": "Angmar",
+        "alignment": "Evil",
+        "firstCommander": 39
+    },
+    {
+        "id": 8,
+        "name": "Rhun",
+        "alignment": "Evil",
+        "firstCommander": 37
+    },
+    {
+        "id": 9,
+        "name": "Mordor",
+        "alignment": "Evil",
+        "firstCommander": 38
+    },
+    {
+        "id": 10,
+        "name": "Isengard",
+        "alignment": "Evil",
+        "firstCommander": 41
+    },
+    {
+        "id": 11,
+        "name": "Variags",
+        "alignment": "Evil",
+        "firstCommander": 37
+    },
+    {
+        "id": 12,
+        "name": "Gundabad",
+        "alignment": "Evil",
+        "firstCommander": 39
+    }
+]

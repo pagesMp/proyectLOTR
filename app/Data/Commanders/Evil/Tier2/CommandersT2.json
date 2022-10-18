@@ -1,6 +1,6 @@
 [
     {
-        "id": 1,
+        "id": 46,
         "name": "Grishnakh",
         "alignment": "Evil",
         "tier": 2,
@@ -23,7 +23,7 @@
         }
     },
     {
-        "id": 2,
+        "id": 47,
         "name": "Khamul",
         "alignment": "Evil",
         "tier": 2,
@@ -46,7 +46,7 @@
         }
     },
     {
-        "id": 3,
+        "id": 48,
         "name": "Azru-Khor",
         "alignment": "Evil",
         "tier": 2,
@@ -69,7 +69,7 @@
         }
     },
     {
-        "id": 4,
+        "id": 49,
         "name": "The Shadow",
         "alignment": "Evil",
         "tier": 2,
@@ -92,7 +92,7 @@
         }
     },
     {
-        "id": 5,
+        "id": 50,
         "name": "Lurtz",
         "alignment": "Evil",
         "tier": 2,
@@ -115,7 +115,7 @@
         }
     },
     {
-        "id": 6,
+        "id": 51,
         "name": "Ugluck",
         "alignment": "Evil",
         "tier": 2,
@@ -138,7 +138,7 @@
         }
     },
     {
-        "id": 7,
+        "id": 52,
         "name": "Mouth of Sauron",
         "alignment": "Evil",
         "tier": 2,
@@ -161,7 +161,7 @@
         }
     },
     {
-        "id": 8,
+        "id": 53,
         "name": "Gothmog",
         "alignment": "Evil",
         "tier": 2,
@@ -184,7 +184,7 @@
         }
     },
     {
-        "id": 9,
+        "id": 54,
         "name": "Qurwan",
         "alignment": "Evil",
         "tier": 2,

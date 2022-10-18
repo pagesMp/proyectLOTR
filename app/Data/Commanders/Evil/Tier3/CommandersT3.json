@@ -1,6 +1,6 @@
 [
     {   
-        "id": 1,
+        "id": 55,
         "name": "Black Serpent",
         "alignment": "Evil",
         "tier": 3,
@@ -23,7 +23,7 @@
         }
     },
     {   
-        "id": 2,
+        "id": 56,
         "name": "Kirun",
         "alignment": "Evil",
         "tier": 3,
@@ -46,7 +46,7 @@
         }
     },    
     {   
-        "id": 3,
+        "id": 57,
         "name": "Saruman",
         "alignment": "Evil",
         "race": "Maiar",
@@ -68,7 +68,7 @@
         }
     },
     {   
-        "id": 4,
+        "id": 58,
         "name": "Sauron",
         "alignment": "Evil",
         "race": "Maiar",
@@ -90,7 +90,7 @@
         }
     },
     {   
-        "id": 5,
+        "id": 59,
         "name": "Witch-king",
         "alignment": "Evil",
         "race": "Undead",
@@ -112,7 +112,7 @@
         }
     },
     {
-        "id": 6,
+        "id": 60,
         "name": "The Undying",
         "alignment": "Evil",
         "race": "Undead",
