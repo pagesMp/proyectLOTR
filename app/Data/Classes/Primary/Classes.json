@@ -9,7 +9,7 @@
                 "amount": 25
             },
             {
-                "targetType": "Skill Point(s)",
+                "targetType": "SkillPoints",
                 "targetScope": "Commander",
                 "amount": 2
             },
@@ -41,7 +41,7 @@
                 "amount": 25
             },
             {
-                "targetType": "Skill Point(s)",
+                "targetType": "SkillPoints",
                 "targetScope": "Commander",
                 "amount": 2
             }
@@ -49,14 +49,6 @@
     },
     {
         "id": 3,
-        "name": "Tip Master"
-    },
-    {
-        "id": 4,
-        "name": "Special"
-    },
-    {
-        "id": 5,
         "name": "Leader",
         "effects": [
             {
@@ -67,7 +59,7 @@
         ]
     },
     {
-        "id": 6,
+        "id": 4,
         "name": "Support",
         "effects": [
             {
@@ -76,22 +68,14 @@
                 "amount": 25
             },
             {
-                "targetType": "Skill Point(s)",
+                "targetType": "SkillPoints",
                 "targetScope": "Commander",
                 "amount": 5
             }
         ]
     },
     {
-        "id": 7,
-        "name": "Control"
-    },
-    {
-        "id": 8,
-        "name": "Heal"
-    },
-    {
-        "id": 9,
+        "id": 5,
         "name": "Strategist",
         "effects": [
             {
@@ -114,18 +98,10 @@
                 "units": "percent"
             },
             {
-                "targetType": "Skill Point(s)",
+                "targetType": "SkillPoints",
                 "targetScope": "Commander",
                 "amount": 2
             }
         ]
-    },
-    {
-        "id": 10,
-        "name": "Poison"
-    },
-    {
-        "id": 11,
-        "name": "Burn"
     }
 ]
