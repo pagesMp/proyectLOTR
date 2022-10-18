@@ -199,4 +199,162 @@
         "name": "Corrupting Curse",
         "effects":{}
     },
+    {
+        "id": 41,
+        "name": "Deepen Wounds",
+        "effects":{}
+    },
+    {
+        "id": 42,
+        "name": "Overwhelm",
+        "effects":{}
+    },
+    {
+        "id": 43,
+        "name": "Scorch",
+        "effects":{}
+    },
+    {
+        "id": 44,
+        "name": "Brawler",
+        "effects":{}
+    },
+    {
+        "id": 45,
+        "name": "Uruk-hai Captain",
+        "effects":{}
+    },
+    {
+        "id": 46,
+        "name": "Dangerous Trade",
+        "effects":{}
+    },
+    {
+        "id": 47,
+        "name": "Battering Ram",
+        "effects":{}
+    },
+    {
+        "id": 48,
+        "name": "Orcish Warlord",
+        "effects":{}
+    },
+    {
+        "id": 49,
+        "name": "Deepen Wounds",
+        "effects":{}
+    },
+    {
+        "id": 50,
+        "name": "Overwhelm",
+        "effects":{}
+    },
+    {
+        "id": 51,
+        "name": "Evile Alliance",
+        "effects":{}
+    },
+    {
+        "id": 52,
+        "name": "Iron Guard",
+        "effects":{}
+    },
+    {
+        "id": 53,
+        "name": "Laceration",
+        "effects":{}
+    },
+    {
+        "id": 54,
+        "name": "Restrain",
+        "effects":{}
+    },
+    {
+        "id": 55,
+        "name": "Warg Healing",
+        "effects":{}
+    },
+    {
+        "id": 56,
+        "name": "Beast Taming",
+        "effects":{}
+    },
+    {
+        "id": 57,
+        "name": "Hunt Down",
+        "effects":{}
+    },
+    {
+        "id": 58,
+        "name": "Collaboration",
+        "effects":{}
+    },
+    {
+        "id": 59,
+        "name": "Evile Alliance",
+        "effects":{}
+    },
+    {
+        "id": 60,
+        "name": "Iron Guard",
+        "effects":{}
+    },
+    {
+        "id": 61,
+        "name": "Envenom",
+        "effects":{}
+    },
+    {
+        "id": 62,
+        "name": "Brawler",
+        "effects":{}
+    },
+    {
+        "id": 63,
+        "name": "Tribal Tactics",
+        "effects":{}
+    },
+    {
+        "id": 64,
+        "name": "Quicksand",
+        "effects":{}
+    },
+    {
+        "id": 65,
+        "name": "Hunt Down",
+        "effects":{}
+    },
+    {
+        "id": 66,
+        "name": "Collaboration",
+        "effects":{}
+    },{
+        "id": 67,
+        "name": "Logistics",
+        "effects":{}
+    },
+    {
+        "id": 68,
+        "name": "Collector",
+        "effects":{}
+    },
+    {
+        "id": 69,
+        "name": "Evile Alliance",
+        "effects":{}
+    },
+    {
+        "id": 70,
+        "name": "Iron Guard",
+        "effects":{}
+    },{
+        "id": 71,
+        "name": "Laceration",
+        "effects":{}
+    },
+    {
+        "id": 72,
+        "name": "Restrain",
+        "effects":{}
+    },
 ]

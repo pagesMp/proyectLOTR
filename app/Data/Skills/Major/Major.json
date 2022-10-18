@@ -122,91 +122,97 @@
     {
         "id": 21,
         "name": "Pursuer",
-        "minorSkills": [],
+        "minorSkills": [41, 42],
         "effects": {}
     },
     {
         "id": 22,
         "name": "Searing Axe",
-        "minorSkills": [],
+        "minorSkills": [43, 44],
         "effects": {}
     },
     {
         "id": 23,
         "name": "Uruk-hai Elite",
-        "minorSkills": [],
+        "minorSkills": [45, 46],
         "effects": {}
     },
     {
         "id": 24,
         "name": "Warlord",
-        "minorSkills": [],
+        "minorSkills": [47, 48],
         "effects": {}
     },
     {
         "id": 25,
         "name": "Pursuer",
-        "minorSkills": [],
+        "minorSkills": [49, 50],
         "effects": {}
     },
     {
         "id": 26,
         "name": "Easterling",
-        "minorSkills": [],
+        "minorSkills": [51, 52],
         "effects": {}
     },
     {
         "id": 27,
         "name": "Interrogator",
-        "minorSkills": [],
+        "minorSkills": [53, 54],
         "effects": {}
     },
     {
         "id": 28,
         "name": "Warg Trainer",
-        "minorSkills": [],
+        "minorSkills": [55, 56],
         "effects": {}
     },
     {
         "id": 29,
         "name": "Experienced Warrior",
-        "minorSkills": [],
+        "minorSkills": [57, 58],
+        "effects": {}
+    },
+    {
+        "id": 240,
+        "name": "Easterling",
+        "minorSkills": [59, 60],
         "effects": {}
     },
     {
         "id": 30,
         "name": "Speardancer",
-        "minorSkills": [],
+        "minorSkills": [61, 62],
         "effects": {}
     },
     {
         "id": 31,
-        "name": "Marshañ of the East-Mark",
-        "minorSkills": [],
+        "name": "Marshal of the East-Mark",
+        "minorSkills": [63, 64],
         "effects": {}
     },
     {
         "id": 32,
         "name": "Experienced Warrior",
-        "minorSkills": [],
+        "minorSkills": [65, 66],
         "effects": {}
     },
     {
         "id": 33,
         "name": "Warband Leader",
-        "minorSkills": [],
+        "minorSkills": [67, 68],
         "effects": {}
     },
     {
         "id": 34,
         "name": "Easterling",
-        "minorSkills": [],
+        "minorSkills": [69, 70],
         "effects": {}
     },
     {
         "id": 35,
         "name": "Interrogator",
-        "minorSkills": [],
+        "minorSkills": [71, 72],
         "effects": {}
     },
     {
