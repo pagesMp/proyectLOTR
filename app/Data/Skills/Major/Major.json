@@ -74,25 +74,25 @@
     {
         "id": 13,
         "name": "The Reckless",
-        "minorSkills": [],
+        "minorSkills": [25, 26],
         "effects": {}
     },
     {
         "id": 14,
         "name": "Captor",
-        "minorSkills": [],
+        "minorSkills": [27, 28],
         "effects": {}
     },
     {
         "id": 15,
         "name": "Watchman of Cirith Ungol",
-        "minorSkills": [],
+        "minorSkills": [29, 30],
         "effects": {}
     },
     {
         "id": 16,
         "name": "Cirith Ungol Garrison",
-        "minorSkills": [],
+        "minorSkills": [31, 32],
         "effects": {}
     },
     {

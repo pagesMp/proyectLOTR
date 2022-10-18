@@ -119,4 +119,44 @@
         "name": "Lower Defences",
         "effects":{}
     },
+    {
+        "id": 25,
+        "name": "Break Defences",
+        "effects":{}
+    },
+    {
+        "id": 26,
+        "name": "Topple",
+        "effects":{}
+    },
+    {
+        "id": 27,
+        "name": "Heavily Wounded",
+        "effects":{}
+    },
+    {
+        "id": 28,
+        "name": "Laceration",
+        "effects":{}
+    },
+    {
+        "id": 29,
+        "name": "Enrage",
+        "effects":{}
+    },
+    {
+        "id": 30,
+        "name": "Corruption Curse",
+        "effects":{}
+    },
+    {
+        "id": 31,
+        "name": "Uruk-hai Captain",
+        "effects":{}
+    },
+    {
+        "id": 32,
+        "name": "Discipline",
+        "effects":{}
+    },
 ]
