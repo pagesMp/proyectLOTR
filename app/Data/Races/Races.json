@@ -1,12 +1,52 @@
 [
-    "Dwarves",
-    "Elves",
-    "Evil Men",
-    "Hobbits",
-    "Maiar",
-    "Men",
-    "Orcs",
-    "Undead",
-    "Uruk-hai",
-    "Ents"
+    {
+        "id": 1,
+        "name": "Dwarves",
+        "alignment": ["Good"]
+    },
+    {
+        "id": 2,
+        "name": "Elves",
+        "alignment": ["Good"]
+    },
+    {
+        "id": 3,
+        "name": "Evil Men",
+        "alignment": ["Evil"]
+    },
+    {
+        "id": 4,
+        "name": "Hobbits",
+        "alignment": ["Good"]
+    },
+    {
+        "id": 5,
+        "name": "Maiar",
+        "alignment": ["Good", "Evil"]
+    },
+    {
+        "id": 6,
+        "name": "Men",
+        "alignment": ["Good", "Evil"]
+    },
+    {
+        "id": 7,
+        "name": "Orcs",
+        "alignment": ["Evil"]
+    },
+    {
+        "id": 8,
+        "name": "Undead",
+        "alignment": ["Evil"]
+    },
+    {
+        "id": 9,
+        "name": "Uruk-hai",
+        "alignment": ["Evil"]
+    },
+    {
+        "id": 10,
+        "name": "Ents",
+        "alignment": ["Good"]
+    }
 ]
