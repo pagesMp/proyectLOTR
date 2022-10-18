@@ -328,7 +328,8 @@
         "id": 66,
         "name": "Collaboration",
         "effects":{}
-    },{
+    },
+    {
         "id": 67,
         "name": "Logistics",
         "effects":{}
@@ -347,7 +348,8 @@
         "id": 70,
         "name": "Iron Guard",
         "effects":{}
-    },{
+    },
+    {
         "id": 71,
         "name": "Laceration",
         "effects":{}
@@ -357,4 +359,284 @@
         "name": "Restrain",
         "effects":{}
     },
+    {
+        "id": 73,
+        "name": "Poison Damage",
+        "effects":{}
+    },
+    {
+        "id": 74,
+        "name": "Dreadful Presence",
+        "effects":{}
+    },
+    {
+        "id": 75,
+        "name": "Discipline",
+        "effects":{}
+    },
+    {
+        "id": 76,
+        "name": "Anticipation",
+        "effects":{}
+    },
+    {
+        "id": 77,
+        "name": "Morgul Poison",
+        "effects":{}
+    },
+    {
+        "id": 78,
+        "name": "Nazgûl Screech",
+        "effects":{}
+    },
+    {
+        "id": 79,
+        "name": "Hamstring",
+        "effects":{}
+    },
+    {
+        "id": 80,
+        "name": "Black Rider",
+        "effects":{}
+    },
+    {
+        "id": 81,
+        "name": "Delayed Plague",
+        "effects":{}
+    },
+    {
+        "id": 82,
+        "name": "Plague",
+        "effects":{}
+    },
+    {
+        "id": 83,
+        "name": "Dark Mantle",
+        "effects":{}
+    },
+    {
+        "id": 84,
+        "name": "Black Arts",
+        "effects":{}
+    },
+    {
+        "id": 85,
+        "name": "Morgul Poison",
+        "effects":{}
+    },
+    {
+        "id": 86,
+        "name": "Nazgûl Screech",
+        "effects":{}
+    },
+    {
+        "id": 87,
+        "name": "Detect Weakness",
+        "effects":{}
+    },
+    {
+        "id": 88,
+        "name": "Lower Defences",
+        "effects":{}
+    },
+    {
+        "id": 89,
+        "name": "Deepen Wounds",
+        "effects":{}
+    },
+    {
+        "id": 90,
+        "name": "Overwhelm",
+        "effects":{}
+    },
+    {
+        "id": 91,
+        "name": "Uruk-hai Captain",
+        "effects":{}
+    },
+    {
+        "id": 92,
+        "name": "Dangerous Trade",
+        "effects":{}
+    },
+    {
+        "id": 93,
+        "name": "Raid",
+        "effects":{}
+    },
+    {
+        "id": 94,
+        "name": "Rush",
+        "effects":{}
+    },
+    {
+        "id": 95,
+        "name": "Untiring",
+        "effects":{}
+    },
+    {
+        "id": 96,
+        "name": "Survival Barrier",
+        "effects":{}
+    },
+    {
+        "id": 97,
+        "name": "Deepen Wounds",
+        "effects":{}
+    },
+    {
+        "id": 98,
+        "name": "Overwhelm",
+        "effects":{}
+    },
+    {
+        "id": 99,
+        "name": "Uruk-hai Captain",
+        "effects":{}
+    },
+    {
+        "id": 100,
+        "name": "Dangerous Trade",
+        "effects":{}
+    },
+    {
+        "id": 101,
+        "name": "Brawler",
+        "effects":{}
+    },
+    {
+        "id": 102,
+        "name": "Cripple",
+        "effects":{}
+    },
+    {
+        "id": 103,
+        "name": "Untiring",
+        "effects":{}
+    },
+    {
+        "id": 104,
+        "name": "Survival Barrier",
+        "effects":{}
+    },
+    {
+        "id": 105,
+        "name": "Plague",
+        "effects":{}
+    },
+    {
+        "id": 106,
+        "name": "Corrupting Curse",
+        "effects":{}
+    },
+    {
+        "id": 107,
+        "name": "Logistics",
+        "effects":{}
+    },
+    {
+        "id": 108,
+        "name": "Collector",
+        "effects":{}
+    },
+    {
+        "id": 109,
+        "name": "Deftness",
+        "effects":{}
+    },
+    {
+        "id": 110,
+        "name": "Prudence",
+        "effects":{}
+    },
+    {
+        "id": 111,
+        "name": "Laceration",
+        "effects":{}
+    },
+    {
+        "id": 112,
+        "name": "Restrain",
+        "effects":{}
+    },    
+    {
+        "id": 113,
+        "name": "Poweder Keg",
+        "effects":{}
+    },
+    {
+        "id": 114,
+        "name": "Fuel Oil",
+        "effects":{}
+    },
+    {
+        "id": 115,
+        "name": "Discipline",
+        "effects":{}
+    },
+    {
+        "id": 116,
+        "name": "Clear-Headed",
+        "effects":{}
+    },
+    {
+        "id": 117,
+        "name": "Treason",
+        "effects":{}
+    },
+    {
+        "id": 118,
+        "name": "Trickery",
+        "effects":{}
+    },
+    {
+        "id": 119,
+        "name": "Logistics",
+        "effects":{}
+    },
+    {
+        "id": 120,
+        "name": "Evile Alliance",
+        "effects":{}
+    },
+    {
+        "id": 121,
+        "name": "Dark Mantle",
+        "effects":{}
+    },
+    {
+        "id": 122,
+        "name": "Black Arts",
+        "effects":{}
+    },
+    {
+        "id": 123,
+        "name": "Master of Mischief",
+        "effects":{}
+    },
+    {
+        "id": 124,
+        "name": "Enfeeble",
+        "effects":{}
+    },
+    {
+        "id": 125,
+        "name": "Shutdown",
+        "effects":{}
+    },
+    {
+        "id": 126,
+        "name": "Disruption",
+        "effects":{}
+    },
+    {
+        "id": 127,
+        "name": "Orcish Warlord",
+        "effects":{}
+    },
+    {
+        "id": 128,
+        "name": "Dishearten",
+        "effects":{}
+    }
 ]
