@@ -1,0 +1,301 @@
+[
+    {
+        "id": 1,
+        "name": "Elrond",
+        "alignment": "Good",
+        "tier": 3,
+        "race": "Elves",
+        "classes": [6, 8],
+        "skills": [],
+        "stats": {
+            "might": {
+                "base": 94,
+                "rate": 1.88
+            },
+            "focus": {
+                "base": 99,
+                "rate": 1.98
+            },
+            "speed": {
+                "base": 85,
+                "rate": 1.23
+            }
+        }
+    },    
+    {
+        "id": 2,
+        "name": "Gandalf the White",
+        "alignment": "Good",
+        "tier": 3,
+        "race": "Maiar",
+        "classes": [9, 7],
+        "skills": [],
+        "stats": {
+            "might": {
+                "base": 80,
+                "rate": 1.15
+            },
+            "focus": {
+                "base": 109,
+                "rate": 2.8
+            },
+            "speed": {
+                "base": 81,
+                "rate": 1.32
+            }
+        }
+    },
+    {   
+        "id": 3,
+        "name": "Dain Ironfoot",
+        "alignment": "Good",
+        "tier": 3,
+        "race": "Dwarves",
+        "classes": [2, 7],
+        "skills": [],
+        "stats": {
+            "might": {
+                "base": 105,
+                "rate": 2.7
+            },
+            "focus": {
+                "base": 45,
+                "rate": 0.57
+            },
+            "speed": {
+                "base": 37,
+                "rate": 0.74
+            }
+        }
+    },
+    {   
+        "id": 4,
+        "name": "Galadriel",
+        "alignment": "Good",
+        "tier": 3,
+        "race": "Elves",
+        "classes": [9, 8],
+        "skills": [],
+        "stats": {
+            "might": {
+                "base": 60,
+                "rate": 0.69
+            },
+            "focus": {
+                "base": 137,
+                "rate": 3.11
+            },
+            "speed": {
+                "base": 41,
+                "rate": 0.84
+            }
+        }
+    },
+    {   
+        "id": 5,
+        "name": "Thranduil",
+        "alignment": "Good",
+        "tier": 3,
+        "race": "Elves",
+        "classes": [5, 4],
+        "skills": [],
+        "stats": {
+            "might": {
+                "base": 128,
+                "rate": 1.84
+            },
+            "focus": {
+                "base": 107,
+                "rate": 1.32
+            },
+            "speed": {
+                "base": 123,
+                "rate": 1.76
+            }
+        }
+    },
+    {
+        "id": 6,
+        "name": "Gil-galad",
+        "alignment": "Good",
+        "tier": 3,
+        "race": "Elves",
+        "classes": [5, 4],
+        "skills": [],
+        "stats": {
+            "might": {
+                "base": 102,
+                "rate": 1.9
+            },
+            "focus": {
+                "base": 100,
+                "rate": 2.02
+            },
+            "speed": {
+                "base": 79,
+                "rate": 1.08
+            }
+        }
+    },
+    {
+        "id": 7,
+        "name": "Cirdan",
+        "alignment": "Good",
+        "tier": 3,
+        "race": "Men",
+        "classes": [5, 6],
+        "skills": [],
+        "stats": {
+            "might": {
+                "base": 85,
+                "rate": 0
+            },
+            "focus": {
+                "base": 110,
+                "rate": 0
+            },
+            "speed": {
+                "base": 108,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 8,
+        "name": "Radagast the Brown",
+        "alignment": "Good",
+        "tier": 3,
+        "race": "Maiar",
+        "classes": [6, 8],
+        "skills": [],
+        "stats": {
+            "might": {
+                "base": 58,
+                "rate": 0
+            },
+            "focus": {
+                "base": 103,
+                "rate": 0
+            },
+            "speed": {
+                "base": 110,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 9,
+        "name": "Thorin",
+        "alignment": "Good",
+        "tier": 3,
+        "race": "Dwarves",
+        "classes": [5, 6],
+        "skills": [],
+        "stats": {
+            "might": {
+                "base": 125,
+                "rate": 2.45
+            },
+            "focus": {
+                "base": 102,
+                "rate": 1.36
+            },
+            "speed": {
+                "base": 89,
+                "rate": 1.27
+            }
+        }
+    },
+    {
+        "id": 10,
+        "name": "Treebeard",
+        "alignment": "Good",
+        "tier": 3,
+        "race": "Ents",
+        "classes": [2, 7],
+        "skills": [],
+        "stats": {
+            "might": {
+                "base": 150,
+                "rate": 0
+            },
+            "focus": {
+                "base": 88,
+                "rate": 0
+            },
+            "speed": {
+                "base": 10,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 11,
+        "name": "King of the Dead",
+        "alignment": ["Good","Evil"],
+        "tier": 3,
+        "race": "Undead",
+        "classes": [5, 7],
+        "skills": [],
+        "stats": {
+            "might": {
+                "base": 81,
+                "rate": 0
+            },
+            "focus": {
+                "base": 81,
+                "rate": 0
+            },
+            "speed": {
+                "base": 85,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 12,
+        "name": "Aragorn II, King of Men",
+        "alignment": "Good",
+        "tier": 3,
+        "race": "Men",
+        "classes": [5, 8],
+        "skills": [],
+        "stats": {
+            "might": {
+                "base": 99,
+                "rate": 0
+            },
+            "focus": {
+                "base": 83,
+                "rate": 0
+            },
+            "speed": {
+                "base": 91,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 13,
+        "name": "Isildur",
+        "alignment": "Good",
+        "tier": 3,
+        "race": "Men",
+        "classes": [5, 7],
+        "skills": [],
+        "stats": {
+            "might": {
+                "base": 92,
+                "rate": 0
+            },
+            "focus": {
+                "base": 70,
+                "rate": 0
+            },
+            "speed": {
+                "base": 85,
+                "rate": 0
+            }
+        }
+    }
+]

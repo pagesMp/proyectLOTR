@@ -1,0 +1,136 @@
+[
+    {   
+        "id": 1,
+        "name": "Black Serpent",
+        "alignment": "Evil",
+        "tier": 3,
+        "race": "Evil Men",
+        "classes": [9, 11],
+        "skills": [],
+        "stats": {
+            "might": {
+                "base": 85,
+                "rate": 1.07
+            },
+            "focus": {
+                "base": 91,
+                "rate": 2
+            },
+            "speed": {
+                "base": 86,
+                "rate": 1.72
+            }
+        }
+    },
+    {   
+        "id": 2,
+        "name": "Kirun",
+        "alignment": "Evil",
+        "tier": 3,
+        "race": "Evil Men",
+        "classes": [5, 8],
+        "skills": [],
+        "stats": {
+            "might": {
+                "base": 91,
+                "rate": 1.82
+            },
+            "focus": {
+                "base": 85,
+                "rate": 1.86
+            },
+            "speed": {
+                "base": 57,
+                "rate": 0.82
+            }
+        }
+    },    
+    {   
+        "id": 3,
+        "name": "Saruman",
+        "alignment": "Evil",
+        "race": "Maiar",
+        "classes": [2, 7],
+        "skills": [],
+        "stats": {
+            "might": {
+                "base": 75,
+                "rate": 1.08
+            },
+            "focus": {
+                "base": 108,
+                "rate": 2.77
+            },
+            "speed": {
+                "base": 45,
+                "rate":  0.57
+            }
+        }
+    },
+    {   
+        "id": 4,
+        "name": "Sauron",
+        "alignment": "Evil",
+        "race": "Maiar",
+        "classes": [9, 7],
+        "skills": [],
+        "stats": {
+            "might": {
+                "base": 120,
+                "rate": 3.3
+            },
+            "focus": {
+                "base": 105,
+                "rate": 2.5
+            },
+            "speed": {
+                "base": 80,
+                "rate": 2.05
+            }
+        }
+    },
+    {   
+        "id": 5,
+        "name": "Witch-king",
+        "alignment": "Evil",
+        "race": "Undead",
+        "classes": [5, 6],
+        "skills": [],
+        "stats": {
+            "might": {
+                "base": 103,
+                "rate": 0
+            },
+            "focus": {
+                "base": 92,
+                "rate": 0
+            },
+            "speed": {
+                "base": 105,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 6,
+        "name": "The Undying",
+        "alignment": "Evil",
+        "race": "Undead",
+        "classes": [6, 10],
+        "skills": [],
+        "stats": {
+            "might": {
+                "base": 100,
+                "rate": 0
+            },
+            "focus": {
+                "base": 65,
+                "rate": 0
+            },
+            "speed": {
+                "base": 58,
+                "rate": 0
+            }
+        }
+    }
+]

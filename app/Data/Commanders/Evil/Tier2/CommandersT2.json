@@ -1,0 +1,209 @@
+[
+    {
+        "id": 1,
+        "name": "Grishnakh",
+        "alignment": "Evil",
+        "tier": 2,
+        "race": "Orcs",
+        "classes": [6, 3],
+        "skills": [],
+        "stats": {
+            "might": {
+                "base": 45,
+                "rate": 0.57
+            },
+            "focus": {
+                "base": 88,
+                "rate": 1.76
+            },
+            "speed": {
+                "base": 83,
+                "rate": 1.66
+            }
+        }
+    },
+    {
+        "id": 2,
+        "name": "Khamul",
+        "alignment": "Evil",
+        "tier": 2,
+        "race": "Undead",
+        "classes": [9],
+        "skills": [],
+        "stats": {
+            "might": {
+                "base": 97,
+                "rate": 2.13
+            },
+            "focus": {
+                "base": 72,
+                "rate": 0.9
+            },
+            "speed": {
+                "base": 95,
+                "rate": 1.37
+            }
+        }
+    },
+    {
+        "id": 3,
+        "name": "Azru-Khor",
+        "alignment": "Evil",
+        "tier": 2,
+        "race": "Evil Men",
+        "classes": [6, 4],
+        "skills": [],
+        "stats": {
+            "might": {
+                "base": 82,
+                "rate": 1.49
+            },
+            "focus": {
+                "base": 82,
+                "rate": 1.49
+            },
+            "speed": {
+                "base": 82,
+                "rate": 1.49
+            }
+        }
+    },
+    {
+        "id": 4,
+        "name": "The Shadow",
+        "alignment": "Evil",
+        "tier": 2,
+        "race": "Undead",
+        "classes": [9, 10],
+        "skills": [],
+        "stats": {
+            "might": {
+                "base": 97,
+                "rate": 0
+            },
+            "focus": {
+                "base": 89,
+                "rate": 0
+            },
+            "speed": {
+                "base": 78,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 5,
+        "name": "Lurtz",
+        "alignment": "Evil",
+        "tier": 2,
+        "race": "Uruk-hai",
+        "classes": [1, 6 ],
+        "skills": [],
+        "stats": {
+            "might": {
+                "base": 104,
+                "rate": 0
+            },
+            "focus": {
+                "base": 31,
+                "rate": 0
+            },
+            "speed": {
+                "base": 75,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 6,
+        "name": "Ugluck",
+        "alignment": "Evil",
+        "tier": 2,
+        "race": "Uruk-hai",
+        "classes": [1, 6],
+        "skills": [],
+        "stats": {
+            "might": {
+                "base": 93,
+                "rate": 0
+            },
+            "focus": {
+                "base": 32,
+                "rate": 0
+            },
+            "speed": {
+                "base": 45,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 7,
+        "name": "Mouth of Sauron",
+        "alignment": "Evil",
+        "tier": 2,
+        "race": "Evil Men",
+        "classes": [2, 6],
+        "skills": [],
+        "stats": {
+            "might": {
+                "base": 38,
+                "rate": 0.48
+            },
+            "focus": {
+                "base": 100,
+                "rate": 2.19
+            },
+            "speed": {
+                "base": 81,
+                "rate": 1.78
+            }
+        }
+    },
+    {
+        "id": 8,
+        "name": "Gothmog",
+        "alignment": "Evil",
+        "tier": 2,
+        "race": "Orcs",
+        "classes": [5, 6],
+        "skills": [],
+        "stats": {
+            "might": {
+                "base": 78,
+                "rate": 0
+            },
+            "focus": {
+                "base": 93,
+                "rate": 0
+            },
+            "speed": {
+                "base": 51,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 9,
+        "name": "Qurwan",
+        "alignment": "Evil",
+        "tier": 2,
+        "race": "Undead",
+        "classes": [6],
+        "skills": [],
+        "stats": {
+            "might": {
+                "base": 89,
+                "rate": 0
+            },
+            "focus": {
+                "base": 88,
+                "rate": 0
+            },
+            "speed": {
+                "base": 45,
+                "rate": 0
+            }
+        }
+    }
+]
