@@ -98,25 +98,25 @@
     {
         "id": 17,
         "name": "Interrogator",
-        "minorSkills": [],
+        "minorSkills": [33, 34],
         "effects": {}
     },
     {
         "id": 18,
         "name": "Old Orc",
-        "minorSkills": [],
+        "minorSkills": [35, 36],
         "effects": {}
     },
     {
         "id": 19,
         "name": "Grey Leader",
-        "minorSkills": [],
+        "minorSkills": [37, 38],
         "effects": {}
     },
     {
         "id": 20,
         "name": "Watchman of Cirith Ungol",
-        "minorSkills": [],
+        "minorSkills": [39, 40],
         "effects": {}
     },
     {

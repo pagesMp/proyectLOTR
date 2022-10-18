@@ -159,4 +159,44 @@
         "name": "Discipline",
         "effects":{}
     },
+    {
+        "id": 33,
+        "name": "Laceration",
+        "effects":{}
+    },
+    {
+        "id": 34,
+        "name": "Restrain",
+        "effects":{}
+    },
+    {
+        "id": 35,
+        "name": "Clear-Headed",
+        "effects":{}
+    },
+    {
+        "id": 36,
+        "name": "Dress Wounds",
+        "effects":{}
+    },
+    {
+        "id": 37,
+        "name": "Orcish Warlord",
+        "effects":{}
+    },
+    {
+        "id": 38,
+        "name": "March",
+        "effects":{}
+    },
+    {
+        "id": 39,
+        "name": "Enrage",
+        "effects":{}
+    },
+    {
+        "id": 40,
+        "name": "Corrupting Curse",
+        "effects":{}
+    },
 ]
