@@ -770,217 +770,217 @@
     {
         "id": 128,
         "name": "Ered Luin Expedition",
-        "minorSkills": [],
+        "minorSkills": [257, 258],
         "effects": {}
     },
     {
         "id": 129,
         "name": "Musician",
-        "minorSkills": [],
+        "minorSkills": [259, 260],
         "effects": {}
     },
     {
         "id": 130,
         "name": "Durin's Blood",
-        "minorSkills": [],
+        "minorSkills": [261, 262],
         "effects": {}
     },
     {
         "id": 131,
         "name": "Thráin's Guards",
-        "minorSkills": [],
+        "minorSkills": [263, 264],
         "effects": {}
     },
     {
         "id": 132,
         "name": "Master of Bag End",
-        "minorSkills": [],
+        "minorSkills": [265, 266],
         "effects": {}
     },
     {
         "id": 133,
         "name": "Harfoots",
-        "minorSkills": [],
+        "minorSkills": [267, 268],
         "effects": {}
     },
     {
         "id": 134,
         "name": "Hobbit Adventurer",
-        "minorSkills": [],
+        "minorSkills": [269, 270],
         "effects": {}
     },
     {
         "id": 135,
         "name": "Ringbearers",
-        "minorSkills": [],
+        "minorSkills": [271, 272],
         "effects": {}
     },
     {
         "id": 136,
         "name": "Andúril",
-        "minorSkills": [],
+        "minorSkills": [273, 274],
         "effects": {}
     },
     {
         "id": 137,
         "name": "Dúnedain Chieftain",
-        "minorSkills": [],
+        "minorSkills": [275, 276],
         "effects": {}
     },
     {
         "id": 138,
         "name": "Strider",
-        "minorSkills": [],
+        "minorSkills": [277, 278],
         "effects": {}
     },
     {
         "id": 139,
         "name": "Hidden Heir",
-        "minorSkills": [],
+        "minorSkills": [279, 280],
         "effects": {}
     },
     {
         "id": 140,
         "name": "The Grey",
-        "minorSkills": [],
+        "minorSkills": [281, 282],
         "effects": {}
     },
     {
         "id": 141,
         "name": "Mithrandir",
-        "minorSkills": [],
+        "minorSkills": [283, 284],
         "effects": {}
     },
     {
         "id": 142,
         "name": "Wizard",
-        "minorSkills": [],
+        "minorSkills": [285, 286],
         "effects": {}
     },
     {
         "id": 143,
         "name": "White Council",
-        "minorSkills": [],
+        "minorSkills": [287, 288],
         "effects": {}
     },
     {
         "id": 144,
         "name": "Lady of Rivendell",
-        "minorSkills": [],
+        "minorSkills": [289, 290],
         "effects": {}
     },
     {
         "id": 145,
         "name": "Undómiel",
-        "minorSkills": [],
+        "minorSkills": [291, 292],
         "effects": {}
     },
     {
         "id": 146,
         "name": "Half-elven",
-        "minorSkills": [],
+        "minorSkills": [293, 294],
         "effects": {}
     },
     {
         "id": 147,
         "name": "Queen of the Reunited Kingdom",
-        "minorSkills": [],
+        "minorSkills": [295, 296],
         "effects": {}
     },
     {
         "id": 148,
         "name": "Grey Company",
-        "minorSkills": [],
+        "minorSkills": [297, 298],
         "effects": {}
     },
     {
         "id": 149,
         "name": "Hero",
-        "minorSkills": [],
+        "minorSkills": [299, 300],
         "effects": {}
     },
     {
         "id": 150,
         "name": "Half-elven",
-        "minorSkills": [],
+        "minorSkills": [301, 302],
         "effects": {}
     },
     {
         "id": 151,
         "name": "Elven Rider",
-        "minorSkills": [],
+        "minorSkills": [303, 304],
         "effects": {}
     },
     {
         "id": 152,
         "name": "Grey Company",
-        "minorSkills": [],
+        "minorSkills": [305, 306],
         "effects": {}
     },
     {
         "id": 153,
         "name": "War Chant",
-        "minorSkills": [],
+        "minorSkills": [307, 308],
         "effects": {}
     },
     {
         "id": 154,
         "name": "Half-elven",
-        "minorSkills": [],
+        "minorSkills": [309, 310],
         "effects": {}
     },
     {
         "id": 155,
         "name": "Loyal Followers",
-        "minorSkills": [],
+        "minorSkills": [311, 312],
         "effects": {}
     },
     {
         "id": 156,
         "name": "Greenleaf",
-        "minorSkills": [],
+        "minorSkills": [313, 314],
         "effects": {}
     },
     {
         "id": 157,
         "name": "Grey Elf",
-        "minorSkills": [],
+        "minorSkills": [315, 316],
         "effects": {}
     },
     {
         "id": 158,
         "name": "Eleven Prince",
-        "minorSkills": [],
+        "minorSkills": [317, 318],
         "effects": {}
     },
     {
         "id": 159,
         "name": "Dwarf-friend",
-        "minorSkills": [],
+        "minorSkills": [319, 320],
         "effects": {}
     },
     {
         "id": 160,
         "name": "Experienced Warrior",
-        "minorSkills": [],
+        "minorSkills": [321, 322],
         "effects": {}
     },
     {
         "id": 161,
         "name": "Lockbearer",
-        "minorSkills": [],
+        "minorSkills": [323, 324],
         "effects": {}
     },
     {
         "id": 162,
         "name": "Durin's Blood",
-        "minorSkills": [],
+        "minorSkills": [325, 326],
         "effects": {}
     },
     {
         "id": 163,
         "name": "Lord of the Glittering Caves",
-        "minorSkills": [],
+        "minorSkills": [327, 328],
         "effects": {}
     },
     {

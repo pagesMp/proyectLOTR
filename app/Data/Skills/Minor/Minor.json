@@ -1279,5 +1279,365 @@
         "id": 256,
         "name": "Defensive Stance",
         "effects":{}
+    },
+    {
+        "id": 257,
+        "name": "Well-prepared",
+        "effects":{}
+    },
+    {
+        "id": 258,
+        "name": "Firing Formation",
+        "effects":{}
+    },
+    {
+        "id": 259,
+        "name": "Relief",
+        "effects":{}
+    },
+    {
+        "id": 260,
+        "name": "Level-headed",
+        "effects":{}
+    },
+    {
+        "id": 261,
+        "name": "Whirlwind",
+        "effects":{}
+    },
+    {
+        "id": 262,
+        "name": "All-in",
+        "effects":{}
+    },
+    {
+        "id": 263,
+        "name": "Defensive Stance",
+        "effects":{}
+    },
+    {
+        "id": 264,
+        "name": "Parry",
+        "effects":{}
+    },
+    {
+        "id": 265,
+        "name": "Starlight",
+        "effects":{}
+    },
+    {
+        "id": 266,
+        "name": "Prudence",
+        "effects":{}
+    },
+    {
+        "id": 267,
+        "name": "Pipe-weed Connoisseur",
+        "effects":{}
+    },
+    {
+        "id": 268,
+        "name": "Inquisitive",
+        "effects":{}
+    },
+    {
+        "id": 269,
+        "name": "Ent-friend",
+        "effects":{}
+    },
+    {
+        "id": 270,
+        "name": "Giant Slayer",
+        "effects":{}
+    },
+    {
+        "id": 271,
+        "name": "Ring of Terror",
+        "effects":{}
+    },
+    {
+        "id": 272,
+        "name": "Elven Rope",
+        "effects":{}
+    },
+    {
+        "id": 273,
+        "name": "Cull the Weak",
+        "effects":{}
+    },
+    {
+        "id": 274,
+        "name": "Weapons Expertise",
+        "effects":{}
+    },
+    {
+        "id": 275,
+        "name": "brawling Training",
+        "effects":{}
+    },
+    {
+        "id": 276,
+        "name": "Well-prepared",
+        "effects":{}
+    },
+    {
+        "id": 277,
+        "name": "Precise Blow",
+        "effects":{}
+    },
+    {
+        "id": 278,
+        "name": "Raid",
+        "effects":{}
+    },
+    {
+        "id": 279,
+        "name": "Sun and Moon's Splendour",
+        "effects":{}
+    },
+    {
+        "id": 280,
+        "name": "Nobility",
+        "effects":{}
+    },
+    {
+        "id": 281,
+        "name": "Fleeting Movements",
+        "effects":{}
+    },
+    {
+        "id": 282,
+        "name": "Blindside",
+        "effects":{}
+    },
+    {
+        "id": 283,
+        "name": "Free Peoples",
+        "effects":{}
+    },
+    {
+        "id": 284,
+        "name": "Convener",
+        "effects":{}
+    },
+    {
+        "id": 285,
+        "name": "Pipe-weed Connoisseur",
+        "effects":{}
+    },
+    {
+        "id": 286,
+        "name": "Surge",
+        "effects":{}
+    },
+    {
+        "id": 287,
+        "name": "High Alert",
+        "effects":{}
+    },
+    {
+        "id": 288,
+        "name": "Champion of the Light",
+        "effects":{}
+    },
+    {
+        "id": 289,
+        "name": "Rive's Wrath",
+        "effects":{}
+    },
+    {
+        "id": 290,
+        "name": "Surge",
+        "effects":{}
+    },
+    {
+        "id": 291,
+        "name": "Cleansing Touch",
+        "effects":{}
+    },
+    {
+        "id": 292,
+        "name": "Elven Blessing",
+        "effects":{}
+    },
+    {
+        "id": 293,
+        "name": "Boon",
+        "effects":{}
+    },
+    {
+        "id": 294,
+        "name": "Coalition",
+        "effects":{}
+    },
+    {
+        "id": 295,
+        "name": "Nobility",
+        "effects":{}
+    },
+    {
+        "id": 296,
+        "name": "Parting Gift",
+        "effects":{}
+    },
+    {
+        "id": 297,
+        "name": "Reinforcement",
+        "effects":{}
+    },
+    {
+        "id": 298,
+        "name": "Flanking",
+        "effects":{}
+    },
+    {
+        "id": 299,
+        "name": "March",
+        "effects":{}
+    },
+    {
+        "id": 300,
+        "name": "Leader",
+        "effects":{}
+    },
+    {
+        "id": 301,
+        "name": "Boon",
+        "effects":{}
+    },
+    {
+        "id": 302,
+        "name": "Coalition",
+        "effects":{}
+    },
+    {
+        "id": 303,
+        "name": "Horsemanship",
+        "effects":{}
+    },
+    {
+        "id": 304,
+        "name": "Vow of Protection",
+        "effects":{}
+    },
+    {
+        "id": 305,
+        "name": "Reinforcement",
+        "effects":{}
+    },
+    {
+        "id": 306,
+        "name": "Flanking",
+        "effects":{}
+    },
+    {
+        "id": 307,
+        "name": "Relief",
+        "effects":{}
+    },
+    {
+        "id": 308,
+        "name": "Level-headed",
+        "effects":{}
+    },
+    {
+        "id": 309,
+        "name": "Boon",
+        "effects":{}
+    },
+    {
+        "id": 310,
+        "name": "Coalition",
+        "effects":{}
+    },
+    {
+        "id": 311,
+        "name": "Controlled Madness",
+        "effects":{}
+    },
+    {
+        "id": 312,
+        "name": "Shield Training",
+        "effects":{}
+    },
+    {
+        "id": 313,
+        "name": "Attack Vitals",
+        "effects":{}
+    },
+    {
+        "id": 314,
+        "name": "Miekwood Ambush",
+        "effects":{}
+    },
+    {
+        "id": 315,
+        "name": "Shield Training",
+        "effects":{}
+    },
+    {
+        "id": 316,
+        "name": "Deadeye",
+        "effects":{}
+    },
+    {
+        "id": 317,
+        "name": "Heart Seeker",
+        "effects":{}
+    },
+    {
+        "id": 318,
+        "name": "Dual Blows",
+        "effects":{}
+    },
+    {
+        "id": 319,
+        "name": "Friendly Relations",
+        "effects":{}
+    },
+    {
+        "id": 320,
+        "name": "Protect Elves",
+        "effects":{}
+    },
+    {
+        "id": 321,
+        "name": "Hunt Down",
+        "effects":{}
+    },
+    {
+        "id": 322,
+        "name": "Collaboration",
+        "effects":{}
+    },
+    {
+        "id": 323,
+        "name": "Friendly Relations",
+        "effects":{}
+    },
+    {
+        "id": 324,
+        "name": "Protect Elves",
+        "effects":{}
+    },
+    {
+        "id": 325,
+        "name": "Whirlwind",
+        "effects":{}
+    },
+    {
+        "id": 326,
+        "name": "All-In",
+        "effects":{}
+    },
+    {
+        "id": 327,
+        "name": "Break Defences",
+        "effects":{}
+    },
+    {
+        "id": 328,
+        "name": "Heavily Wounded",
+        "effects":{}
     }
 ]
