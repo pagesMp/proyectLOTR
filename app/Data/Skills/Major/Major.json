@@ -763,10 +763,365 @@
     },
     {
         "id": 128,
-        "name": "",
+        "name": "Ered Luin Expedition",
         "minorSkills": [],
         "effects": {}
-    }
+    },
+    {
+        "id": 129,
+        "name": "Musician",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 130,
+        "name": "Durin's Blood",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 131,
+        "name": "Thráin's Guards",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 132,
+        "name": "Master of Bag End",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 133,
+        "name": "Harfoots",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 134,
+        "name": "Hobbit Adventurer",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 135,
+        "name": "Ringbearers",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 136,
+        "name": "Andúril",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 137,
+        "name": "Dúnedain Chieftain",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 138,
+        "name": "Strider",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 139,
+        "name": "Hidden Heir",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 140,
+        "name": "The Grey",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 141,
+        "name": "Mithrandir",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 142,
+        "name": "Wizard",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 143,
+        "name": "White Council",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 144,
+        "name": "Lady of Rivendell",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 145,
+        "name": "Undómiel",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 146,
+        "name": "Half-elven",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 147,
+        "name": "Queen of the Reunited Kingdom",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 148,
+        "name": "Grey Company",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 149,
+        "name": "Hero",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 150,
+        "name": "Half-elven",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 151,
+        "name": "Elven Rider",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 152,
+        "name": "Grey Company",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 153,
+        "name": "War Chant",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 154,
+        "name": "Half-elven",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 155,
+        "name": "Loyal Followers",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 156,
+        "name": "Greenleaf",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 157,
+        "name": "Grey Elf",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 158,
+        "name": "Eleven Prince",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 159,
+        "name": "Dwarf-friend",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 160,
+        "name": "Experienced Warrior",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 161,
+        "name": "Lockbearer",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 162,
+        "name": "Durin's Blood",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 163,
+        "name": "Lord of the Glittering Caves",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 164,
+        "name": "Revivalist",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 165,
+        "name": "Lord of Moria",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 166,
+        "name": "Durin's Blood",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 167,
+        "name": "Warrior of the Lonely Mountain",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 168,
+        "name": "The Wise",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 169,
+        "name": "Guide",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 170,
+        "name": "Grey Elf",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 171,
+        "name": "Lord of Lórien",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 172,
+        "name": "The Renewed",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 173,
+        "name": "Rohirrim",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 174,
+        "name": "Éored Leader",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 175,
+        "name": "Horsemaster",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 176,
+        "name": "Marshal of the Mark",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 177,
+        "name": "Rohirrim",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 178,
+        "name": "Éading",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 179,
+        "name": "Éored Leader",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 180,
+        "name": "Ally",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 181,
+        "name": "The Fair",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 182,
+        "name": "Heir",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 183,
+        "name": "Prince of Dol Amroth",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 184,
+        "name": "Ally",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 185,
+        "name": "Ruling Steward",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 186,
+        "name": "Palantír Scryer",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 187,
+        "name": "Mad Steward",
+        "minorSkills": [],
+        "effects": {}
+    },
+
 
   
     
