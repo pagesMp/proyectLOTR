@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "Deepen Wounds",
+        "effects":{}
+    },
+    {
+        "id": 2,
+        "name": "Overwhelm",
+        "effects":{}
+    },
+    {
+        "id": 3,
+        "name": "Dark Mantle",
+        "effects":{}
+    },
+    {
+        "id": 4,
+        "name": "Black Arts",
+        "effects":{}
+    },
+    {
+        "id": 5,
+        "name": "Laceration",
+        "effects":{}
+    },
+    {
+        "id": 6,
+        "name": "Weapons Expertise",
+        "effects":{}
+    },
+    {
+        "id": 7,
+        "name": "Seeker",
+        "effects":{}
+    },
+    {
+        "id": 8,
+        "name": "Heart Seeker",
+        "effects":{}
+    },
+    {
+        "id": 9,
+        "name": "Arson",
+        "effects":{}
+    },
+    {
+        "id": 10,
+        "name": "Fuel Oil",
+        "effects":{}
+    },
+    {
+        "id": 11,
+        "name": "Logistics",
+        "effects":{}
+    },
+    {
+        "id": 12,
+        "name": "Collector",
+        "effects":{}
+    },
+    {
+        "id": 13,
+        "name": "Treason",
+        "effects":{}
+    },
+    {
+        "id": 14,
+        "name": "Trickery",
+        "effects":{}
+    },
+    {
+        "id": 15,
+        "name": "Warg Healing",
+        "effects":{}
+    },
+    {
+        "id": 16,
+        "name": "Beast Taming",
+        "effects":{}
+    },
+    {
+        "id": 17,
+        "name": "Master of Mischief",
+        "effects":{}
+    },
+    {
+        "id": 18,
+        "name": "Enfeeble",
+        "effects":{}
+    },
+    {
+        "id": 19,
+        "name": "Discipline",
+        "effects":{}
+    },
+    {
+        "id": 20,
+        "name": "Anticipation",
+        "effects":{}
+    },
+    {
+        "id": 21,
+        "name": "Daftness",
+        "effects":{}
+    },
+    {
+        "id": 22,
+        "name": "Prudence",
+        "effects":{}
+    },
+    {
+        "id": 23,
+        "name": "Outflank",
+        "effects":{}
+    },
+    {
+        "id": 24,
+        "name": "Lower Defences",
+        "effects":{}
+    },
+]

@@ -2,73 +2,73 @@
     {
         "id": 1,
         "name": "Persecutor",
-        "minorSkills": [],
+        "minorSkills": [1, 2],
         "effects": {}
     },
     {
         "id": 2,
         "name": "Black Numenorean",
-        "minorSkills": [],
+        "minorSkills": [3, 4],
         "effects": {}
     },
     {
         "id": 3,
         "name": "Shadows of the Mist",
-        "minorSkills": [],
+        "minorSkills": [5, 6],
         "effects": {}
     },
     {
         "id": 4,
         "name": "Mountain Warrior",
-        "minorSkills": [],
+        "minorSkills": [7, 8],
         "effects": {}
     },
     {
         "id": 5,
         "name": "Arsonist",
-        "minorSkills": [],
+        "minorSkills": [9, 10],
         "effects": {}
     },
     {
         "id": 6,
         "name": "Warband Leader",
-        "minorSkills": [],
+        "minorSkills": [11, 12],
         "effects": {}
     },
     {
         "id": 7,
         "name": "Conspirator",
-        "minorSkills": [],
+        "minorSkills": [13, 14],
         "effects": {}
     },
     {
         "id": 8,
         "name": "Warg Trainer",
-        "minorSkills": [],
+        "minorSkills": [15, 16],
         "effects": {}
     },
     {
         "id": 9,
         "name": "Wormtongue",
-        "minorSkills": [],
+        "minorSkills": [17, 18],
         "effects": {}
     },
     {
         "id": 10,
         "name": "Second-in-Command",
-        "minorSkills": [],
+        "minorSkills": [19, 20],
         "effects": {}
     },
     {
         "id":11,
         "name": "Survivor",
-        "minorSkills": [],
+        "minorSkills": [21, 22],
         "effects": {}
     },
     {
         "id": 12,
         "name": "Wizard's Assistant",
-        "minorSkills": [],
+        "minorSkills": [23, 24],
         "effects": {}
     },
     {
