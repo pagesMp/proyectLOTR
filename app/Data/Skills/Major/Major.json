@@ -136,6 +136,440 @@
         "name": "Uruk-hai Elite",
         "minorSkills": [],
         "effects": {}
+    },
+    {
+        "id": 24,
+        "name": "Warlord",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 25,
+        "name": "Pursuer",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 26,
+        "name": "Easterling",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 27,
+        "name": "Interrogator",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 28,
+        "name": "Warg Trainer",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 29,
+        "name": "Experienced Warrior",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 30,
+        "name": "Speardancer",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 31,
+        "name": "Marshañ of the East-Mark",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 32,
+        "name": "Experienced Warrior",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 33,
+        "name": "Warband Leader",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 34,
+        "name": "Easterling",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 35,
+        "name": "Interrogator",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 36,
+        "name": "Shadows of the East",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 37,
+        "name": "Second-in-Command",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 38,
+        "name": "Ringwraith",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 39,
+        "name": "The black Easterling",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 40,
+        "name": "Undertaker",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 41,
+        "name": "Black Numenorean",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 42,
+        "name": "Ringwraith",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 43,
+        "name": "Shape of the Void",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 44,
+        "name": "Pursuer",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 45,
+        "name": "Uruk-hai Elite",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 46,
+        "name": "Uruk-hai First-born",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 47,
+        "name": "The White Hand",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 48,
+        "name": "Pursuer",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 49,
+        "name": "Uruk-hai Elite",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 50,
+        "name": "Outlaw",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 51,
+        "name": "The White Hand",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 52,
+        "name": "Assassin",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 53,
+        "name": "Warband Leader",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 54,
+        "name": "Survivor",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 55,
+        "name": "Interrogator",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 56,
+        "name": "Raider",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 57,
+        "name": "Warship Capitan",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 58,
+        "name": "Conspirator",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 59,
+        "name": "Corsair of Umbar",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 60,
+        "name": "Black Númenórean",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 61,
+        "name": "Harbinger of Darkness",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 62,
+        "name": "Messenger",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 63,
+        "name": "Lieutenant of Barad-dûr",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 64,
+        "name": "Catastrophe of Elves",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 65,
+        "name": "Catastrophe of Dwarves",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 66,
+        "name": "Ringwraith",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 67,
+        "name": "Catastrophe of Men",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 68,
+        "name": "Overlord",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 69,
+        "name": "Second-in-Command",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 70,
+        "name": "The Crippled",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 71,
+        "name": "Morgul Lieutenant",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 72,
+        "name": "Lord of the Sand",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 73,
+        "name": "Easterling",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 74,
+        "name": "Golden Visage",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 75,
+        "name": "Master of the War Charoit",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 76,
+        "name": "Fire Dancer",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 77,
+        "name": "Horn of Harad",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 78,
+        "name": "Haradrim",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 79,
+        "name": "Lord of Mumakil",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 80,
+        "name": "Lord of Nazgûl",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 81,
+        "name": "Black Captain",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 82,
+        "name": "Ringwraith",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 83,
+        "name": "Lord of Minas Morgul",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 84,
+        "name": "The Deceiver",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 85,
+        "name": "Lord of Gifts",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 86,
+        "name": "Gorthaur",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 87,
+        "name": "The Enemy",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 88,
+        "name": "Of Many Colours",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 89,
+        "name": "Palantír Scryer",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 90,
+        "name": "Voice of Saruman",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 91,
+        "name": "Sharkey",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 92,
+        "name": "Undertaker",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 93,
+        "name": "Undead Commander",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 94,
+        "name": "Ringwraith",
+        "minorSkills": [],
+        "effects": {}
+    },
+    {
+        "id": 95,
+        "name": "Second Wind",
+        "minorSkills": [],
+        "effects": {}
     }
+  
+    
 
 ]
