@@ -2160,5 +2160,245 @@
         "id": 432,
         "name": "Parry",
         "effects":{}
+    },
+    {
+        "id": 433,
+        "name": "Magical Barrier",
+        "effects":{}
+    },
+    {
+        "id": 434,
+        "name": "Blindside",
+        "effects":{}
+    },
+    {
+        "id": 435,
+        "name": "Pipe-weed Connoisseur",
+        "effects":{}
+    },
+    {
+        "id": 436,
+        "name": "Surge",
+        "effects":{}
+    },
+    {
+        "id": 437,
+        "name": "High Alert",
+        "effects":{}
+    },
+    {
+        "id": 438,
+        "name": "Champion of the Light",
+        "effects":{}
+    },
+    {
+        "id": 439,
+        "name": "Horsemanship",
+        "effects":{}
+    },
+    {
+        "id": 440,
+        "name": "Reinforcement",
+        "effects":{}
+    },
+    {
+        "id": 441,
+        "name": "Surge",
+        "effects":{}
+    },
+    {
+        "id": 442,
+        "name": "Focus Wrath",
+        "effects":{}
+    },
+    {
+        "id": 443,
+        "name": "Parting Gift",
+        "effects":{}
+    },
+    {
+        "id": 444,
+        "name": "Purity",
+        "effects":{}
+    },
+    {
+        "id": 445,
+        "name": "High Alert",
+        "effects":{}
+    },
+    {
+        "id": 446,
+        "name": "Champion of the Light",
+        "effects":{}
+    },
+    {
+        "id": 447,
+        "name": "Ring of Water",
+        "effects":{}
+    },
+    {
+        "id": 448,
+        "name": "Magical Barrier",
+        "effects":{}
+    },
+    {
+        "id": 449,
+        "name": "Vengeance",
+        "effects":{}
+    },
+    {
+        "id": 450,
+        "name": "Contemplation",
+        "effects":{}
+    },
+    {
+        "id": 451,
+        "name": "Nature's Bounty",
+        "effects":{}
+    },
+    {
+        "id": 452,
+        "name": "Rive's Wrath",
+        "effects":{}
+    },
+    {
+        "id": 453,
+        "name": "Purity",
+        "effects":{}
+    },
+    {
+        "id": 454,
+        "name": "Pacifism",
+        "effects":{}
+    },
+    {
+        "id": 455,
+        "name": "Hobbit-Friend",
+        "effects":{}
+    },
+    {
+        "id": 456,
+        "name": "Forest Agility",
+        "effects":{}
+    },
+    {
+        "id": 457,
+        "name": "Boggle",
+        "effects":{}
+    },
+    {
+        "id": 458,
+        "name": "Dreadful Presence",
+        "effects":{}
+    },
+    {
+        "id": 459,
+        "name": "Intimidation",
+        "effects":{}
+    },
+    {
+        "id": 460,
+        "name": "Confusion",
+        "effects":{}
+    },
+    {
+        "id": 461,
+        "name": "Focus Wrath",
+        "effects":{}
+    },
+    {
+        "id": 462,
+        "name": "Chaotic Retreat",
+        "effects":{}
+    },
+    {
+        "id": 463,
+        "name": "Frighened",
+        "effects":{}
+    },
+    {
+        "id": 464,
+        "name": "Dead Men of Dunharrow",
+        "effects":{}
+    },
+    {
+        "id": 465,
+        "name": "Cull the Weak",
+        "effects":{}
+    },
+    {
+        "id": 466,
+        "name": "Weapons Expertise",
+        "effects":{}
+    },
+    {
+        "id": 467,
+        "name": "Exorbitance",
+        "effects":{}
+    },
+    {
+        "id": 468,
+        "name": "Elven Blessing",
+        "effects":{}
+    },
+    {
+        "id": 469,
+        "name": "Precise Blow",
+        "effects":{}
+    },
+    {
+        "id": 470,
+        "name": "Raid",
+        "effects":{}
+    },
+    {
+        "id": 471,
+        "name": "Return of the Kinf",
+        "effects":{}
+    },
+    {
+        "id": 472,
+        "name": "Dúnedain Bloodline",
+        "effects":{}
+    },
+    {
+        "id": 473,
+        "name": "Ring of Terror",
+        "effects":{}
+    },
+    {
+        "id": 474,
+        "name": "Elven Rope",
+        "effects":{}
+    },
+    {
+        "id": 475,
+        "name": "Consequence of Greed",
+        "effects":{}
+    },
+    {
+        "id": 476,
+        "name": "Enfeeble",
+        "effects":{}
+    },
+    {
+        "id": 477,
+        "name": "Dúnedain Bloodline",
+        "effects":{}
+    },
+    {
+        "id": 478,
+        "name": "Champion of the Light",
+        "effects":{}
+    },
+    {
+        "id": 479,
+        "name": "Coalition",
+        "effects":{}
+    },
+    {
+        "id": 480,
+        "name": "Free Peoples",
+        "effects":{}
     }
 ]

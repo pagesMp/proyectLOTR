@@ -1298,145 +1298,145 @@
     {
         "id": 216,
         "name": "The White",
-        "minorSkills": [],
+        "minorSkills": [433, 434],
         "effects": {}
     },
     {
         "id": 217,
         "name": "Wizard",
-        "minorSkills": [],
+        "minorSkills": [435, 436],
         "effects": {}
     },
     {
         "id": 218,
         "name": "White Council",
-        "minorSkills": [],
+        "minorSkills": [437, 438],
         "effects": {}
     },
     {
         "id": 219,
         "name": "White Rider",
-        "minorSkills": [],
+        "minorSkills": [439, 440],
         "effects": {}
     },
     {
         "id": 220,
         "name": "Mistress of Magic",
-        "minorSkills": [],
+        "minorSkills": [441, 442],
         "effects": {}
     },
     {
         "id": 221,
         "name": "Lady of Lórien",
-        "minorSkills": [],
+        "minorSkills": [443, 444],
         "effects": {}
     },
     {
         "id": 222,
         "name": "White Council",
-        "minorSkills": [],
+        "minorSkills": [445, 446],
         "effects": {}
     },
     {
         "id": 223,
         "name": "Nenya's Guardian",
-        "minorSkills": [],
+        "minorSkills": [447, 448],
         "effects": {}
     },
     {
         "id": 224,
         "name": "Eldest",
-        "minorSkills": [],
+        "minorSkills": [449, 450],
         "effects": {}
     },
     {
         "id": 225,
         "name": "Fangorn",
-        "minorSkills": [],
+        "minorSkills": [451, 452],
         "effects": {}
     },
     {
         "id": 226,
         "name": "Shepherds of the Trees",
-        "minorSkills": [],
+        "minorSkills": [453, 454],
         "effects": {}
     },
     {
         "id": 227,
         "name": "Wizard's Bane",
-        "minorSkills": [],
+        "minorSkills": [455, 456],
         "effects": {}
     },
     {
         "id": 228,
         "name": "Incorporeal",
-        "minorSkills": [],
+        "minorSkills": [457, 458],
         "effects": {}
     },
     {
         "id": 229,
         "name": "Betrayer",
-        "minorSkills": [],
+        "minorSkills": [459, 460],
         "effects": {}
     },
     {
         "id": 230,
         "name": "Men of the Mountains",
-        "minorSkills": [],
+        "minorSkills": [461, 462],
         "effects": {}
     },
     {
         "id": 231,
         "name": "Army of the Dead",
-        "minorSkills": [],
+        "minorSkills": [463, 464],
         "effects": {}
     },
     {
         "id": 232,
         "name": "Andúril",
-        "minorSkills": [],
+        "minorSkills": [465, 466],
         "effects": {}
     },
     {
         "id": 233,
         "name": "Elessar",
-        "minorSkills": [],
+        "minorSkills": [467, 468],
         "effects": {}
     },
     {
         "id": 234,
         "name": "Strider",
-        "minorSkills": [],
+        "minorSkills": [469, 470],
         "effects": {}
     },
     {
         "id": 235,
         "name": "Kinf of Men",
-        "minorSkills": [],
+        "minorSkills": [471, 472],
         "effects": {}
     },
     {
         "id": 236,
         "name": "Ringbearers",
-        "minorSkills": [],
+        "minorSkills": [473, 474],
         "effects": {}
     },
     {
         "id": 237,
         "name": "Great King",
-        "minorSkills": [],
+        "minorSkills": [475, 476],
         "effects": {}
     },
     {
         "id": 238,
         "name": "King of the Dúnedain",
-        "minorSkills": [],
+        "minorSkills": [477, 478],
         "effects": {}
     },
     {
         "id": 239,
         "name": "Last Alliance",
-        "minorSkills": [],
+        "minorSkills": [479, 480],
         "effects": {}
     }
 ]
