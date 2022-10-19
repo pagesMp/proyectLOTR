@@ -1130,169 +1130,169 @@
     {
         "id": 188,
         "name": "Icicle",
-        "minorSkills": [],
+        "minorSkills": [377, 378],
         "effects": {}
     },
     {
         "id": 189,
         "name": "Kingly Kin",
-        "minorSkills": [],
+        "minorSkills": [379, 380],
         "effects": {}
     },
     {
         "id": 190,
         "name": "White Council",
-        "minorSkills": [],
+        "minorSkills": [381, 382],
         "effects": {}
     },
     {
         "id": 191,
         "name": "High King",
-        "minorSkills": [],
+        "minorSkills": [383, 384],
         "effects": {}
     },
     {
         "id": 192,
         "name": "White Council",
-        "minorSkills": [],
+        "minorSkills": [385, 386],
         "effects": {}
     },
     {
         "id": 193,
         "name": "Teleri",
-        "minorSkills": [],
+        "minorSkills": [387, 388],
         "effects": {}
     },
     {
         "id": 194,
         "name": "Lord of the Havens",
-        "minorSkills": [],
+        "minorSkills": [389, 390],
         "effects": {}
     },
     {
         "id": 195,
         "name": "The Shipwright",
-        "minorSkills": [],
+        "minorSkills": [391, 392],
         "effects": {}
     },
     {
         "id": 196,
         "name": "Lord of Imladris",
-        "minorSkills": [],
+        "minorSkills": [393, 394],
         "effects": {}
     },
     {
         "id": 197,
         "name": "Half-elven",
-        "minorSkills": [],
+        "minorSkills": [395, 396],
         "effects": {}
     },
     {
         "id": 198,
         "name": "White Council",
-        "minorSkills": [],
+        "minorSkills": [397, 398],
         "effects": {}
     },
     {
         "id": 199,
         "name": "Vilya's Ringbearer",
-        "minorSkills": [],
+        "minorSkills": [399, 400],
         "effects": {}
     },
     {
         "id": 200,
         "name": "Wizard",
-        "minorSkills": [],
+        "minorSkills": [401, 402],
         "effects": {}
     },
     {
         "id": 201,
         "name": "The Brown",
-        "minorSkills": [],
+        "minorSkills": [403, 404],
         "effects": {}
     },
     {
         "id": 202,
         "name": "Healer",
-        "minorSkills": [],
+        "minorSkills": [405, 406],
         "effects": {}
     },
     {
         "id": 203,
         "name": "Bird-tamer",
-        "minorSkills": [],
+        "minorSkills": [407, 408],
         "effects": {}
     },
     {
         "id": 204,
         "name": "Mirkwood's Vigour",
-        "minorSkills": [],
+        "minorSkills": [409, 410],
         "effects": {}
     },
     {
         "id": 205,
         "name": "Grey Elf",
-        "minorSkills": [],
+        "minorSkills": [411, 412],
         "effects": {}
     },
     {
         "id": 206,
         "name": "Heir of Greenwood the Great",
-        "minorSkills": [],
+        "minorSkills": [413, 414],
         "effects": {}
     },
     {
         "id": 207,
         "name": "King of the Woodland Realm",
-        "minorSkills": [],
+        "minorSkills": [415, 416],
         "effects": {}
     },
     {
         "id": 208,
         "name": "Ironfoot",
-        "minorSkills": [],
+        "minorSkills": [417, 418],
         "effects": {}
     },
     {
         "id": 209,
         "name": "Lord of the Iorn Hills",
-        "minorSkills": [],
+        "minorSkills": [419, 420],
         "effects": {}
     },
     {
         "id": 210,
         "name": "Durin's Blood",
-        "minorSkills": [],
+        "minorSkills": [421, 422],
         "effects": {}
     },
     {
         "id": 211,
         "name": "King Under the Mountain ",
-        "minorSkills": [],
+        "minorSkills": [423, 424],
         "effects": {}
     },
     {
         "id": 212,
         "name": "Oakenshield",
-        "minorSkills": [],
+        "minorSkills": [425, 426],
         "effects": {}
     },
     {
         "id": 213,
         "name": "Revivalist",
-        "minorSkills": [],
+        "minorSkills": [427, 428],
         "effects": {}
     },
     {
         "id": 214,
         "name": "King Under the Mountain ",
-        "minorSkills": [],
+        "minorSkills": [429, 430],
         "effects": {}
     },
     {
         "id": 215,
         "name": "King of Durin's Folk",
-        "minorSkills": [],
+        "minorSkills": [431, 432],
         "effects": {}
     },
     {
