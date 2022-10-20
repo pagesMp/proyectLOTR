@@ -2,7 +2,10 @@
     {
         "id": 35,
         "name":"Horseback Archer",
+        "alignment": "Good",
         "units": 50,
+        "tier": 1,
+        "race": 2,
         "skills":[],
         "stats": {
             "damage": [21, 23],
@@ -15,7 +18,10 @@
     {
         "id": 36,
         "name":"Hunter",
+        "alignment": "Good",
         "units": 100,
+        "tier": 1,
+        "race": 2,
         "skills":[],
         "stats": {
             "damage": [15, 16],
@@ -28,7 +34,10 @@
     {
         "id": 37,
         "name":"Axe Thrower",
+        "alignment": "Good",
         "units": 100,
+        "tier": 1,
+        "race": 1,
         "skills":[],
         "stats": {
             "damage": [5, 17],
@@ -41,7 +50,10 @@
     {
         "id": 38,
         "name":"Dwarven Footman",
+        "alignment": "Good",
         "units": 100,
+        "tier": 1,
+        "race": 1,
         "skills":[],
         "stats": {
             "damage": [8, 11],
@@ -54,7 +66,10 @@
     {
         "id": 39,
         "name":"Militia",
+        "alignment": "Good",
         "units": 100,
+        "tier": 1,
+        "race": 6,
         "skills":[],
         "stats": {
             "damage": [8, 13],
@@ -67,7 +82,10 @@
     {
         "id": 40,
         "name":"Horseman",
+        "alignment": "Good",
         "units": 50,
+        "tier": 1,
+        "race": 6,
         "skills":[],
         "stats": {
             "damage": [15, 23],
@@ -80,7 +98,10 @@
     {
         "id": 41,
         "name":"Ligth Cavarly",
+        "alignment": "Good",
         "units": 50,
+        "tier": 1,
+        "race": 6,
         "skills":[],
         "stats": {
             "damage": [18, 25],

@@ -1,0 +1,178 @@
+[
+    {
+        "id": 53,
+        "name":"Bow Knight",
+        "alignment": "Good",
+        "units": 50,
+        "tier": 3,
+        "race": 2,
+        "skills":[],
+        "stats": {
+            "damage": [36, 42],
+            "hp": 78,
+            "defence": 31,
+            "speed": 127,
+            "siege": 16
+        }
+    },
+    {
+        "id": 54,
+        "name":"Sentinel",
+        "alignment": "Good",
+        "units": 100,
+        "tier": 3,
+        "race": 2,
+        "skills":[],
+        "stats": {
+            "damage": [28, 29],
+            "hp": 28,
+            "defence": 14,
+            "speed": 71,
+            "siege": 12
+        }
+    },
+    {
+        "id": 55,
+        "name":"Herald",
+        "alignment": "Good",
+        "units": 100,
+        "tier": 3,
+        "race": 2,
+        "skills":[],
+        "stats": {
+            "damage": [15, 26],
+            "hp": 36,
+            "defence": 71,
+            "speed": 60,
+            "siege": 18
+        }
+    },
+    {
+        "id": 56,
+        "name":"Master Thrower",
+        "alignment": "Good",
+        "units": 100,
+        "tier": 3,
+        "race": 1,
+        "skills":[],
+        "stats": {
+            "damage": [9, 29],
+            "hp": 32,
+            "defence": 32,
+            "speed": 55,
+            "siege": 16
+        }
+    },
+    {
+        "id": 57,
+        "name":"Ram Rider",
+        "alignment": "Good",
+        "units": 50,
+        "tier": 3,
+        "race": 1,
+        "skills":[],
+        "stats": {
+            "damage": [28, 32],
+            "hp": 90,
+            "defence": 40,
+            "speed": 102,
+            "siege": 27
+        }
+    },
+    {
+        "id": 58,
+        "name":"Guardian",
+        "alignment": "Good",
+        "units": 100,
+        "tier": 3,
+        "race": 1,
+        "skills":[],
+        "stats": {
+            "damage": [7, 20],
+            "hp": 40,
+            "defence": 101,
+            "speed": 52,
+            "siege": 20
+        }
+    },
+    {
+        "id": 59,
+        "name":"Cataphract",
+        "alignment": "Good",
+        "units": 50,
+        "tier": 3,
+        "race": 6,
+        "skills":[],
+        "stats": {
+            "damage": [26, 35],
+            "hp": 94,
+            "defence": 61,
+            "speed": 110,
+            "siege": 23
+        }
+    },
+    {
+        "id": 60,
+        "name":"Guard of the Tower",
+        "alignment": "Good",
+        "units": 100,
+        "tier": 3,
+        "race": 6,
+        "skills":[],
+        "stats": {
+            "damage": [12, 15],
+            "hp": 40,
+            "defence": 78,
+            "speed": 59,
+            "siege": 18
+        }
+    },
+    {
+        "id": 61,
+        "name":"Dúnedain",
+        "alignment": "Good",
+        "units": 100,
+        "tier": 3,
+        "race": 6,
+        "skills":[],
+        "stats": {
+            "damage": [15, 22],
+            "hp": 36,
+            "defence": 44,
+            "speed": 122,
+            "siege": 15
+        }
+    },
+    {
+        "id": 62,
+        "name":"Cavailer",
+        "alignment": "Good",
+        "units": 50,
+        "tier": 3,
+        "race": 6,
+        "skills":[],
+        "stats": {
+            "damage": [34, 42],
+            "hp": 82,
+            "defence": 34,
+            "speed": 139,
+            "siege": 22
+        }
+    },
+    {
+        "id": 63,
+        "name":"Sharpshooter",
+        "alignment": "Good",
+        "units": 100,
+        "tier": 3,
+        "race": 6,
+        "skills":[],
+        "stats": {
+            "damage": [18, 26],
+            "hp": 32,
+            "defence": 19,
+            "speed": 64,
+            "siege": 11
+        }
+    }
+]

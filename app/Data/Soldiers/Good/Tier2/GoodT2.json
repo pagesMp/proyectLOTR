@@ -1,0 +1,178 @@
+[
+    {
+        "id": 42,
+        "name":"Cavarly Archer",
+        "alignment": "Good",
+        "units": 50,
+        "tier": 2,
+        "race": 2,
+        "skills":[],
+        "stats": {
+            "damage": [32, 36],
+            "hp": 68,
+            "defence": 22,
+            "speed": 127,
+            "siege": 14
+        }
+    },
+    {
+        "id": 43,
+        "name":"Marksman",
+        "alignment": "Good",
+        "units": 100,
+        "tier": 2,
+        "race": 2,
+        "skills":[],
+        "stats": {
+            "damage": [23, 24],
+            "hp": 24,
+            "defence": 9,
+            "speed": 79,
+            "siege": 10
+        }
+    },
+    {
+        "id": 44,
+        "name":"Warden",
+        "alignment": "Good",
+        "units": 100,
+        "tier": 2,
+        "race": 2,
+        "skills":[],
+        "stats": {
+            "damage": [12, 24],
+            "hp": 28,
+            "defence": 50,
+            "speed": 80,
+            "siege": 15
+        }
+    },
+    {
+        "id": 45,
+        "name":"Heavy Axe Thrower",
+        "alignment": "Good",
+        "units": 100,
+        "tier": 2,
+        "race": 1,
+        "skills":[],
+        "stats": {
+            "damage": [7, 24],
+            "hp": 28,
+            "defence": 25,
+            "speed": 68,
+            "siege": 12
+        }
+    },
+    {
+        "id": 46,
+        "name":"Shieldbearer",
+        "alignment": "Good",
+        "units": 100,
+        "tier": 2,
+        "race": 1,
+        "skills":[],
+        "stats": {
+            "damage": [6, 18],
+            "hp": 36,
+            "defence": 60,
+            "speed": 70,
+            "siege": 19
+        }
+    },
+    {
+        "id": 47,
+        "name":"Goat Rider",
+        "alignment": "Good",
+        "units": 50,
+        "tier": 2,
+        "race": 1,
+        "skills":[],
+        "stats": {
+            "damage": [24, 28],
+            "hp": 82,
+            "defence": 33,
+            "speed": 96,
+            "siege": 23
+        }
+    },
+    {
+        "id": 48,
+        "name":"Knight",
+        "alignment": "Good",
+        "units": 50,
+        "tier": 2,
+        "race": 6,
+        "skills":[],
+        "stats": {
+            "damage": [22, 30],
+            "hp": 82,
+            "defence": 37,
+            "speed": 122,
+            "siege": 22
+        }
+    },
+    {
+        "id": 49,
+        "name":"Spearman",
+        "alignment": "Good",
+        "units": 100,
+        "tier": 2,
+        "race": 6,
+        "skills":[],
+        "stats": {
+            "damage": [11, 15],
+            "hp": 32,
+            "defence": 51,
+            "speed": 65,
+            "siege": 17
+        }
+    },
+    {
+        "id": 50,
+        "name":"Ranger",
+        "alignment": "Good",
+        "units": 100,
+        "tier": 2,
+        "race": 6,
+        "skills":[],
+        "stats": {
+            "damage": [14, 20],
+            "hp": 30,
+            "defence": 29,
+            "speed": 100,
+            "siege": 12
+        }
+    },
+    {
+        "id": 51,
+        "name":"Outrider",
+        "alignment": "Good",
+        "units": 50,
+        "tier": 2,
+        "race": 6,
+        "skills":[],
+        "stats": {
+            "damage": [26, 37],
+            "hp": 76,
+            "defence": 20,
+            "speed": 139,
+            "siege": 19
+        }
+    },
+    {
+        "id": 52,
+        "name":"Longbowman",
+        "alignment": "Good",
+        "units": 100,
+        "tier": 2,
+        "race": 6,
+        "skills":[],
+        "stats": {
+            "damage": [12, 20],
+            "hp": 26,
+            "defence": 13,
+            "speed": 72,
+            "siege": 9
+        }
+    }
+]
