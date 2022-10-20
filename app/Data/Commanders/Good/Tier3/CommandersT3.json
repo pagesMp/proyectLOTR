@@ -6,7 +6,7 @@
         "tier": 3,
         "race": "Elves",
         "classes": [6, 8],
-        "skills": [],
+        "skills": [196, 197, 198, 199],
         "stats": {
             "might": {
                 "base": 94,
@@ -29,7 +29,7 @@
         "tier": 3,
         "race": "Maiar",
         "classes": [9, 7],
-        "skills": [],
+        "skills": [216, 217, 218, 219],
         "stats": {
             "might": {
                 "base": 80,
@@ -52,7 +52,7 @@
         "tier": 3,
         "race": "Dwarves",
         "classes": [2, 7],
-        "skills": [],
+        "skills": [208, 209, 210, 211],
         "stats": {
             "might": {
                 "base": 105,
@@ -75,7 +75,7 @@
         "tier": 3,
         "race": "Elves",
         "classes": [9, 8],
-        "skills": [],
+        "skills": [220, 221, 222, 223],
         "stats": {
             "might": {
                 "base": 60,
@@ -98,7 +98,7 @@
         "tier": 3,
         "race": "Elves",
         "classes": [5, 4],
-        "skills": [],
+        "skills": [204, 205, 206, 207],
         "stats": {
             "might": {
                 "base": 128,
@@ -121,7 +121,7 @@
         "tier": 3,
         "race": "Elves",
         "classes": [5, 4],
-        "skills": [],
+        "skills": [188, 189, 190, 191],
         "stats": {
             "might": {
                 "base": 102,
@@ -144,7 +144,7 @@
         "tier": 3,
         "race": "Men",
         "classes": [5, 6],
-        "skills": [],
+        "skills": [192, 193, 194, 195],
         "stats": {
             "might": {
                 "base": 85,
@@ -167,7 +167,7 @@
         "tier": 3,
         "race": "Maiar",
         "classes": [6, 8],
-        "skills": [],
+        "skills": [200, 201, 202, 203],
         "stats": {
             "might": {
                 "base": 58,
@@ -190,7 +190,7 @@
         "tier": 3,
         "race": "Dwarves",
         "classes": [5, 6],
-        "skills": [],
+        "skills": [212, 213, 214, 215],
         "stats": {
             "might": {
                 "base": 125,
@@ -213,7 +213,7 @@
         "tier": 3,
         "race": "Ents",
         "classes": [2, 7],
-        "skills": [],
+        "skills": [224, 225, 226, 227],
         "stats": {
             "might": {
                 "base": 150,
@@ -236,7 +236,7 @@
         "tier": 3,
         "race": "Undead",
         "classes": [5, 7],
-        "skills": [],
+        "skills": [228, 229, 230, 231],
         "stats": {
             "might": {
                 "base": 81,
@@ -259,7 +259,7 @@
         "tier": 3,
         "race": "Men",
         "classes": [5, 8],
-        "skills": [],
+        "skills": [232, 233, 234, 235],
         "stats": {
             "might": {
                 "base": 99,
@@ -282,7 +282,7 @@
         "tier": 3,
         "race": "Men",
         "classes": [5, 7],
-        "skills": [],
+        "skills": [236, 237, 238, 239],
         "stats": {
             "might": {
                 "base": 92,
