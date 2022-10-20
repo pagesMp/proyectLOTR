@@ -6,7 +6,7 @@
         "tier": 2,
         "race": "Dwarves",
         "classes": [1],
-        "skills": [],
+        "skills": [160, 161, 162, 163],
         "stats": {
             "might": {
                 "base": 100,
@@ -29,7 +29,7 @@
         "tier": 2,
         "race": "Men",
         "classes": [2],
-        "skills": [],
+        "skills": [136, 137, 138, 139],
         "stats": {
             "might": {
                 "base": 96,
@@ -52,7 +52,7 @@
         "tier": 2,
         "race": "Elves",
         "classes": [1, 4],
-        "skills": [],
+        "skills": [156, 157, 158, 159],
         "stats": {
             "might": {
                 "base": 90,
@@ -75,7 +75,7 @@
         "tier": 2,
         "race": "Men",
         "classes": [3, 6],
-        "skills": [],
+        "skills": [184, 185, 186, 187],
         "stats": {
             "might": {
                 "base": 21,
@@ -98,7 +98,7 @@
         "tier": 2,
         "race": "Men",
         "classes": [2],
-        "skills": [],
+        "skills": [176, 177, 178, 179],
         "stats": {
             "might": {
                 "base": 95,
@@ -121,7 +121,7 @@
         "tier": 2,
         "race": "Hobbits",
         "classes": [6, 3],
-        "skills": [],
+        "skills": [132, 133, 134, 135],
         "stats": {
             "might": {
                 "base": 32,
@@ -144,7 +144,7 @@
         "tier": 2,
         "race": "Dwarves",
         "classes": [5, 7],
-        "skills": [],
+        "skills": [164, 165, 166, 167],
         "stats": {
             "might": {
                 "base": 99,
@@ -167,7 +167,7 @@
         "tier": 2,
         "race": "Elves",
         "classes": [6, 8],
-        "skills": [],
+        "skills": [144, 145, 146, 147],
         "stats": {
             "might": {
                 "base": 48,
@@ -190,7 +190,7 @@
         "tier": 2,
         "race": "Dwarves",
         "classes": [5, 6],
-        "skills": [],
+        "skills": [128, 129, 130, 131],
         "stats": {
             "might": {
                 "base": 92,
@@ -213,7 +213,7 @@
         "tier": 2,
         "race": "Men",
         "classes": [5],
-        "skills": [],
+        "skills": [172, 173, 174, 175],
         "stats": {
             "might": {
                 "base": 88,
@@ -236,7 +236,7 @@
         "tier": 2,
         "race": "Elves",
         "classes": [1, 6],
-        "skills": [],
+        "skills": [148, 149, 150, 151],
         "stats": {
             "might": {
                 "base": 104,
@@ -259,7 +259,7 @@
         "tier": 2,
         "race": "Elves",
         "classes": [2, 8],
-        "skills": [],
+        "skills": [152, 153, 154, 155],
         "stats": {
             "might": {
                 "base": 93,
@@ -282,7 +282,7 @@
         "tier": 2,
         "race": "Elves",
         "classes": [6, 8],
-        "skills": [],
+        "skills": [168, 169, 170, 171],
         "stats": {
             "might": {
                 "base": 75,
@@ -305,7 +305,7 @@
         "tier": 2,
         "race": "Man",
         "classes": [5, 8],
-        "skills": [],
+        "skills": [180, 181, 182, 183],
         "stats": {
             "might": {
                 "base": 96,
@@ -328,7 +328,7 @@
         "tier": 2,
         "race": "Maiar",
         "classes": [6, 4],
-        "skills": [],
+        "skills": [140, 141, 142, 143],
         "stats": {
             "might": {
                 "base": 80,
