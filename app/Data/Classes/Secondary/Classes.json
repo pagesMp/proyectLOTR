@@ -1,26 +1,32 @@
 [
     {
         "id": 6,
-        "name": "Focus"
+        "name": "Focus",
+        "effects": {}
     },
     {
         "id": 7,
-        "name": "Tip Master"
+        "name": "Tip Master",
+        "effects": {}
     },
     {
         "id": 8,
-        "name": "Control"
+        "name": "Control",
+        "effects": {}
     },
     {
         "id": 9,
-        "name": "Burn"
+        "name": "Burn",
+        "effects": {}
     },
     {
         "id": 10,
-        "name": "Poison"
+        "name": "Poison",
+        "effects": {}
     },
     {
         "id": 11,
-        "name": "Heal"
+        "name": "Heal",
+        "effects": {}
     }
 ]
