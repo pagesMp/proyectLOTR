@@ -6,7 +6,7 @@
         "tier": 3,
         "race": "Evil Men",
         "classes": [9, 11],
-        "skills": [],
+        "skills": [76, 77, 78, 79],
         "stats": {
             "might": {
                 "base": 85,
@@ -29,7 +29,7 @@
         "tier": 3,
         "race": "Evil Men",
         "classes": [5, 8],
-        "skills": [],
+        "skills": [72, 73, 74, 75],
         "stats": {
             "might": {
                 "base": 91,
@@ -51,7 +51,7 @@
         "alignment": "Evil",
         "race": "Maiar",
         "classes": [2, 7],
-        "skills": [],
+        "skills": [88, 89, 90, 91],
         "stats": {
             "might": {
                 "base": 75,
@@ -73,7 +73,7 @@
         "alignment": "Evil",
         "race": "Maiar",
         "classes": [9, 7],
-        "skills": [],
+        "skills": [84, 85, 86, 87],
         "stats": {
             "might": {
                 "base": 120,
@@ -95,7 +95,7 @@
         "alignment": "Evil",
         "race": "Undead",
         "classes": [5, 6],
-        "skills": [],
+        "skills": [80, 81, 82, 83],
         "stats": {
             "might": {
                 "base": 103,
@@ -117,7 +117,7 @@
         "alignment": "Evil",
         "race": "Undead",
         "classes": [6, 10],
-        "skills": [],
+        "skills": [92, 93, 94, 95],
         "stats": {
             "might": {
                 "base": 100,
