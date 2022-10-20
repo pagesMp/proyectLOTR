@@ -1,0 +1,146 @@
+[
+    {
+        "id": 18,
+        "name":"Crusher",
+        "units": 100,
+        "skills":[],
+        "stats": {
+            "damage": [13, 16],
+            "hp": 36,
+            "defence": 66,
+            "speed": 55,
+            "siege": 19
+        }
+    },
+    {
+        "id": 19,
+        "name":"Raider",
+        "units": 50,
+        "skills":[],
+        "stats": {
+            "damage": [34, 40],
+            "hp": 86,
+            "defence": 33,
+            "speed": 133,
+            "siege": 17
+        }
+    },
+    {
+        "id": 20,
+        "name":"Mountain Troll",
+        "units": 4,
+        "skills":[],
+        "stats": {
+            "damage": [350, 400],
+            "hp": 1200,
+            "defence": 66,
+            "speed": 42,
+            "siege": 500
+        }
+    },
+    {
+        "id": 21,
+        "name":"Halberdier",
+        "units": 100,
+        "skills":[],
+        "stats": {
+            "damage": [17, 19],
+            "hp": 35,
+            "defence": 45,
+            "speed": 65,
+            "siege": 17
+        }
+    },
+    {
+        "id": 22,
+        "name":"Dragoon",
+        "units": 50,
+        "skills":[],
+        "stats": {
+            "damage": [32, 38],
+            "hp": 88,
+            "defence": 52,
+            "speed": 122,
+            "siege": 21
+        }
+    },
+    {
+        "id": 23,
+        "name":"Corsair",
+        "units": 100,
+        "skills":[],
+        "stats": {
+            "damage": [13, 24],
+            "hp": 36,
+            "defence": 31,
+            "speed": 88,
+            "siege": 21
+        }
+    },
+    {
+        "id": 24,
+        "name":"Morgul Arbalest",
+        "units": 100,
+        "skills":[],
+        "stats": {
+            "damage": [9, 16],
+            "hp": 32,
+            "defence": 22,
+            "speed": 66,
+            "siege": 10
+        }
+    },
+    {
+        "id": 25,
+        "name":"Reaper",
+        "units": 100,
+        "skills":[],
+        "stats": {
+            "damage": [15, 23],
+            "hp": 34,
+            "defence": 30,
+            "speed": 76,
+            "siege": 18
+        }
+    },
+    {
+        "id": 26,
+        "name":"Berserker",
+        "units": 100,
+        "skills":[],
+        "stats": {
+            "damage": [19, 23],
+            "hp": 40,
+            "defence": 18,
+            "speed": 75,
+            "siege": 16
+        }
+    },
+    {
+        "id": 27,
+        "name":"Alchemist",
+        "units": 100,
+        "skills":[],
+        "stats": {
+            "damage": [4, 14],
+            "hp": 30,
+            "defence": 16,
+            "speed": 66,
+            "siege": 30
+        }
+    },
+    {
+        "id": 28,
+        "name":"Sniper",
+        "units": 100,
+        "skills":[],
+        "stats": {
+            "damage": [22, 25],
+            "hp": 32,
+            "defence": 19,
+            "speed": 65,
+            "siege": 15
+        }
+    }
+    
+]

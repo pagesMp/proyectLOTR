@@ -1,0 +1,15 @@
+[
+    {
+        "id": ,
+        "name":"Hobbit Slinger",
+        "units": 100,
+        "skills":[],
+        "stats": {
+            "damage": [14, 15],
+            "hp": 14,
+            "defence": 6,
+            "speed": 92,
+            "siege": 14
+        }
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "id": 35,
+        "name":"Horseback Archer",
+        "units": 50,
+        "skills":[],
+        "stats": {
+            "damage": [21, 23],
+            "hp": 56,
+            "defence": 16,
+            "speed": 127,
+            "siege": 12
+        }
+    },
+    {
+        "id": 36,
+        "name":"Hunter",
+        "units": 100,
+        "skills":[],
+        "stats": {
+            "damage": [15, 16],
+            "hp": 18,
+            "defence": 5,
+            "speed": 86,
+            "siege": 7
+        }
+    },
+    {
+        "id": 37,
+        "name":"Axe Thrower",
+        "units": 100,
+        "skills":[],
+        "stats": {
+            "damage": [5, 17],
+            "hp": 22,
+            "defence": 15,
+            "speed": 77,
+            "siege": 8
+        }
+    },
+    {
+        "id": 38,
+        "name":"Dwarven Footman",
+        "units": 100,
+        "skills":[],
+        "stats": {
+            "damage": [8, 11],
+            "hp": 26,
+            "defence": 18,
+            "speed": 86,
+            "siege": 18
+        }
+    },
+    {
+        "id": 39,
+        "name":"Militia",
+        "units": 100,
+        "skills":[],
+        "stats": {
+            "damage": [8, 13],
+            "hp": 24,
+            "defence": 24,
+            "speed": 89,
+            "siege": 16
+        }
+    }
+]

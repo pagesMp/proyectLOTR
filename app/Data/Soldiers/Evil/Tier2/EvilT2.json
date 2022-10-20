@@ -1,0 +1,145 @@
+[
+    {
+        "id": 8,
+        "name":"Brute",
+        "units": 100,
+        "skills":[],
+        "stats": {
+            "damage": [10, 16],
+            "hp": 30,
+            "defence": 44,
+            "speed": 69,
+            "siege": 18
+        }
+    },
+    {
+        "id": 9,
+        "name":"Tracker",
+        "units": 50,
+        "skills":[],
+        "stats": {
+            "damage": [26, 32],
+            "hp": 68,
+            "defence": 26,
+            "speed": 135,
+            "siege": 16
+        }
+    },
+    {
+        "id": 9,
+        "name":"Cave Troll",
+        "units": 4,
+        "skills":[],
+        "stats": {
+            "damage": [300, 380],
+            "hp": 1000,
+            "defence": 56,
+            "speed": 49,
+            "siege": 450
+        }
+    },
+    {
+        "id": 10,
+        "name":"Pikeman",
+        "units": 100,
+        "skills":[],
+        "stats": {
+            "damage": [14, 17],
+            "hp": 30,
+            "defence": 36,
+            "speed": 75,
+            "siege": 16
+        }
+    },
+    {
+        "id": 11,
+        "name":"Marauder",
+        "units": 50,
+        "skills":[],
+        "stats": {
+            "damage": [25, 32],
+            "hp": 80,
+            "defence": 30,
+            "speed": 118,
+            "siege": 20
+        }
+    },
+    {
+        "id": 12,
+        "name":"Pirate",
+        "units": 100,
+        "skills":[],
+        "stats": {
+            "damage": [12, 19],
+            "hp": 34,
+            "defence": 16,
+            "speed": 88,
+            "siege": 15
+        }
+    },
+    {
+        "id": 13,
+        "name":"Orc Crossbowman",
+        "units": 100,
+        "skills":[],
+        "stats": {
+            "damage": [7, 15],
+            "hp": 26,
+            "defence": 13,
+            "speed": 76,
+            "siege": 8
+        }
+    },
+    {
+        "id": 14,
+        "name":"Stalker",
+        "units": 100,
+        "skills":[],
+        "stats": {
+            "damage": [12, 23],
+            "hp": 28,
+            "defence": 16,
+            "speed": 82,
+            "siege": 15
+        }
+    },
+    {
+        "id": 15,
+        "name":"Brawler",
+        "units": 100,
+        "skills":[],
+        "stats": {
+            "damage": [15, 17],
+            "hp": 32,
+            "defence": 14,
+            "speed": 84,
+            "siege": 12
+        }
+    },
+    {
+        "id": 16,
+        "name":"Sapper",
+        "units": 100,
+        "skills":[],
+        "stats": {
+            "damage": [4, 13],
+            "hp": 28,
+            "defence": 15,
+            "speed": 72,
+            "siege": 25
+        }
+    },
+    {
+        "id": 17,
+        "name":"Uruk Archer",
+        "units": 100,
+        "skills":[],
+        "stats": {
+            "damage": [14, 16],
+            "hp": 30,
+            "defence": 10,
+            "speed": 72,
+            "siege": 12
+        }
+    }
+]

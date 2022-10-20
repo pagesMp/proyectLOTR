@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "name":"Grunt",
+        "units": 100,
+        "skills":[],
+        "stats": {
+            "damage": [5, 16],
+            "hp": 24,
+            "defence": 22,
+            "speed": 82,
+            "siege": 17
+        }
+    },
+    {
+        "id": 2,
+        "name":"Scout",
+        "units": 50,
+        "skills":[],
+        "stats": {
+            "damage": [16, 21],
+            "hp": 52,
+            "defence": 16,
+            "speed": 138,
+            "siege": 15
+        }
+    },
+    {
+        "id": 3,
+        "name":"Skirmisher",
+        "units": 100,
+        "skills":[],
+        "stats": {
+            "damage": [9, 12],
+            "hp": 24,
+            "defence": 19,
+            "speed": 85,
+            "siege": 15
+        }
+    },
+    {
+        "id": 4,
+        "name":"Mercenary",
+        "units": 50,
+        "skills":[],
+        "stats": {
+            "damage": [17, 24],
+            "hp": 63,
+            "defence": 17,
+            "speed": 138,
+            "siege": 19
+        }
+    },
+    {
+        "id": 5,
+        "name":"Orc Archer",
+        "units": 100,
+        "skills":[],
+        "stats": {
+            "damage": [10, 15],
+            "hp": 22,
+            "defence": 12,
+            "speed": 88,
+            "siege": 7
+        }
+    },
+    {
+        "id": 6,
+        "name":"Bruiser",
+        "units": 100,
+        "skills":[],
+        "stats": {
+            "damage": [10, 13],
+            "hp": 25,
+            "defence": 10,
+            "speed": 92,
+            "siege": 8
+        }
+    },
+    {
+        "id": 7,
+        "name":"Breaker",
+        "units": 100,
+        "skills":[],
+        "stats": {
+            "damage": [4, 12],
+            "hp": 26,
+            "defence": 14,
+            "speed": 79,
+            "siege": 20
+        }
+    }
+]
