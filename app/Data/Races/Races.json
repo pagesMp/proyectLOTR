@@ -53,5 +53,10 @@
         "id": 11,
         "name": "Trolls",
         "alignment": ["Evil"]
+    },
+    {
+        "id": 12,
+        "name": "Beasts",
+        "alignment": ["Evil", "Good", "Neutral"]
     }
 ]

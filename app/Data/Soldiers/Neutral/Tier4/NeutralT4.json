@@ -1,0 +1,66 @@
+[
+    {
+        "id": 88,
+        "name":"Mûmakil",
+        "alignment": ["Neutral", "Evil"],
+        "units": 1,
+        "tier": 4,
+        "race": 12,
+        "skills":[],
+        "stats": {
+            "damage": [1200, 1500],
+            "hp": 8000,
+            "defence": 100,
+            "speed": 83,
+            "siege": 4000
+        }
+    },  
+    {
+        "id": 89,
+        "name":"Ents",
+        "alignment": ["Neutral", "Good"],
+        "units": 2,
+        "tier": 4,
+        "race": 10,
+        "skills":[],
+        "stats": {
+            "damage": [600, 700],
+            "hp": 2400,
+            "defence": 205,
+            "speed": 15,
+            "siege": 900
+        }
+    },
+    {
+        "id": 90,
+        "name":"Eagles",
+        "alignment": ["Neutral", "Good"],
+        "units": 5,
+        "tier": 4,
+        "race": 12,
+        "skills":[],
+        "stats": {
+            "damage": [200, 300],
+            "hp": 900,
+            "defence": 29,
+            "speed": 300,
+            "siege": 45
+        }
+    },
+    {
+        "id": 91,
+        "name":"Fellbeast",
+        "alignment": ["Neutral", "Evil"],
+        "units": 5,
+        "tier": 4,
+        "race": 12,
+        "skills":[],
+        "stats": {
+            "damage": [150, 300],
+            "hp": 840,
+            "defence": 44,
+            "speed": 250,
+            "siege": 50
+        }
+    }
+]

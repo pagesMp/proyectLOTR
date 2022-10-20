@@ -1,0 +1,210 @@
+[
+    {
+        "id": 75,
+        "name":"Seafarer",
+        "alignment": ["Neutral", "Good"],
+        "units": 100,
+        "tier": 3,
+        "race": 6,
+        "skills":[],
+        "stats": {
+            "damage": [18, 21],
+            "hp": 33,
+            "defence": 35,
+            "speed": 85,
+            "siege": 13
+        }
+    },
+    {
+        "id": 76,
+        "name":"Keeper",
+        "alignment": ["Neutral", "Good"],
+        "units": 100,
+        "tier": 3,
+        "race": 2,
+        "skills":[],
+        "stats": {
+            "damage": [20, 25],
+            "hp": 25,
+            "defence": 24,
+            "speed": 105,
+            "siege": 5
+        }
+    },
+    {
+        "id": 77,
+        "name":"Hill-Troll",
+        "alignment": ["Neutral", "Evil"],
+        "units": 4,
+        "tier": 3,
+        "race": 11,
+        "skills":[],
+        "stats": {
+            "damage": [420, 460],
+            "hp": 900,
+            "defence": 40,
+            "speed": 50,
+            "siege": 350
+        }
+    },
+    {
+        "id": 78,
+        "name":"Wraith",
+        "alignment": ["Neutral", "Evil"],
+        "units": 100,
+        "tier": 3,
+        "race": 8,
+        "skills":[],
+        "stats": {
+            "damage": [23, 24],
+            "hp": 30,
+            "defence": 15,
+            "speed": 80,
+            "siege": 10
+        }
+    },
+    {
+        "id": 79,
+        "name":"Barrow-wight",
+        "alignment": ["Neutral", "Evil"],
+        "units": 100,
+        "tier": 3,
+        "race": 8,
+        "skills":[],
+        "stats": {
+            "damage": [13, 15],
+            "hp": 38,
+            "defence": 41,
+            "speed": 41,
+            "siege": 11
+        }
+    },
+    {
+        "id": 80,
+        "name":"Oathbreaker",
+        "alignment": ["Neutral", "Good", "Evil"],
+        "units": 100,
+        "tier": 3,
+        "race": 8,
+        "skills":[],
+        "stats": {
+            "damage": [16, 17],
+            "hp": 20,
+            "defence": 0,
+            "speed": 92,
+            "siege": 15
+        }
+    },
+    {
+        "id": 81,
+        "name":"SHalf-Troll",
+        "alignment": ["Neutral", "Evil"],
+        "units": 100,
+        "tier": 3,
+        "race": 11,
+        "skills":[],
+        "stats": {
+            "damage": [17, 22],
+            "hp": 40,
+            "defence": 20,
+            "speed": 85,
+            "siege": 15
+        }
+    },
+    {
+        "id": 82,
+        "name":"Dunleding Warrior",
+        "alignment": ["Neutral", "Evil"],
+        "units": 100,
+        "tier": 3,
+        "race": 3,
+        "skills":[],
+        "stats": {
+            "damage": [18, 22],
+            "hp": 38,
+            "defence": 26,
+            "speed": 8595,
+            "siege": 15
+        }
+    },
+    {
+        "id": 83,
+        "name":"Bree Rider",
+        "alignment": ["Neutral", "Good"],
+        "units": 50,
+        "tier": 3,
+        "race": 6,
+        "skills":[],
+        "stats": {
+            "damage": [35, 40],
+            "hp": 90,
+            "defence": 32,
+            "speed": 121,
+            "siege": 20
+        }
+    },
+    {
+        "id": 84,
+        "name":"Great Beast",
+        "alignment": ["Neutral", "Evil"],
+        "units": 4,
+        "tier": 3,
+        "race": 12,
+        "skills":[],
+        "stats": {
+            "damage": [325, 350],
+            "hp": 1150,
+            "defence": 55,
+            "speed":48,
+            "siege": 500
+        }
+    },
+    {
+        "id": 85,
+        "name":"Beornings",
+        "alignment": ["Neutral", "Good"],
+        "units": 4,
+        "tier": 3,
+        "race": 12,
+        "skills":[],
+        "stats": {
+            "damage": [350, 420],
+            "hp": 1000,
+            "defence": 75,
+            "speed": 62,
+            "siege": 600
+        }
+    },
+    {
+        "id": 86,
+        "name":"Woses Hunter",
+        "alignment": ["Neutral", "Good"],
+        "units": 100,
+        "tier": 3,
+        "race": 6,
+        "skills":[],
+        "stats": {
+            "damage": [15, 20],
+            "hp": 40,
+            "defence": 20,
+            "speed": 50,
+            "siege": 10
+        }
+    },
+    {
+        "id": 87,
+        "name":"Dale Watchman",
+        "alignment": ["Neutral", "Good"],
+        "units": 100,
+        "tier": 3,
+        "race": 6,
+        "skills":[],
+        "stats": {
+            "damage": [20, 26],
+            "hp": 30,
+            "defence": 35,
+            "speed": 60,
+            "siege": 12
+        }
+    }
+]

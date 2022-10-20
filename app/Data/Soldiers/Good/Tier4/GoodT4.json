@@ -1,0 +1,99 @@
+[
+    {
+        "id": 64,
+        "name":"Iron Warrior",
+        "alignment": "Good",
+        "units": 50,
+        "tier": 4,
+        "race": 1,
+        "skills":[],
+        "stats": {
+            "damage": [30, 34],
+            "hp": 84,
+            "defence": 116,
+            "speed": 49,
+            "siege": 42
+        }
+    },    
+    {
+        "id": 65,
+        "name":"Ñoldor Longshot",
+        "alignment": "Good",
+        "units": 50,
+        "tier": 4,
+        "race": 2,
+        "skills":[],
+        "stats": {
+            "damage": [55, 56],
+            "hp": 60,
+            "defence": 35,
+            "speed": 69,
+            "siege": 16
+        }
+    },
+    {
+        "id": 66,
+        "name":"Swan Knight",
+        "alignment": "Good",
+        "units": 50,
+        "tier": 4,
+        "race": 6,
+        "skills":[],
+        "stats": {
+            "damage": [27, 34],
+            "hp": 98,
+            "defence": 66,
+            "speed": 128,
+            "siege": 28
+        }
+    },
+    {
+        "id": 67,
+        "name":"Marchwarden",
+        "alignment": "Good",
+        "units": 50,
+        "tier": 4,
+        "race": 2,
+        "skills":[],
+        "stats": {
+            "damage": [59, 60],
+            "hp": 66,
+            "defence": 41,
+            "speed": 99,
+            "siege": 17
+        }
+    },
+    {
+        "id": 68,
+        "name":"Marshal",
+        "alignment": "Good",
+        "units": 50,
+        "tier": 4,
+        "race": 6,
+        "skills":[],
+        "stats": {
+            "damage": [34, 40],
+            "hp": 90,
+            "defence": 43,
+            "speed": 157,
+            "siege": 25
+        }
+    },
+    {
+        "id": 69,
+        "name":"Ranger of the North",
+        "alignment": "Good",
+        "units": 50,
+        "tier": 4,
+        "race": 6,
+        "skills":[],
+        "stats": {
+            "damage": [35, 38],
+            "hp": 86,
+            "defence": 49,
+            "speed": 100,
+            "siege": 15
+        }
+    }
+
+]

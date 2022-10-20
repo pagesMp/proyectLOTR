@@ -1,8 +1,11 @@
 [
     {
-        "id": ,
+        "id": 70,
         "name":"Hobbit Slinger",
+        "alignment": ["Neutral", "Good"],
         "units": 100,
+        "tier": 1,
+        "race": 4,
         "skills":[],
         "stats": {
             "damage": [14, 15],
