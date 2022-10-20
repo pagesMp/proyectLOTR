@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "name": "Persecutor",
+        "name": "Pursuer",
         "minorSkills": [1, 2],
         "effects": {}
     },
