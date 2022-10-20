@@ -63,7 +63,7 @@
         "name": "Support",
         "effects": [
             {
-                "targetType": "Might",
+                "targetType": "Focus",
                 "targetScope": "Commander",
                 "amount": 25
             },
