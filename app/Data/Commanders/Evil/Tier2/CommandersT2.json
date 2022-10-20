@@ -79,15 +79,15 @@
         "stats": {
             "might": {
                 "base": 97,
-                "rate": 0
+                "rate": 1.94
             },
             "focus": {
                 "base": 89,
-                "rate": 0
+                "rate": 1.29
             },
             "speed": {
                 "base": 78,
-                "rate": 0
+                "rate": 1.42
             }
         }
     },
@@ -102,15 +102,15 @@
         "stats": {
             "might": {
                 "base": 104,
-                "rate": 0
+                "rate": 2.67
             },
             "focus": {
                 "base": 31,
-                "rate": 0
+                "rate": 0.39
             },
             "speed": {
                 "base": 75,
-                "rate": 0
+                "rate": 1.36
             }
         }
     },
@@ -125,15 +125,15 @@
         "stats": {
             "might": {
                 "base": 93,
-                "rate": 0
+                "rate": 2.21
             },
             "focus": {
                 "base": 32,
-                "rate": 0
+                "rate": 0.52
             },
             "speed": {
                 "base": 45,
-                "rate": 0
+                "rate": 0.99
             }
         }
     },
@@ -171,15 +171,15 @@
         "stats": {
             "might": {
                 "base": 78,
-                "rate": 0
+                "rate": 1.56
             },
             "focus": {
                 "base": 93,
-                "rate": 0
+                "rate": 2.21
             },
             "speed": {
                 "base": 51,
-                "rate": 0
+                "rate": 0.64
             }
         }
     },

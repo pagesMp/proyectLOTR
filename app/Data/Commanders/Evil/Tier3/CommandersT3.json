@@ -99,15 +99,15 @@
         "stats": {
             "might": {
                 "base": 103,
-                "rate": 0
+                "rate": 2.26
             },
             "focus": {
                 "base": 92,
-                "rate": 0
+                "rate": 1.67
             },
             "speed": {
                 "base": 105,
-                "rate": 0
+                "rate": 1.91
             }
         }
     },
@@ -121,15 +121,15 @@
         "stats": {
             "might": {
                 "base": 100,
-                "rate": 0
+                "rate": 2.38
             },
             "focus": {
                 "base": 65,
-                "rate": 0
+                "rate": 0.82
             },
             "speed": {
                 "base": 58,
-                "rate": 0
+                "rate": 1.76
             }
         }
     }

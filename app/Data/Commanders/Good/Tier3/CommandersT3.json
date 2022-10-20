@@ -171,15 +171,15 @@
         "stats": {
             "might": {
                 "base": 58,
-                "rate": 0
+                "rate": 0.73
             },
             "focus": {
                 "base": 103,
-                "rate": 0
+                "rate": 2.26
             },
             "speed": {
                 "base": 110,
-                "rate": 0
+                "rate": 2
             }
         }
     },
@@ -240,15 +240,15 @@
         "stats": {
             "might": {
                 "base": 81,
-                "rate": 0
+                "rate": 1.62
             },
             "focus": {
                 "base": 81,
-                "rate": 0
+                "rate": 1.02
             },
             "speed": {
                 "base": 85,
-                "rate": 0
+                "rate": 2.18
             }
         }
     },
@@ -263,15 +263,15 @@
         "stats": {
             "might": {
                 "base": 99,
-                "rate": 0
+                "rate": 2.17
             },
             "focus": {
                 "base": 83,
-                "rate": 0
+                "rate": 1.66
             },
             "speed": {
                 "base": 91,
-                "rate": 0
+                "rate": 2
             }
         }
     },

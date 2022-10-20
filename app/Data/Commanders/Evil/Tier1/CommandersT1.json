@@ -194,15 +194,15 @@
         "stats": {
             "might": {
                 "base": 91,
-                "rate": 0
+                "rate": 2
             },
             "focus": {
                 "base": 37,
-                "rate": 0
+                "rate": 0.61
             },
             "speed": {
                 "base": 35,
-                "rate": 0
+                "rate": 0.64
             }
         }
     }
