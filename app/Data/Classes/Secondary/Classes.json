@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "id": 6,
+        "name": "Focus"
+    },
+    {
+        "id": 7,
+        "name": "Tip Master"
+    },
+    {
+        "id": 8,
+        "name": "Control"
+    },
+    {
+        "id": 9,
+        "name": "Burn"
+    },
+    {
+        "id": 10,
+        "name": "Poison"
+    },
+    {
+        "id": 11,
+        "name": "Heal"
+    }
+]
