@@ -6,7 +6,7 @@
         "tier": 2,
         "race": "Orcs",
         "classes": [6, 3],
-        "skills": [],
+        "skills": [52, 53, 54, 55],
         "stats": {
             "might": {
                 "base": 45,
@@ -29,7 +29,7 @@
         "tier": 2,
         "race": "Undead",
         "classes": [9],
-        "skills": [],
+        "skills": [36, 37, 38, 39],
         "stats": {
             "might": {
                 "base": 97,
@@ -52,7 +52,7 @@
         "tier": 2,
         "race": "Evil Men",
         "classes": [6, 4],
-        "skills": [],
+        "skills": [56, 57, 58, 59],
         "stats": {
             "might": {
                 "base": 82,
@@ -75,7 +75,7 @@
         "tier": 2,
         "race": "Undead",
         "classes": [9, 10],
-        "skills": [],
+        "skills": [40, 41, 42, 43],
         "stats": {
             "might": {
                 "base": 97,
@@ -98,7 +98,7 @@
         "tier": 2,
         "race": "Uruk-hai",
         "classes": [1, 6 ],
-        "skills": [],
+        "skills": [44, 45, 46, 47],
         "stats": {
             "might": {
                 "base": 104,
@@ -121,7 +121,7 @@
         "tier": 2,
         "race": "Uruk-hai",
         "classes": [1, 6],
-        "skills": [],
+        "skills": [48, 49, 50, 51],
         "stats": {
             "might": {
                 "base": 93,
@@ -144,7 +144,7 @@
         "tier": 2,
         "race": "Evil Men",
         "classes": [2, 6],
-        "skills": [],
+        "skills": [60, 61, 62, 63],
         "stats": {
             "might": {
                 "base": 38,
@@ -167,7 +167,7 @@
         "tier": 2,
         "race": "Orcs",
         "classes": [5, 6],
-        "skills": [],
+        "skills": [68, 69, 70, 71],
         "stats": {
             "might": {
                 "base": 78,
@@ -190,7 +190,7 @@
         "tier": 2,
         "race": "Undead",
         "classes": [6],
-        "skills": [],
+        "skills": [64, 65, 66, 67],
         "stats": {
             "might": {
                 "base": 89,
