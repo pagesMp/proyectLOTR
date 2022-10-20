@@ -2,7 +2,10 @@
     {
         "id": 8,
         "name":"Brute",
+        "alignment": "Evil",
         "units": 100,
+        "tier": 2,
+        "race": 7,
         "skills":[],
         "stats": {
             "damage": [10, 16],
@@ -15,6 +18,9 @@
     {
         "id": 9,
         "name":"Tracker",
+        "alignment": "Evil",
+        "tier": 2,
+        "race": 7,
         "units": 50,
         "skills":[],
         "stats": {
@@ -28,7 +34,10 @@
     {
         "id": 9,
         "name":"Cave Troll",
+        "alignment": "Evil",
         "units": 4,
+        "tier": 2,
+        "race": 11,
         "skills":[],
         "stats": {
             "damage": [300, 380],
@@ -41,7 +50,10 @@
     {
         "id": 10,
         "name":"Pikeman",
+        "alignment": "Evil",
         "units": 100,
+        "tier": 2,
+        "race": 3,
         "skills":[],
         "stats": {
             "damage": [14, 17],
@@ -54,7 +66,10 @@
     {
         "id": 11,
         "name":"Marauder",
+        "alignment": "Evil",
         "units": 50,
+        "tier": 2,
+        "race": 3,
         "skills":[],
         "stats": {
             "damage": [25, 32],
@@ -67,7 +82,10 @@
     {
         "id": 12,
         "name":"Pirate",
+        "alignment": "Evil",
         "units": 100,
+        "tier": 2,
+        "race": 3,
         "skills":[],
         "stats": {
             "damage": [12, 19],
@@ -80,7 +98,10 @@
     {
         "id": 13,
         "name":"Orc Crossbowman",
+        "alignment": "Evil",
         "units": 100,
+        "tier": 2,
+        "race": 7,
         "skills":[],
         "stats": {
             "damage": [7, 15],
@@ -93,7 +114,10 @@
     {
         "id": 14,
         "name":"Stalker",
+        "alignment": "Evil",
         "units": 100,
+        "tier": 2,
+        "race": 7,
         "skills":[],
         "stats": {
             "damage": [12, 23],
@@ -106,7 +130,10 @@
     {
         "id": 15,
         "name":"Brawler",
+        "alignment": "Evil",
         "units": 100,
+        "tier": 2,
+        "race": 9,
         "skills":[],
         "stats": {
             "damage": [15, 17],
@@ -119,7 +146,10 @@
     {
         "id": 16,
         "name":"Sapper",
+        "alignment": "Evil",
         "units": 100,
+        "tier": 2,
+        "race": 9,
         "skills":[],
         "stats": {
             "damage": [4, 13],
@@ -132,7 +162,10 @@
     {
         "id": 17,
         "name":"Uruk Archer",
+        "alignment": "Evil",
         "units": 100,
+        "tier": 2,
+        "race": 9,
         "skills":[],
         "stats": {
             "damage": [14, 16],

@@ -2,7 +2,10 @@
     {
         "id": 1,
         "name":"Grunt",
+        "alignment": "Evil",
         "units": 100,
+        "tier": 1,
+        "race": 7,
         "skills":[],
         "stats": {
             "damage": [5, 16],
@@ -15,7 +18,10 @@
     {
         "id": 2,
         "name":"Scout",
+        "alignment": "Evil",
         "units": 50,
+        "tier": 1,
+        "race": 7,
         "skills":[],
         "stats": {
             "damage": [16, 21],
@@ -28,7 +34,10 @@
     {
         "id": 3,
         "name":"Skirmisher",
+        "alignment": "Evil",
         "units": 100,
+        "tier": 1,
+        "race": 3,
         "skills":[],
         "stats": {
             "damage": [9, 12],
@@ -41,7 +50,10 @@
     {
         "id": 4,
         "name":"Mercenary",
+        "alignment": "Evil",
         "units": 50,
+        "tier": 1,
+        "race": 3,
         "skills":[],
         "stats": {
             "damage": [17, 24],
@@ -54,7 +66,10 @@
     {
         "id": 5,
         "name":"Orc Archer",
+        "alignment": "Evil",
         "units": 100,
+        "tier": 1,
+        "race": 7,
         "skills":[],
         "stats": {
             "damage": [10, 15],
@@ -67,7 +82,10 @@
     {
         "id": 6,
         "name":"Bruiser",
+        "alignment": "Evil",
         "units": 100,
+        "tier": 1,
+        "race": 9,
         "skills":[],
         "stats": {
             "damage": [10, 13],
@@ -80,7 +98,10 @@
     {
         "id": 7,
         "name":"Breaker",
+        "alignment": "Evil",
         "units": 100,
+        "tier": 1,
+        "race": 9,
         "skills":[],
         "stats": {
             "damage": [4, 12],

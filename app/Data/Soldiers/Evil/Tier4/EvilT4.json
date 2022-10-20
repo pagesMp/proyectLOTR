@@ -3,6 +3,8 @@
         "id": 29,
         "name":"Ravager",
         "units": 4,
+        "tier": 4,
+        "race": 11,
         "skills":[],
         "stats": {
             "damage": [400, 420],
@@ -16,6 +18,8 @@
         "id": 30,
         "name":"War Chariot",
         "units": 4,
+        "tier": 4,
+        "race": 3,
         "skills":[],
         "stats": {
             "damage": [225, 300 ],
@@ -29,6 +33,8 @@
         "id": 31,
         "name":"Fallen",
         "units": 50,
+        "tier": 4,
+        "race": 3,
         "skills":[],
         "stats": {
             "damage": [30, 40],
@@ -42,6 +48,8 @@
         "id": 32,
         "name":"Snaga Thrak",
         "units": 50,
+        "tier": 4,
+        "race": 9,
         "skills":[],
         "stats": {
             "damage": [6, 66],
@@ -55,6 +63,8 @@
         "id": 33,
         "name":"Champion",
         "units": 50,
+        "tier": 4,
+        "race": 3,
         "skills":[],
         "stats": {
             "damage": [35, 38],
@@ -68,6 +78,8 @@
         "id": 34,
         "name":"Warlord",
         "units": 50,
+        "tier": 4,
+        "race": 7,
         "skills":[],
         "stats": {
             "damage": [50, 60],

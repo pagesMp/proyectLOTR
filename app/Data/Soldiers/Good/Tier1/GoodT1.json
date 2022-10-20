@@ -63,5 +63,31 @@
             "speed": 89,
             "siege": 16
         }
+    },
+    {
+        "id": 40,
+        "name":"Horseman",
+        "units": 50,
+        "skills":[],
+        "stats": {
+            "damage": [15, 23],
+            "hp": 65,
+            "defence": 30,
+            "speed": 132,
+            "siege": 20
+        }
+    },
+    {
+        "id": 41,
+        "name":"Ligth Cavarly",
+        "units": 50,
+        "skills":[],
+        "stats": {
+            "damage": [18, 25],
+            "hp": 62,
+            "defence": 15,
+            "speed": 139,
+            "siege": 15
+        }
     }
 ]
