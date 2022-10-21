@@ -6,7 +6,7 @@
         "units": 100,
         "tier": 23,
         "race": 7,
-        "skills":[],
+        "skills":[1, 2],
         "stats": {
             "damage": [13, 16],
             "hp": 36,
@@ -22,7 +22,7 @@
         "units": 50,
         "tier": 3,
         "race": 7,
-        "skills":[],
+        "skills":[4, 3],
         "stats": {
             "damage": [34, 40],
             "hp": 86,
@@ -38,7 +38,7 @@
         "units": 4,
         "tier": 3,
         "race": 11,
-        "skills":[],
+        "skills":[6, 5],
         "stats": {
             "damage": [350, 400],
             "hp": 1200,
@@ -54,7 +54,7 @@
         "units": 100,
         "tier": 3,
         "race": 3,
-        "skills":[],
+        "skills":[8, 9],
         "stats": {
             "damage": [17, 19],
             "hp": 35,
@@ -70,7 +70,7 @@
         "units": 50,
         "tier": 3,
         "race": 3,
-        "skills":[],
+        "skills":[3, 11],
         "stats": {
             "damage": [32, 38],
             "hp": 88,
@@ -86,7 +86,7 @@
         "units": 100,
         "tier": 3,
         "race": 3,
-        "skills":[],
+        "skills":[12, 13],
         "stats": {
             "damage": [13, 24],
             "hp": 36,
@@ -102,7 +102,7 @@
         "units": 100,
         "tier": 3,
         "race": 7,
-        "skills":[],
+        "skills":[15, 14],
         "stats": {
             "damage": [9, 16],
             "hp": 32,
@@ -118,7 +118,7 @@
         "units": 100,
         "tier": 3,
         "race": 7,
-        "skills":[],
+        "skills":[16, 17],
         "stats": {
             "damage": [15, 23],
             "hp": 34,
@@ -134,7 +134,7 @@
         "units": 100,
         "tier": 3,
         "race": 9,
-        "skills":[],
+        "skills":[18, 21],
         "stats": {
             "damage": [19, 23],
             "hp": 40,
@@ -150,7 +150,7 @@
         "units": 100,
         "tier": 3,
         "race": 9,
-        "skills":[],
+        "skills":[22],
         "stats": {
             "damage": [4, 14],
             "hp": 30,
@@ -166,7 +166,7 @@
         "units": 100,
         "tier": 3,
         "race": 9,
-        "skills":[],
+        "skills":[23, 24],
         "stats": {
             "damage": [22, 25],
             "hp": 32,

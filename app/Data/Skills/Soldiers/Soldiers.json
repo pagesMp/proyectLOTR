@@ -1,1 +1,368 @@
-[]
+[
+    {
+        "id": 1,
+        "name":"Torture",
+        "effect":{}
+    },
+    {
+        "id": 2,
+        "name":"Armor Break",
+        "effect":{}
+    },
+    {
+        "id": 3,
+        "name":"Mounted",
+        "effect":{}
+    },
+    {
+        "id": 4,
+        "name":"Predator",
+        "effect":{}
+    },
+    {
+        "id": 5,
+        "name":"Large Unit",
+        "effect":{}
+    },
+    {
+        "id": 6,
+        "name":"Massive Presence",
+        "effect":{}
+    },
+    {
+        "id": 7,
+        "name":"Savagery",
+        "effect":{}
+    },
+    {
+        "id": 8,
+        "name":"Anti-Cavalry Training",
+        "effect":{}
+    },
+    {
+        "id": 9,
+        "name":"Spear Wall",
+        "effect":{}
+    },
+    {
+        "id": 10,
+        "name":"Looting",
+        "effect":{}
+    },
+    {
+        "id": 11,
+        "name":"Gracefulness",
+        "effect":{}
+    },
+    {
+        "id": 12,
+        "name":"Arson",
+        "effect":{}
+    },
+    {
+        "id": 13,
+        "name":"Strategic Manoeuvre",
+        "effect":{}
+    },
+    {
+        "id": 14,
+        "name":"Cunning",
+        "effect":{}
+    },
+    {
+        "id": 15,
+        "name":"Dual Blows",
+        "effect":{}
+    },
+    {
+        "id": 16,
+        "name":"Execution",
+        "effect":{}
+    },
+    {
+        "id": 17,
+        "name":"Culling",
+        "effect":{}
+    },
+    {
+        "id": 18,
+        "name":"Fanaticism",
+        "effect":{}
+    },
+    {
+        "id": 19,
+        "name":"Explosives",
+        "effect":{}
+    },
+    {
+        "id": 20,
+        "name":"Fire Arrows",
+        "effect":{}
+    },
+    {
+        "id": 21,
+        "name":"Indomitable",
+        "effect":{}
+    },
+    {
+        "id": 22,
+        "name":"Fires of Orthanc",
+        "effect":{}
+    },
+    {
+        "id": 23,
+        "name":"Bullseye",
+        "effect":{}
+    },
+    {
+        "id": 24,
+        "name":"Full Protection",
+        "effect":{}
+    },
+    {
+        "id": 25,
+        "name":"Battler's Bane",
+        "effect":{}
+    },
+    {
+        "id": 26,
+        "name":"Swiftness",
+        "effect":{}
+    },
+    {
+        "id": 27,
+        "name":"Ranged Advantage",
+        "effect":{}
+    },
+    {
+        "id": 28,
+        "name":"Laceration",
+        "effect":{}
+    },
+    {
+        "id": 29,
+        "name":"Shielding",
+        "effect":{}
+    },
+    {
+        "id": 30,
+        "name":"Giant Slayer",
+        "effect":{}
+    },
+    {
+        "id": 31,
+        "name":"Rohirrim Charge",
+        "effect":{}
+    },
+    {
+        "id": 32,
+        "name":"Counterattack",
+        "effect":{}
+    },
+    {
+        "id": 33,
+        "name":"Trample",
+        "effect":{}
+    }
+    ,
+    {
+        "id": 34,
+        "name":"Heatproof Skin",
+        "effect":{}
+    },
+    {
+        "id": 35,
+        "name":"Full Armor",
+        "effect":{}
+    },
+    {
+        "id": 36,
+        "name":"Keen Eye",
+        "effect":{}
+    },
+    {
+        "id": 37,
+        "name":"Avoid Damage",
+        "effect":{}
+    },
+    {
+        "id": 38,
+        "name":"Protector",
+        "effect":{}
+    },
+    {
+        "id": 39,
+        "name":"Onslaught",
+        "effect":{}
+    },
+    {
+        "id": 40,
+        "name":"Scouting Tactics",
+        "effect":{}
+    },
+    {
+        "id": 41,
+        "name":"Protector of the North",
+        "effect":{}
+    },
+    {
+        "id": 42,
+        "name":"Surefooted",
+        "effect":{}
+    },
+    {
+        "id": 43,
+        "name":"Fearless",
+        "effect":{}
+    },
+    {
+        "id": 44,
+        "name":"Poisonous",
+        "effect":{}
+    },
+    {
+        "id": 45,
+        "name":"Protector of the North",
+        "effect":{}
+    },
+    {
+        "id": 46,
+        "name":"Madness",
+        "effect":{}
+    },
+    {
+        "id": 47,
+        "name":"Siege Training",
+        "effect":{}
+    },
+    {
+        "id": 48,
+        "name":"Forest Bite",
+        "effect":{}
+    },
+    {
+        "id": 49,
+        "name":"Ambush Tactics",
+        "effect":{}
+    },
+    {
+        "id": 50,
+        "name":"Forest Protector",
+        "effect":{}
+    },
+    {
+        "id": 51,
+        "name":"Shape-shifting",
+        "effect":{}
+    },
+    {
+        "id": 52,
+        "name":"Wild Yell",
+        "effect":{}
+    },
+    {
+        "id": 53,
+        "name":"Bulwark",
+        "effect":{}
+    },
+    {
+        "id": 54,
+        "name":"Steady Will",
+        "effect":{}
+    },
+    {
+        "id": 55,
+        "name":"Barbarians",
+        "effect":{}
+    },
+    {
+        "id": 56,
+        "name":"Deep Wounds",
+        "effect":{}
+    },
+    {
+        "id": 57,
+        "name":"Mental Training",
+        "effect":{}
+    },
+    {
+        "id": 58,
+        "name":"Ethereal",
+        "effect":{}
+    },
+    {
+        "id": 59,
+        "name":"At Peace",
+        "effect":{}
+    },
+    {
+        "id": 60,
+        "name":"Perish",
+        "effect":{}
+    },
+    {
+        "id": 61,
+        "name":"Superiority",
+        "effect":{}
+    },
+    {
+        "id": 62,
+        "name":"Corrupting touch",
+        "effect":{}
+    },
+    {
+        "id": 63,
+        "name":"Prowl",
+        "effect":{}
+    },
+    {
+        "id": 64,
+        "name":"Slow Awakening",
+        "effect":{}
+    },
+    {
+        "id": 65,
+        "name":"Enchanted Weapons",
+        "effect":{}
+    },
+    {
+        "id": 66,
+        "name":"Pounce",
+        "effect":{}
+    },
+    {
+        "id": 67,
+        "name":"Finesse",
+        "effect":{}
+    },
+    {
+        "id": 68,
+        "name":"Naval Experience",
+        "effect":{}
+    },
+    {
+        "id": 69,
+        "name":"Mûmakil Charge",
+        "effect":{}
+    },
+    {
+        "id": 70,
+        "name":"Tree-folk",
+        "effect":{}
+    },
+    {
+        "id": 71,
+        "name":"Flying",
+        "effect":{}
+    },
+    {
+        "id": 72,
+        "name":"Swoop",
+        "effect":{}
+    },
+    {
+        "id": 73,
+        "name":"Vile Stench",
+        "effect":{}
+    }    
+]
