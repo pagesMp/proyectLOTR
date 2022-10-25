@@ -212,7 +212,7 @@
         "alignment": "Evil",
         "race": "Evil Men",
         "classes": [2, 8],
-        "skills": [240, 241, 242, 243],
+        "skills": [272, 241, 242, 243],
         "stats": {
             "might": {
                 "base": 76,
