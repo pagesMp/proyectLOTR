@@ -442,27 +442,5 @@
                  "rate": 0
              }
         }
-    },
-    {
-        "id": 49,
-        "name": "Quilted Armour",
-        "supportedRaces": ["Dwarves", "Hobbits", "Elves", "Evil Men", "Maiar", "Men", "Orcs", "Uruk-hai", "Undead"],
-        "tier": 3,
-        "slot": 3,
-        "effects":[],
-        "stats": {
-            "might": {
-                "base": 10,
-                "rate": 0
-            },
-             "focus": {
-                 "base": 4,
-                 "rate": 0
-             },
-             "speed": {
-                 "base": 6,
-                 "rate": 0
-             }
-        }
-    }   
+    }  
 ]
