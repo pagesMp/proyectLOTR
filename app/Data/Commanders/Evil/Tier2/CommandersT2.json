@@ -205,5 +205,93 @@
                 "rate": 0
             }
         }
+    },
+    {
+        "id": 65,
+        "name": "Adûnae",
+        "alignment": "Evil",
+        "race": "Evil Men",
+        "classes": [2, 8],
+        "skills": [272, 241, 242, 243],
+        "stats": {
+            "might": {
+                "base": 76,
+                "rate": 0
+            },
+            "focus": {
+                "base": 76,
+                "rate": 0
+            },
+            "speed": {
+                "base": 83,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 66,
+        "name": "Zegrid",
+        "alignment": "Evil",
+        "race": "Evil Men",
+        "classes": [1, 8],
+        "skills": [244, 245, 246, 247],
+        "stats": {
+            "might": {
+                "base": 94,
+                "rate": 0
+            },
+            "focus": {
+                "base": 24,
+                "rate": 0
+            },
+            "speed": {
+                "base": 65,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 67,
+        "name": "Lathar",
+        "alignment": "Evil",
+        "race": "Undead",
+        "classes": [2, 10],
+        "skills": [248, 249, 250, 251],
+        "stats": {
+            "might": {
+                "base": 99,
+                "rate": 0
+            },
+            "focus": {
+                "base": 42,
+                "rate": 0
+            },
+            "speed": {
+                "base": 87,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 68,
+        "name": "Glasha",
+        "alignment": "Evil",
+        "race": "Orcs",
+        "classes": [5, 10],
+        "skills": [252, 253, 254, 255],
+        "stats": {
+            "might": {
+                "base": 50,
+                "rate": 0
+            },
+            "focus": {
+                "base": 95,
+                "rate": 0
+            },
+            "speed": {
+                "base": 56,
+                "rate": 0
+            }
+        }
     }
 ]

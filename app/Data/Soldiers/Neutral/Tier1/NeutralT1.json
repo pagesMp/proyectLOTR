@@ -6,7 +6,7 @@
         "units": 100,
         "tier": 1,
         "race": 4,
-        "skills":[],
+        "skills":[42],
         "stats": {
             "damage": [14, 15],
             "hp": 14,

@@ -6,7 +6,7 @@
         "units": 50,
         "tier": 1,
         "race": 2,
-        "skills":[],
+        "skills":[3],
         "stats": {
             "damage": [21, 23],
             "hp": 56,
@@ -22,7 +22,7 @@
         "units": 100,
         "tier": 1,
         "race": 2,
-        "skills":[],
+        "skills":[26],
         "stats": {
             "damage": [15, 16],
             "hp": 18,
@@ -38,7 +38,7 @@
         "units": 100,
         "tier": 1,
         "race": 1,
-        "skills":[],
+        "skills":[25],
         "stats": {
             "damage": [5, 17],
             "hp": 22,
@@ -54,7 +54,7 @@
         "units": 100,
         "tier": 1,
         "race": 1,
-        "skills":[],
+        "skills":[28],
         "stats": {
             "damage": [8, 11],
             "hp": 26,
@@ -70,7 +70,7 @@
         "units": 100,
         "tier": 1,
         "race": 6,
-        "skills":[],
+        "skills":[29],
         "stats": {
             "damage": [8, 13],
             "hp": 24,
@@ -86,7 +86,7 @@
         "units": 50,
         "tier": 1,
         "race": 6,
-        "skills":[],
+        "skills":[3],
         "stats": {
             "damage": [15, 23],
             "hp": 65,
@@ -97,18 +97,34 @@
     },
     {
         "id": 41,
-        "name":"Ligth Cavarly",
+        "name":"Light Cavarly",
         "alignment": "Good",
         "units": 50,
         "tier": 1,
         "race": 6,
-        "skills":[],
+        "skills":[3],
         "stats": {
             "damage": [18, 25],
             "hp": 62,
             "defence": 15,
             "speed": 139,
             "siege": 15
+        }
+    },
+    {
+        "id": 92,
+        "name":"Bowman",
+        "alignment": "Good",
+        "units": 100,
+        "tier": 1,
+        "race": 6,
+        "skills":[27],
+        "stats": {
+            "damage": [9, 15],
+            "hp": 20,
+            "defence": 9,
+            "speed": 80,
+            "siege": 6
         }
     }
 ]

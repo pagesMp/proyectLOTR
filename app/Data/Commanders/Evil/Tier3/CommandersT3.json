@@ -132,5 +132,93 @@
                 "rate": 1.76
             }
         }
+    },
+    {
+        "id": 61,
+        "name": "Skalhelm",
+        "alignment": "Evil",
+        "race": "Undead",
+        "classes": [2, 10],
+        "skills": [256, 257, 258, 259],
+        "stats": {
+            "might": {
+                "base": 95,
+                "rate": 0
+            },
+            "focus": {
+                "base": 91,
+                "rate": 0
+            },
+            "speed": {
+                "base": 99,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 62,
+        "name": "Cestaro",
+        "alignment": "Evil",
+        "race": "Undead",
+        "classes": [5, 6],
+        "skills": [260, 261, 262, 263],
+        "stats": {
+            "might": {
+                "base": 35,
+                "rate": 0
+            },
+            "focus": {
+                "base": 100,
+                "rate": 0
+            },
+            "speed": {
+                "base": 58,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 63,
+        "name": "Berúthiel",
+        "alignment": "Evil",
+        "race": "Evil Men",
+        "classes": [4, 8],
+        "skills": [264, 265, 266, 267],
+        "stats": {
+            "might": {
+                "base": 20,
+                "rate": 0
+            },
+            "focus": {
+                "base": 91,
+                "rate": 0
+            },
+            "speed": {
+                "base": 28,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 64,
+        "name": "Sunind",
+        "alignment": "Evil",
+        "race": "Evil Men",
+        "classes": [3, 4],
+        "skills": [268, 269, 270, 271],
+        "stats": {
+            "might": {
+                "base": 85,
+                "rate": 0
+            },
+            "focus": {
+                "base": 98,
+                "rate": 0
+            },
+            "speed": {
+                "base": 78,
+                "rate": 0
+            }
+        }
     }
 ]

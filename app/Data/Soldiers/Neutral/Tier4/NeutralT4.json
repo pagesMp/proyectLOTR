@@ -6,7 +6,7 @@
         "units": 1,
         "tier": 4,
         "race": 12,
-        "skills":[],
+        "skills":[5, 69],
         "stats": {
             "damage": [1200, 1500],
             "hp": 8000,
@@ -22,7 +22,7 @@
         "units": 2,
         "tier": 4,
         "race": 10,
-        "skills":[],
+        "skills":[70, 38, 5],
         "stats": {
             "damage": [600, 700],
             "hp": 2400,
@@ -38,7 +38,7 @@
         "units": 5,
         "tier": 4,
         "race": 12,
-        "skills":[],
+        "skills":[71, 72],
         "stats": {
             "damage": [200, 300],
             "hp": 900,
@@ -54,7 +54,7 @@
         "units": 5,
         "tier": 4,
         "race": 12,
-        "skills":[],
+        "skills":[71, 73],
         "stats": {
             "damage": [150, 300],
             "hp": 840,

@@ -6,7 +6,7 @@
         "units": 100,
         "tier": 2,
         "race": 12,
-        "skills":[],
+        "skills":[46],
         "stats": {
             "damage": [10, 16],
             "hp": 36,
@@ -17,7 +17,7 @@
     },
     {
         "id": 72,
-        "name":"bat",
+        "name":"Bat",
         "alignment": ["Neutral", "Evil"],
         "units": 200,
         "tier": 2,
@@ -38,7 +38,7 @@
         "units": 200,
         "tier": 2,
         "race": 12,
-        "skills":[],
+        "skills":[44],
         "stats": {
             "damage": [9, 10],
             "hp": 8,
@@ -54,7 +54,7 @@
         "units": 100,
         "tier": 2,
         "race": 4,
-        "skills":[],
+        "skills":[42, 43],
         "stats": {
             "damage": [11, 15],
             "hp": 25,
