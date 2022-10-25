@@ -1438,5 +1438,197 @@
         "name": "Last Alliance",
         "minorSkills": [479, 480],
         "effects": {}
+    },
+    {
+        "id": 240,
+        "name": "Spell Seeker",
+        "minorSkills": [481, 482],
+        "effects": {}
+    },
+    {
+        "id": 241,
+        "name": "Reaper",
+        "minorSkills": [483, 484],
+        "effects": {}
+    },
+    {
+        "id": 242,
+        "name": "Black Númenórean",
+        "minorSkills": [485, 486],
+        "effects": {}
+    },
+    {
+        "id": 243,
+        "name": "Betrayer",
+        "minorSkills": [487, 488],
+        "effects": {}
+    },
+    {
+        "id": 244,
+        "name": "Brigand",
+        "minorSkills": [489, 490],
+        "effects": {}
+    },
+    {
+        "id": 245,
+        "name": "The Reckless",
+        "minorSkills": [491, 492],
+        "effects": {}
+    },
+    {
+        "id": 246,
+        "name": "Enemy of the Rohirrim",
+        "minorSkills": [493, 494],
+        "effects": {}
+    },
+    {
+        "id": 247,
+        "name": "Dunfearan Chieftain",
+        "minorSkills": [495, 496],
+        "effects": {}
+    },
+    {
+        "id": 248,
+        "name": "Reaper",
+        "minorSkills": [497, 498],
+        "effects": {}
+    },
+    {
+        "id": 249,
+        "name": "Pallbearer",
+        "minorSkills": [499, 500],
+        "effects": {}
+    },
+    {
+        "id": 250,
+        "name": "Ringwraith",
+        "minorSkills": [501, 502],
+        "effects": {}
+    },
+    {
+        "id": 251,
+        "name": "Master of the Fallen",
+        "minorSkills": [503, 504],
+        "effects": {}
+    },
+    {
+        "id": 252,
+        "name": "Assassin",
+        "minorSkills": [505, 506],
+        "effects": {}
+    },
+    {
+        "id": 253,
+        "name": "Messenger",
+        "minorSkills": [507, 508],
+        "effects": {}
+    },
+    {
+        "id": 254,
+        "name": "The White Hand",
+        "minorSkills": [509, 510],
+        "effects": {}
+    },
+    {
+        "id": 255,
+        "name": "Crebain of Mount Fang",
+        "minorSkills": [511, 512],
+        "effects": {}
+    },
+    {
+        "id": 256,
+        "name": "Lord of the Wolves",
+        "minorSkills": [513, 514],
+        "effects": {}
+    },
+    {
+        "id": 257,
+        "name": "Executioner",
+        "minorSkills": [515, 516],
+        "effects": {}
+    },
+    {
+        "id": 258,
+        "name": "Ringwraith",
+        "minorSkills": [517, 518],
+        "effects": {}
+    },
+    {
+        "id": 259,
+        "name": "Dark Ranger",
+        "minorSkills": [519, 520],
+        "effects": {}
+    },
+    {
+        "id": 260,
+        "name": "Spell Seeker",
+        "minorSkills": [521, 522],
+        "effects": {}
+    },
+    {
+        "id": 261,
+        "name": "The Evocator",
+        "minorSkills": [523, 524],
+        "effects": {}
+    },
+    {
+        "id": 262,
+        "name": "Ringwraith",
+        "minorSkills": [525, 526],
+        "effects": {}
+    },
+    {
+        "id": 263,
+        "name": "Lord of the West",
+        "minorSkills": [527, 528],
+        "effects": {}
+    },
+    {
+        "id": 264,
+        "name": "Queen of Gondor",
+        "minorSkills": [529, 530],
+        "effects": {}
+    },
+    {
+        "id": 265,
+        "name": "Watcher",
+        "minorSkills": [531, 532],
+        "effects": {}
+    },
+    {
+        "id": 266,
+        "name": "Black Númenórean",
+        "minorSkills": [533, 534],
+        "effects": {}
+    },
+    {
+        "id": 267,
+        "name": "Queen of Hatred",
+        "minorSkills": [535, 536],
+        "effects": {}
+    },
+    {
+        "id": 268,
+        "name": "Dagorlad Tactics",
+        "minorSkills": [537, 538],
+        "effects": {}
+    },
+    {
+        "id": 269,
+        "name": "Haradric Tactics",
+        "minorSkills": [539, 540],
+        "effects": {}
+    },
+    {
+        "id": 270,
+        "name": "Panther Leader",
+        "minorSkills": [541, 542],
+        "effects": {}
+    },
+    {
+        "id": 271,
+        "name": "Sundlands Tactician",
+        "minorSkills": [543, 544],
+        "effects": {}
     }
 ]

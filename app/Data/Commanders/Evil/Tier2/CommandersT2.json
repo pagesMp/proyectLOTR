@@ -212,7 +212,7 @@
         "alignment": "Evil",
         "race": "Evil Men",
         "classes": [2, 8],
-        "skills": [],
+        "skills": [240, 241, 242, 243],
         "stats": {
             "might": {
                 "base": 76,
@@ -234,7 +234,7 @@
         "alignment": "Evil",
         "race": "Evil Men",
         "classes": [1, 8],
-        "skills": [],
+        "skills": [244, 245, 246, 247],
         "stats": {
             "might": {
                 "base": 94,
@@ -256,7 +256,7 @@
         "alignment": "Evil",
         "race": "Undead",
         "classes": [2, 10],
-        "skills": [],
+        "skills": [248, 249, 250, 251],
         "stats": {
             "might": {
                 "base": 99,
@@ -278,7 +278,7 @@
         "alignment": "Evil",
         "race": "Orcs",
         "classes": [5, 10],
-        "skills": [],
+        "skills": [252, 253, 254, 255],
         "stats": {
             "might": {
                 "base": 50,

@@ -2400,5 +2400,325 @@
         "id": 480,
         "name": "Free Peoples",
         "effects":{}
+    },
+    {
+        "id": 481,
+        "name": "Soul Siphon",
+        "effects":{}
+    },
+    {
+        "id": 482,
+        "name": "Plague",
+        "effects":{}
+    },
+    {
+        "id": 483,
+        "name": "Precise Blow",
+        "effects":{}
+    },
+    {
+        "id": 484,
+        "name": "Heart Seeker",
+        "effects":{}
+    },
+    {
+        "id": 485,
+        "name": "Dark Mantle",
+        "effects":{}
+    },
+    {
+        "id": 486,
+        "name": "Black Arts",
+        "effects":{}
+    },
+    {
+        "id": 487,
+        "name": "Intimidation",
+        "effects":{}
+    },
+    {
+        "id": 488,
+        "name": "Confusion",
+        "effects":{}
+    },
+    {
+        "id": 489,
+        "name": "Leader",
+        "effects":{}
+    },
+    {
+        "id": 490,
+        "name": "Battle Conditioning",
+        "effects":{}
+    },
+    {
+        "id": 491,
+        "name": "Break Defences",
+        "effects":{}
+    },
+    {
+        "id": 492,
+        "name": "Topple",
+        "effects":{}
+    },
+    {
+        "id": 493,
+        "name": "Swing",
+        "effects":{}
+    },
+    {
+        "id": 494,
+        "name": "Disarm",
+        "effects":{}
+    },
+    {
+        "id": 495,
+        "name": "Parry",
+        "effects":{}
+    },
+    {
+        "id": 496,
+        "name": "Stragglers",
+        "effects":{}
+    },
+    {
+        "id": 497,
+        "name": "Precise Blow",
+        "effects":{}
+    },
+    {
+        "id": 498,
+        "name": "Heart Seeker",
+        "effects":{}
+    },
+    {
+        "id": 499,
+        "name": "Feint",
+        "effects":{}
+    },
+    {
+        "id": 500,
+        "name": "Deliberate Strike",
+        "effects":{}
+    },
+    {
+        "id": 501,
+        "name": "Morgul Poison",
+        "effects":{}
+    },
+    {
+        "id": 502,
+        "name": "Nazgûl Screech",
+        "effects":{}
+    },
+    {
+        "id": 503,
+        "name": "Mounted Combat",
+        "effects":{}
+    },
+    {
+        "id": 504,
+        "name": "Armour Corrosion",
+        "effects":{}
+    },
+    {
+        "id": 505,
+        "name": "Plague",
+        "effects":{}
+    },
+    {
+        "id": 506,
+        "name": "Corrupting Curse",
+        "effects":{}
+    },
+    {
+        "id": 507,
+        "name": "Shutdown",
+        "effects":{}
+    },
+    {
+        "id": 508,
+        "name": "Disruption",
+        "effects":{}
+    },
+    {
+        "id": 509,
+        "name": "Untiring",
+        "effects":{}
+    },
+    {
+        "id": 510,
+        "name": "Survival Barrier",
+        "effects":{}
+    },
+    {
+        "id": 511,
+        "name": "Hamstring",
+        "effects":{}
+    },
+    {
+        "id": 512,
+        "name": "Raven's Feast",
+        "effects":{}
+    },
+    {
+        "id": 513,
+        "name": "Beast Training",
+        "effects":{}
+    },
+    {
+        "id": 514,
+        "name": "brawling Training",
+        "effects":{}
+    },
+    {
+        "id": 515,
+        "name": "Raven's Feast",
+        "effects":{}
+    },
+    {
+        "id": 516,
+        "name": "Consequence of Greed",
+        "effects":{}
+    },
+    {
+        "id": 517,
+        "name": "Morgul Poison",
+        "effects":{}
+    },
+    {
+        "id": 518,
+        "name": "Nazgûl Screech",
+        "effects":{}
+    },
+    {
+        "id": 519,
+        "name": "Dual Blows",
+        "effects":{}
+    },
+    {
+        "id": 520,
+        "name": "Deliberate Strike",
+        "effects":{}
+    },
+    {
+        "id": 521,
+        "name": "Soul Siphon",
+        "effects":{}
+    },
+    {
+        "id": 522,
+        "name": "Plague",
+        "effects":{}
+    },
+    {
+        "id": 523,
+        "name": "Necromancy",
+        "effects":{}
+    },
+    {
+        "id": 524,
+        "name": "Chilling Edge",
+        "effects":{}
+    },
+    {
+        "id": 525,
+        "name": "Morgul Poison",
+        "effects":{}
+    },
+    {
+        "id": 526,
+        "name": "Nazgûl Screech",
+        "effects":{}
+    },
+    {
+        "id": 527,
+        "name": "Boggle",
+        "effects":{}
+    },
+    {
+        "id": 528,
+        "name": "Dreadful Presence",
+        "effects":{}
+    },
+    {
+        "id": 529,
+        "name": "Exile",
+        "effects":{}
+    },
+    {
+        "id": 530,
+        "name": "Boon",
+        "effects":{}
+    },
+    {
+        "id": 531,
+        "name": "Espionage",
+        "effects":{}
+    },
+    {
+        "id": 532,
+        "name": "Astonish",
+        "effects":{}
+    },
+    {
+        "id": 533,
+        "name": "Dark Mantle",
+        "effects":{}
+    },
+    {
+        "id": 534,
+        "name": "Black Arts",
+        "effects":{}
+    },
+    {
+        "id": 535,
+        "name": "Plague",
+        "effects":{}
+    },
+    {
+        "id": 536,
+        "name": "Master of Mischief",
+        "effects":{}
+    },
+    {
+        "id": 537,
+        "name": "Defensive Stance",
+        "effects":{}
+    },
+    {
+        "id": 538,
+        "name": "Whip Lash",
+        "effects":{}
+    },
+    {
+        "id": 539,
+        "name": "Inspiration",
+        "effects":{}
+    },
+    {
+        "id": 540,
+        "name": "Feint",
+        "effects":{}
+    },
+    {
+        "id": 541,
+        "name": "Espionage",
+        "effects":{}
+    },
+    {
+        "id": 542,
+        "name": "Great Bash",
+        "effects":{}
+    },
+    {
+        "id": 543,
+        "name": "Quicksand",
+        "effects":{}
+    },
+    {
+        "id": 544,
+        "name": "Reserves",
+        "effects":{}
     }
 ]
