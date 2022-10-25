@@ -1,0 +1,83 @@
+[
+    {
+       "id": 1,
+       "name": "Light Helm",
+       "supportedRaces": ["Dwarves", "Elves", "Evil Men", "Maiar", "Men", "Hobbits", "Orcs", "Uruk-hai","Undead"],
+       "tier": 1,
+       "stats": {
+            "might": {
+                "base": 4
+            },
+            "speed": {
+                "base": 2
+            }
+        }
+    },
+    {
+        "id": 2,
+        "name": "Ne'er Do Well's Coat",
+        "supportedRaces": ["Dwarves", "Elves", "Evil Men", "Maiar", "Men", "Hobbits", "Orcs", "Uruk-hai","Undead"],
+        "tier": 1,
+        "stats": {
+             "might": {
+                "base": 3
+            },
+             "speed": {
+                "base": 4
+            }
+        }
+    },
+    {
+        "id": 3,
+        "name": "Bone Hatchet",
+        "supportedRaces": ["Dwarves", "Evil Men", "Maiar", "Men", "Hobbits", "Orcs", "Uruk-hai","Undead"],
+        "tier": 1,
+        "stats": {
+             "might": {
+                "base": 4
+            },
+             "focus": {
+                "base": 1
+            }
+        }
+    },
+    {
+        "id": 4,
+        "name": "Broadsword",
+        "supportedRaces": ["Dwarves", "Elves", "Evil Men", "Maiar", "Men", "Hobbits", "Orcs", "Uruk-hai","Undead"],
+        "tier": 1,
+        "stats": {
+             "might": {
+                "base": 5
+            }
+        }
+    },
+    {
+        "id": 5,
+        "name": "Outlaw's Dirk",
+        "supportedRaces": ["Dwarves", "Elves", "Evil Men", "Maiar", "Men", "Hobbits", "Orcs", "Uruk-hai","Undead"],
+        "tier": 1,
+        "stats": {
+             "might": {
+                "base": 4
+            },
+             "speed": {
+                "base": 2
+            }
+        }
+    },
+    {
+        "id": 6,
+        "name": "Orc Dagger",
+        "supportedRaces": ["Dwarves", "Evil Men", "Maiar", "Men", "Hobbits", "Orcs", "Uruk-hai","Undead"],
+        "tier": 1,
+        "stats": {
+             "might": {
+                "base": 4
+            },
+             "speed": {
+                "base": 2
+            }
+        }
+    }
+]
