@@ -559,6 +559,625 @@
                 "rate": 0
             }
         }
+    },
+    {
+        "id": 140,
+        "name": "Ranger's Cape",
+        "commander": 1,
+        "tier": 4,
+        "slot": 2,
+        "effects":[],
+        "stats": {
+            "might": {
+                "base": 10,
+                "rate": 0
+            },
+            "focus": {
+                "base": 10,
+                "rate": 0
+            },
+            "speed": {
+                "base": 4,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 141,
+        "name": "Rohan's Refuge",
+        "commander": 2,
+        "tier": 4,
+        "slot": 4,
+        "effects":[],
+        "stats": {
+            "might": {
+                "base": 16,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 142,
+        "name": "Marchwarden Outfit",
+        "commander": 3,
+        "tier": 4,
+        "slot": 2,
+        "effects":[],
+        "stats": {
+            "might": {
+                "base": 10,
+                "rate": 0
+            },
+            "focus": {
+                "base": 8,
+                "rate": 0
+            },
+            "speed": {
+                "base": 6,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 143,
+        "name": "Twin Axes",
+        "commander": 4,
+        "tier": 4,
+        "slot": 1,
+        "effects":[],
+        "stats": {
+            "might": {
+                "base": 14,
+                "rate": 0
+            },
+            "speed": {
+                "base": 12,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 144,
+        "name": "Dwarven Slingshot",
+        "commander": 5,
+        "tier": 4,
+        "slot": 1,
+        "effects":[],
+        "stats": {
+            "might": {
+                "base": 6,
+                "rate": 0
+            },
+            "focus": {
+                "base": 14,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 145,
+        "name": "Red Arrow",
+        "commander": 6,
+        "tier": 4,
+        "slot": 4,
+        "effects":[],
+        "stats": {
+            "might": {
+                "base": 10,
+                "rate": 0
+            },
+            "focus": {
+                "base": 9,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 146,
+        "name": "Barrow-blade",
+        "commander": 7,
+        "tier": 4,
+        "slot": 1,
+        "effects":[],
+        "stats": {
+            "might": {
+                "base": 12,
+                "rate": 0
+            },
+            "focus": {
+                "base": 8,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 147,
+        "name": "Horn of Gondor",
+        "commander": 8,
+        "tier": 4,
+        "slot": 4,
+        "effects":[],
+        "stats": {
+            "might": {
+                "base": 11,
+                "rate": 0
+            },
+            "speed": {
+                "base": 8,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 148,
+        "name": "Balin's Axe",
+        "commander": 9,
+        "tier": 4,
+        "slot": 1,
+        "effects":[],
+        "stats": {
+            "might": {
+                "base": 22,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 149,
+        "name": "Evenstar",
+        "commander": 10,
+        "tier": 4,
+        "slot": 4,
+        "effects":[],
+        "stats": {
+            "might": {
+                "base": 9,
+                "rate": 0
+            },
+            "focus": {
+                "base": 13,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 150,
+        "name": "Bow of the Galadhrim",
+        "commander": 11,
+        "tier": 4,
+        "slot": 1,
+        "effects":[],
+        "stats": {
+            "might": {
+                "base": 16
+            }
+        }
+    },
+    {
+        "id": 151,
+        "name": "Globet of the Firts Steward",
+        "commander": 12,
+        "tier": 4,
+        "slot": 4,
+        "effects":[],
+        "stats": {
+            "focus": {
+                "base": 13,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 152,
+        "name": "Gúthwinë",
+        "commander": 13,
+        "tier": 4,
+        "slot": 1,
+        "effects":[],
+        "stats": {
+            "might": {
+                "base": 10,
+                "rate": 0
+            },
+            "speed": {
+                "base": 10,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 153,
+        "name": "Sting",
+        "commander": 14,
+        "tier": 4,
+        "slot": 1,
+        "effects":[],
+        "stats": {
+            "might": {
+                "base": 6,
+                "rate": 0
+            },
+            "focus": {
+                "base": 6,
+                "rate": 0
+            },
+            "speed": {
+                "base": 6,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 154,
+        "name": "Greatsword of Khazad-dûm",
+        "commander": 15,
+        "tier": 4,
+        "slot": 1,
+        "effects":[],
+        "stats": {
+            "might": {
+                "base": 14,
+                "rate": 0
+            },
+            "focus": {
+                "base": 8,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 155,
+        "name": "Ring of Barahir",
+        "commander": 16,
+        "tier": 4,
+        "slot": 4,
+        "effects":[],
+        "stats": {
+            "focus": {
+                "base": 16,
+                "rate": 0
+            },
+            "speed": {
+                "base": 10,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 156,
+        "name": "Hardy Buckler",
+        "commander": 17,
+        "tier": 4,
+        "slot": 4,
+        "effects":[],
+        "stats": {
+            "might": {
+                "base": 0,
+                "rate": 0
+            },
+            "focus": {
+                "base": 0,
+                "rate": 0
+            },
+            "speed": {
+                "base": 0,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 157,
+        "name": "Herugrim",
+        "commander": 18,
+        "tier": 4,
+        "slot": 1,
+        "effects":[],
+        "stats": {
+            "might": {
+                "base": 10,
+                "rate": 0
+            },
+            "speed": {
+                "base": 10,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 158,
+        "name": "Nocturne",
+        "commander": 19,
+        "tier": 4,
+        "slot": 1,
+        "effects":[],
+        "stats": {
+            "might": {
+                "base": 18,
+                "rate": 0
+            },
+            "focus": {
+                "base": 5,
+                "rate": 0
+            },
+            "speed": {
+                "base": 5,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 159,
+        "name": "Imladris Quiver",
+        "commander": 20,
+        "tier": 4,
+        "slot": 4,
+        "effects":[],
+        "stats": {
+            "focus": {
+                "base": 8,
+                "rate": 0
+            },
+            "speed": {
+                "base": 4,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 160,
+        "name": "Sindar Scepter",
+        "commander": 21,
+        "tier": 4,
+        "slot": 1,
+        "effects":[],
+        "stats": {
+            "focus": {
+                "base": 10,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 161,
+        "name": "Dol Amorath Bulwark",
+        "commander": 22,
+        "tier": 4,
+        "slot": 4,
+        "effects":[],
+        "stats": {
+            "focus": {
+                "base": 8,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 162,
+        "name": "Wizard Smoking Pipe",
+        "commander": 23,
+        "tier": 4,
+        "slot": 4,
+        "effects":[],
+        "stats": {
+            "focus": {
+                "base": 22,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 163,
+        "name": "Hadhafang",
+        "commander": 24,
+        "tier": 4,
+        "slot": 1,
+        "effects":[],
+        "stats": {
+            "might": {
+                "base": 9,
+                "rate": 0
+            },
+            "focus": {
+                "base": 9,
+                "rate": 0
+            }
+        }   
+    },
+    {
+        "id": 163,
+        "name": "Glamdring",
+        "commander": 25,
+        "tier": 4,
+        "slot": 1,
+        "effects":[],
+        "stats": {
+            "might": {
+                "base": 10,
+                "rate": 0
+            },
+            "focus": {
+                "base": 12,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 164,
+        "name": "Helm of the Mountain",
+        "commander": 26,
+        "tier": 4,
+        "slot": 3,
+        "effects":[],
+        "stats": {
+            "might": {
+                "base": 18,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 165,
+        "name": "Phial of Galadriel",
+        "commander": 27,
+        "tier": 4,
+        "slot": 4,
+        "effects":[],
+        "stats": {
+            "focus": {
+                "base": 16,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 166,
+        "name": "Mirkwood Mail",
+        "commander": 28,
+        "tier": 4,
+        "slot": 2,
+        "effects":[],
+        "stats": {
+            "might": {
+                "base": 6,
+                "rate": 0
+            },
+            "focus": {
+                "base": 6,
+                "rate": 0
+            },
+            "speed": {
+                "base": 6,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 167,
+        "name": "Aeglos",
+        "commander": 29,
+        "tier": 4,
+        "slot": 1,
+        "effects":[],
+        "stats": {
+            "might": {
+                "base": 15,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 168,
+        "name": "Sailor Fieldglass",
+        "commander": 30,
+        "tier": 4,
+        "slot": 4,
+        "effects":[],
+        "stats": {
+            "focus": {
+                "base": 8,
+                "rate": 0
+            },
+            "speed": {
+                "base": 8,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 169,
+        "name": "Brown Wizard Hat",
+        "commander": 31,
+        "tier": 4,
+        "slot": 3,
+        "effects":[],
+        "stats": {
+            "focus": {
+                "base": 12,
+                "rate": 0
+            },
+            "speed": {
+                "base": 12,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 170,
+        "name": "Orcrist",
+        "commander": 32,
+        "tier": 4,
+        "slot": 1,
+        "effects":[],
+        "stats": {
+            "might": {
+                "base": 14,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 171,
+        "name": "Gift of the Forest",
+        "commander": 33,
+        "tier": 4,
+        "slot": 4,
+        "effects":[],
+        "stats": {
+            "might": {
+                "base": 10,
+                "rate": 0
+            },
+            "focus": {
+                "base": 12,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 172,
+        "name": "Coil of Dunharrow",
+        "commander": 34,
+        "tier": 4,
+        "slot": 4,
+        "effects":[],
+        "stats": {
+            "might": {
+                "base": 14,
+                "rate": 0
+            },
+            "focus": {
+                "base": 10,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 173,
+        "name": "Andúril",
+        "commander": 35,
+        "tier": 4,
+        "slot": 1,
+        "effects":[],
+        "stats": {
+            "might": {
+                "base": 17,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 174,
+        "name": "Narsil",
+        "commander": 36,
+        "tier": 4,
+        "slot": 1,
+        "effects":[],
+        "stats": {
+            "might": {
+                "base": 12,
+                "rate": 0
+            }
+        }
     }
     
 ]
