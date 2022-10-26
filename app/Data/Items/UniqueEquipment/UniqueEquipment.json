@@ -1,5 +1,392 @@
 [
     {
-        
+        "id": 108,
+        "name": "Fang of the East",
+        "Commander": 37,
+        "tier": 4,
+        "slot": 1,
+        "effects":[],
+        "stats": {
+            "might": {
+                "base": 13,
+                "rate": 0
+            },
+            "focus": {
+                "base": 4,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 109,
+        "name": "Glaive of Minas Morgul",
+        "commander": 38,
+        "tier": 4,
+        "slot": 1,
+        "effects":[],
+        "stats": {
+            "might": {
+                "base": 10,
+                "rate": 0
+            },
+            "focus": {
+                "base": 10,
+                "rate": 0
+            }
+        }
     }
+    ,
+    {
+        "id": 110,
+        "name": "Giant Axe",
+        "commander": 39,
+        "tier": 4,
+        "slot": 1,
+        "effects":[],
+        "stats": {
+            "might": {
+                "base": 14,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 111,
+        "name": "Bone Totem",
+        "commander": 40,
+        "tier": 4,
+        "slot": 4,
+        "effects":[],
+        "stats": {
+            "focus": {
+                "base": 8,
+                "rate": 0
+            },
+            "speed": {
+                "base": 17,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 112,
+        "name": "Crimson Axe",
+        "commander": 41,
+        "tier": 4,
+        "slot": 1,
+        "effects":[],
+        "stats": {
+            "might": {
+                "base": 14,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 113,
+        "name": "Mask of the Beholder",
+        "commander": 42,
+        "tier": 4,
+        "slot": 3,
+        "effects":[],
+        "stats": {
+            "might": {
+                "base": 6,
+                "rate": 0
+            },
+            "focus": {
+                "base": 10,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 114,
+        "name": "Twin Daggers",
+        "commander": 43,
+        "tier": 4,
+        "slot": 1,
+        "effects":[],
+        "stats": {
+            "might": {
+                "base": 13,
+                "rate": 0
+            },
+            "speed": {
+                "base": 14,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 115,
+        "name": "Grima's Dagger",
+        "commander": 44,
+        "tier": 4,
+        "slot": 1,
+        "effects":[],
+        "stats": {
+            "might": {
+                "base": 10,
+                "rate": 0
+            },
+            "focus": {
+                "base": 12,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 116,
+        "name": "Rageblade",
+        "commander": 45,
+        "tier": 4,
+        "slot": 1,
+        "effects":[],
+        "stats": {
+            "might": {
+                "base": 20,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 117,
+        "name": "Eviscerator",
+        "commander": 46,
+        "tier": 4,
+        "slot": 1,
+        "effects":[],
+        "stats": {
+            "might": {
+                "base": 9,
+                "rate": 0
+            },
+            "focus": {
+                "base": 9,
+                "rate": 0
+            },
+            "speed": {
+                "base": 6,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 118,
+        "name": "Wraith Long Sword",
+        "commander": 47,
+        "tier": 4,
+        "slot": 1,
+        "effects":[],
+        "stats": {
+            "might": {
+                "base": 8,
+                "rate": 0
+            },
+            "focus": {
+                "base": 8,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 119,
+        "name": "Pirate's Flask",
+        "commander": 48,
+        "tier": 4,
+        "slot": 4,
+        "effects":[],
+        "stats": {
+            "might": {
+                "base": 7,
+                "rate": 0
+            },
+            "focus": {
+                "base": 10,
+                "rate": 0
+            },
+            "speed": {
+                "base": 8,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 120,
+        "name": "Corrupted Hauberk",
+        "commander": 49,
+        "tier": 4,
+        "slot": 2,
+        "effects":[],
+        "stats": {
+            "might": {
+                "base": 17,
+                "rate": 0
+            },
+            "focus": {
+                "base": 5,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 121,
+        "name": "Bladed Bow",
+        "commander": 50,
+        "tier": 4,
+        "slot": 1,
+        "effects":[],
+        "stats": {
+            "might": {
+                "base": 15,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 122,
+        "name": "Ugluck's Cleaver",
+        "commander": 51,
+        "tier": 4,
+        "slot": 1,
+        "effects":[],
+        "stats": {
+            "might": {
+                "base": 12,
+                "rate": 0
+            },
+            "speed": {
+                "base": 6,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 123,
+        "name": "Faceless Mask",
+        "commander": 52,
+        "tier": 4,
+        "slot": 3,
+        "effects":[],
+        "stats": {
+            "might": {
+                "base": 7,
+                "rate": 0
+            },
+            "focus": {
+                "base": 15,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 124,
+        "name": "Wrath",
+        "commander": 53,
+        "tier": 4,
+        "slot": 1,
+        "effects":[],
+        "stats": {
+            "might": {
+                "base": 15,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 125,
+        "name": "Ebony Dancer",
+        "commander": 54,
+        "tier": 4,
+        "slot": 4,
+        "effects":[],
+        "stats": {
+            "might": {
+                "base": 8,
+                "rate": 0
+            },
+            "focus": {
+                "base": 12,
+                "rate": 0
+            },
+            "speed": {
+                "base": 12,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 126,
+        "name": "Dread Cuirass",
+        "commander": 65,
+        "tier": 4,
+        "slot": 2,
+        "effects":[],
+        "stats": {
+            "might": {
+                "base": 8,
+                "rate": 0
+            },
+            "focus": {
+                "base": 8,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 127,
+        "name": "Dark Trinket",
+        "commander": 66,
+        "tier": 4,
+        "slot": 4,
+        "effects":[],
+        "stats": {
+            "might": {
+                "base": 4,
+                "rate": 0
+            },
+            "focus": {
+                "base": 17,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 128,
+        "name": "Dread Circlet",
+        "commander": 67,
+        "tier": 4,
+        "slot": 3,
+        "effects":[],
+        "stats": {
+            "might": {
+                "base": 8,
+                "rate": 0
+            },
+            "focus": {
+                "base": 8,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 129,
+        "name": "Crow Staff",
+        "commander": 68,
+        "tier": 4,
+        "slot": 1,
+        "effects":[],
+        "stats": {
+            "focus": {
+                "base": 16,
+                "rate": 0
+            },
+            "speed": {
+                "base": 5,
+                "rate": 0
+            }
+        }
+    }
+    
 ]
