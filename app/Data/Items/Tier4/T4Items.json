@@ -185,7 +185,7 @@
     },
     {
         "id": 59,
-        "name": "Reckoing",
+        "name": "Reckoning",
         "supportedRaces": ["Evil Men", "Maiar", "Orcs", "Uruk-hai", "Undead"],
         "tier": 4,
         "slot": 1,
@@ -553,7 +553,7 @@
     },
     {
         "id": 81,
-        "name": "Nigth Star",
+        "name": "Night Star",
         "supportedRaces": ["Dwarves", "Hobbits", "Elves", "Maiar", "Men", "Ents"],
         "tier": 4,
         "slot": 4,
@@ -939,7 +939,7 @@
     },
     {
         "id": 104,
-        "name": "Casque if the submerged Isle",
+        "name": "Casque of the submerged Isle",
         "supportedRaces": ["Dwarves", "Hobbits", "Elves", "Evil Men", "Maiar", "Men", "Orcs", "Uruk-hai", "Undead"],
         "tier": 4,
         "slot": 3,
@@ -961,7 +961,7 @@
     },
     {
         "id": 105,
-        "name": "Coul of the Forest",
+        "name": "Caul of the Forest",
         "supportedRaces": ["Dwarves", "Hobbits", "Elves", "Evil Men", "Maiar", "Men", "Ents", "Undead"],
         "tier": 4,
         "slot": 3,
