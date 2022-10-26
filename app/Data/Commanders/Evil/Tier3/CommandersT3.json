@@ -50,6 +50,7 @@
         "name": "Saruman",
         "alignment": "Evil",
         "race": "Maiar",
+        "tier": 3,
         "classes": [2, 7],
         "skills": [88, 89, 90, 91],
         "stats": {
@@ -72,6 +73,7 @@
         "name": "Sauron",
         "alignment": "Evil",
         "race": "Maiar",
+        "tier": 3,
         "classes": [9, 7],
         "skills": [84, 85, 86, 87],
         "stats": {
@@ -94,6 +96,7 @@
         "name": "Witch-king",
         "alignment": "Evil",
         "race": "Undead",
+        "tier": 3,
         "classes": [5, 6],
         "skills": [80, 81, 82, 83],
         "stats": {
@@ -116,6 +119,7 @@
         "name": "The Undying",
         "alignment": "Evil",
         "race": "Undead",
+        "tier": 3,
         "classes": [6, 10],
         "skills": [92, 93, 94, 95],
         "stats": {
@@ -138,6 +142,7 @@
         "name": "Skalhelm",
         "alignment": "Evil",
         "race": "Undead",
+        "tier": 3,
         "classes": [2, 10],
         "skills": [256, 257, 258, 259],
         "stats": {
@@ -160,6 +165,7 @@
         "name": "Cestaro",
         "alignment": "Evil",
         "race": "Undead",
+        "tier": 3,
         "classes": [5, 6],
         "skills": [260, 261, 262, 263],
         "stats": {
@@ -182,6 +188,7 @@
         "name": "Berúthiel",
         "alignment": "Evil",
         "race": "Evil Men",
+        "tier": 3,
         "classes": [4, 8],
         "skills": [264, 265, 266, 267],
         "stats": {
@@ -204,6 +211,7 @@
         "name": "Sunind",
         "alignment": "Evil",
         "race": "Evil Men",
+        "tier": 3,
         "classes": [3, 4],
         "skills": [268, 269, 270, 271],
         "stats": {
