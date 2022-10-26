@@ -8,10 +8,12 @@
        "effects":{},
        "stats": {
             "might": {
-                "base": 4
+                "base": 4,
+				"rate": 0
             },
             "speed": {
-                "base": 2
+                "base": 2,
+				"rate": 0
             }
         }
     },
