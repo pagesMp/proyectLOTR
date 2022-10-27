@@ -2679,7 +2679,7 @@
     {
         "id": 108,
         "name": "Fang of the East",
-        "Commander": 37,
+        "commander": 37,
         "tier": 4,
         "slot": 1,
         "effects": [],
@@ -3660,24 +3660,6 @@
         }
     },
     {
-        "id": 163,
-        "name": "Glamdring",
-        "commander": 25,
-        "tier": 4,
-        "slot": 1,
-        "effects": [],
-        "stats": {
-            "might": {
-                "base": 10,
-                "rate": 0
-            },
-            "focus": {
-                "base": 12,
-                "rate": 0
-            }
-        }
-    },
-    {
         "id": 164,
         "name": "Helm of the Mountain",
         "commander": 26,
@@ -3850,6 +3832,24 @@
         "effects": [],
         "stats": {
             "might": {
+                "base": 12,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 175,
+        "name": "Glamdring",
+        "commander": 25,
+        "tier": 4,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 10,
+                "rate": 0
+            },
+            "focus": {
                 "base": 12,
                 "rate": 0
             }
