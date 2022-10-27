@@ -1,0 +1,3858 @@
+[
+    {
+        "id": 1,
+        "name": "Light Helm",
+        "supportedRaces": [
+            "Dwarves",
+            "Elves",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Hobbits",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 1,
+        "slot": 3,
+        "effects": {},
+        "stats": {
+            "might": {
+                "base": 4,
+                "rate": 0
+            },
+            "speed": {
+                "base": 2,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 2,
+        "name": "Ne'er Do Well's Coat",
+        "supportedRaces": [
+            "Dwarves",
+            "Elves",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Hobbits",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 1,
+        "slot": 2,
+        "effects": {},
+        "stats": {
+            "might": {
+                "base": 3,
+                "rate": 0
+            },
+            "speed": {
+                "base": 4,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 3,
+        "name": "Bone Hatchet",
+        "supportedRaces": [
+            "Dwarves",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Hobbits",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 1,
+        "slot": 1,
+        "effects": {},
+        "stats": {
+            "might": {
+                "base": 4,
+                "rate": 0
+            },
+            "focus": {
+                "base": 1,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 4,
+        "name": "Broadsword",
+        "supportedRaces": [
+            "Dwarves",
+            "Elves",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Hobbits",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 1,
+        "slot": 1,
+        "effects": {},
+        "stats": {
+            "might": {
+                "base": 5,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 5,
+        "name": "Outlaw's Dirk",
+        "supportedRaces": [
+            "Dwarves",
+            "Elves",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Hobbits",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 1,
+        "slot": 1,
+        "effects": {},
+        "stats": {
+            "might": {
+                "base": 4,
+                "rate": 0
+            },
+            "speed": {
+                "base": 2,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 6,
+        "name": "Orc Dagger",
+        "supportedRaces": [
+            "Dwarves",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Hobbits",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 1,
+        "slot": 1,
+        "effects": {},
+        "stats": {
+            "might": {
+                "base": 4,
+                "rate": 0
+            },
+            "speed": {
+                "base": 2,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 7,
+        "name": "Skull  Cap",
+        "supportedRaces": [
+            "Dwarves",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Hobbits",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 2,
+        "slot": 3,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 10,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 8,
+        "name": "Old Casque",
+        "supportedRaces": [
+            "Dwarves",
+            "Elves",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Hobbits",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 2,
+        "slot": 3,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 10,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 9,
+        "name": "Haradrim's Scarf",
+        "supportedRaces": [
+            "Dwarves",
+            "Elves",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Hobbits",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 2,
+        "slot": 3,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 6,
+                "rate": 0
+            },
+            "focus": {
+                "base": 6,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 10,
+        "name": "Skull  Cap",
+        "supportedRaces": [
+            "Dwarves",
+            "Elves",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Hobbits",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 2,
+        "slot": 3,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 10,
+                "rate": 0
+            },
+            "speed": {
+                "base": 2,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 11,
+        "name": "Leather Armor",
+        "supportedRaces": [
+            "Dwarves",
+            "Elves",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Hobbits",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 2,
+        "slot": 2,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 10,
+                "rate": 0
+            },
+            "focus": {
+                "base": 3,
+                "rate": 0
+            },
+            "speed": {
+                "base": 3,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 12,
+        "name": "Rough Breastplate",
+        "supportedRaces": [
+            "Dwarves",
+            "Elves",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 2,
+        "slot": 2,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 6,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 13,
+        "name": "Hunters Coat",
+        "supportedRaces": [
+            "Dwarves",
+            "Elves",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Hobbits",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 2,
+        "slot": 2,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 6,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 14,
+        "name": "Garrison Coat",
+        "supportedRaces": [
+            "Dwarves",
+            "Elves",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Hobbits",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 2,
+        "slot": 2,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 6,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 15,
+        "name": "Morningstar",
+        "supportedRaces": [
+            "Dwarves",
+            "Elves",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Hobbits",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 2,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 6,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 16,
+        "name": "Uruk-hai Pike",
+        "supportedRaces": [
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 2,
+        "slot": 2,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 12,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 17,
+        "name": "Spear of the Rangers",
+        "supportedRaces": [
+            "Dwarves",
+            "Elves",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Hobbits"
+        ],
+        "tier": 2,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 6,
+                "rate": 0
+            },
+            "focus": {
+                "base": 4,
+                "rate": 0
+            },
+            "speed": {
+                "base": 4,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 18,
+        "name": "Broad Axe",
+        "supportedRaces": [
+            "Dwarves",
+            "Elves",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 2,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 6,
+                "rate": 0
+            },
+            "focus": {
+                "base": 4,
+                "rate": 0
+            },
+            "speed": {
+                "base": 4,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 19,
+        "name": "Orc Scimitar",
+        "supportedRaces": [
+            "Dwarves",
+            "Hobbits",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 2,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 6,
+                "rate": 0
+            },
+            "speed": {
+                "base": 9,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 20,
+        "name": "Orc Crossbow",
+        "supportedRaces": [
+            "Dwarves",
+            "Hobbits",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 2,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 6,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 21,
+        "name": "Haradrim Bow",
+        "supportedRaces": [
+            "Elves",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 2,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 6,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 22,
+        "name": "Ranger's Dagger",
+        "supportedRaces": [
+            "Dwarves",
+            "Elves",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Hobbits"
+        ],
+        "tier": 2,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 8,
+                "rate": 0
+            },
+            "speed": {
+                "base": 6,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 23,
+        "name": "Arnor Casque",
+        "supportedRaces": [
+            "Dwarves",
+            "Elves",
+            "Evil Men",
+            "Hobbits",
+            "Maiar",
+            "Men",
+            "Undead"
+        ],
+        "tier": 3,
+        "slot": 3,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 4,
+                "rate": 0
+            },
+            "focus": {
+                "base": 10,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 24,
+        "name": "Traper's Hood",
+        "supportedRaces": [
+            "Elves",
+            "Evil Men",
+            "Maiar",
+            "Hobbits",
+            "Men",
+            "Uruk-hai",
+            "Undead",
+            "Ents"
+        ],
+        "tier": 3,
+        "slot": 3,
+        "effects": [],
+        "stats": {
+            "focus": {
+                "base": 6,
+                "rate": 0
+            },
+            "speed": {
+                "base": 9,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 25,
+        "name": "Full Helm",
+        "supportedRaces": [
+            "Dwarves",
+            "Elves",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 3,
+        "slot": 3,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 15,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 26,
+        "name": "Bone Mask",
+        "supportedRaces": [
+            "Dwarves",
+            "Hobbits",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 3,
+        "slot": 3,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 6,
+                "rate": 0
+            },
+            "focus": {
+                "base": 6,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 27,
+        "name": "Horseman's Helm",
+        "supportedRaces": [
+            "Dwarves",
+            "Hobbits",
+            "Elves",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 3,
+        "slot": 3,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 8,
+                "rate": 0
+            },
+            "speed": {
+                "base": 8,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 28,
+        "name": "Wizard's Fireworks",
+        "supportedRaces": [
+            "Dwarves",
+            "Hobbits",
+            "Evil Men",
+            "Maiar",
+            "Men"
+        ],
+        "tier": 3,
+        "slot": 4,
+        "effects": [],
+        "stats": {
+            "focus": {
+                "base": 12,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 29,
+        "name": "Harp of Lothlórien",
+        "supportedRaces": [
+            "Dwarves",
+            "Hobbits",
+            "Elves",
+            "Maiar",
+            "Men",
+            "Ents"
+        ],
+        "tier": 3,
+        "slot": 4,
+        "effects": [],
+        "stats": {
+            "focus": {
+                "base": 12,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 30,
+        "name": "Worn-out Smoking Pipe",
+        "supportedRaces": [
+            "Dwarves",
+            "Hobbits",
+            "Elves",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Orcs",
+            "Uruk-hai",
+            "Ents"
+        ],
+        "tier": 3,
+        "slot": 4,
+        "effects": [],
+        "stats": {
+            "focus": {
+                "base": 15,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 31,
+        "name": "Hobbit Fiddle",
+        "supportedRaces": [
+            "Dwarves",
+            "Hobbits",
+            "Elves",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Ents"
+        ],
+        "tier": 3,
+        "slot": 4,
+        "effects": [],
+        "stats": {
+            "focus": {
+                "base": 10,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 32,
+        "name": "Brutal Helmet",
+        "supportedRaces": [
+            "Dwarves",
+            "Hobbits",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 3,
+        "slot": 3,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 8,
+                "rate": 0
+            },
+            "speed": {
+                "base": 6,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 33,
+        "name": "Bone Talisman",
+        "supportedRaces": [
+            "Evil Men",
+            "Maiar",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 3,
+        "slot": 4,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 4,
+                "rate": 0
+            },
+            "focus": {
+                "base": 10,
+                "rate": 0
+            },
+            "speed": {
+                "base": 6,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 34,
+        "name": "Drums of Moria",
+        "supportedRaces": [
+            "Dwarves",
+            "Hobbits",
+            "Evil Men",
+            "Maiar",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 3,
+        "slot": 4,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 4,
+                "rate": 0
+            },
+            "focus": {
+                "base": 4,
+                "rate": 0
+            },
+            "speed": {
+                "base": 6,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 35,
+        "name": "Hithlain",
+        "supportedRaces": [
+            "Dwarves",
+            "Hobbits",
+            "Elves",
+            "Ents",
+            "Maiar",
+            "Men"
+        ],
+        "tier": 3,
+        "slot": 4,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 4,
+                "rate": 0
+            },
+            "focus": {
+                "base": 6,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 36,
+        "name": "Hunter's Skin",
+        "supportedRaces": [
+            "Dwarves",
+            "Hobbits",
+            "Elves",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Orcs",
+            "Uruk-hai"
+        ],
+        "tier": 3,
+        "slot": 3,
+        "effects": [],
+        "stats": {
+            "focus": {
+                "base": 8,
+                "rate": 0
+            },
+            "speed": {
+                "base": 6,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 37,
+        "name": "Quilted Armour",
+        "supportedRaces": [
+            "Dwarves",
+            "Hobbits",
+            "Elves",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 3,
+        "slot": 3,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 10,
+                "rate": 0
+            },
+            "focus": {
+                "base": 4,
+                "rate": 0
+            },
+            "speed": {
+                "base": 6,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 38,
+        "name": "Superior Hauberk",
+        "supportedRaces": [
+            "Dwarves",
+            "Hobbits",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 3,
+        "slot": 3,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 10,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 39,
+        "name": "Scale Mail",
+        "supportedRaces": [
+            "Dwarves",
+            "Elves",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 3,
+        "slot": 3,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 6,
+                "rate": 0
+            },
+            "focus": {
+                "base": 6,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 40,
+        "name": "Scout's Mail",
+        "supportedRaces": [
+            "Dwarves",
+            "Hobbits",
+            "Elves",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 3,
+        "slot": 3,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 10,
+                "rate": 0
+            },
+            "speed": {
+                "base": 12,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 41,
+        "name": "Elven Dirk",
+        "supportedRaces": [
+            "Dwarves",
+            "Hobbits",
+            "Elves",
+            "Evil Men",
+            "Maiar",
+            "Men"
+        ],
+        "tier": 3,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 6,
+                "rate": 0
+            },
+            "focus": {
+                "base": 6,
+                "rate": 0
+            },
+            "speed": {
+                "base": 4,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 42,
+        "name": "Carver",
+        "supportedRaces": [
+            "Dwarves",
+            "Hobbits",
+            "Elves",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 3,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 8,
+                "rate": 0
+            },
+            "focus": {
+                "base": 8,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 43,
+        "name": "War Hammer",
+        "supportedRaces": [
+            "Dwarves",
+            "Elves",
+            "Ents",
+            "Maiar",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 3,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 12,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 44,
+        "name": "Cutlass",
+        "supportedRaces": [
+            "Dwarves",
+            "Hobbits",
+            "Elves",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 3,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 8,
+                "rate": 0
+            },
+            "speed": {
+                "base": 6,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 45,
+        "name": "Battle Axe",
+        "supportedRaces": [
+            "Dwarves",
+            "Elves",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 3,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 12,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 46,
+        "name": "Uruk-hai Broadsword",
+        "supportedRaces": [
+            "Dwarves",
+            "Hobbits",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 3,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 12,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 47,
+        "name": "Uruk Crossbow",
+        "supportedRaces": [
+            "Dwarves",
+            "Hobbits",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 3,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 12,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 48,
+        "name": "Mirkwood Bow",
+        "supportedRaces": [
+            "Elves",
+            "Evil Men",
+            "Maiar",
+            "Men"
+        ],
+        "tier": 3,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 8,
+                "rate": 0
+            },
+            "speed": {
+                "base": 6,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 49,
+        "name": "Axe of Khazad-dûm",
+        "supportedRaces": [
+            "Dwarves",
+            "Ents",
+            "Elves",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 4,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 21,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 50,
+        "name": "Ñoldor Sword",
+        "supportedRaces": [
+            "Dwarves",
+            "Hobbits",
+            "Elves",
+            "Evil Men",
+            "Maiar",
+            "Men"
+        ],
+        "tier": 4,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 10,
+                "rate": 0
+            },
+            "focus": {
+                "base": 5,
+                "rate": 0
+            },
+            "speed": {
+                "base": 5,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 51,
+        "name": "Bow of the High Elves",
+        "supportedRaces": [
+            "Elves",
+            "Evil Men",
+            "Maiar",
+            "Men"
+        ],
+        "tier": 4,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 14,
+                "rate": 0
+            },
+            "focus": {
+                "base": 4,
+                "rate": 0
+            },
+            "speed": {
+                "base": 5,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 52,
+        "name": "Dawn",
+        "supportedRaces": [
+            "Dwarves",
+            "Hobbits",
+            "Elves",
+            "Maiar",
+            "Men"
+        ],
+        "tier": 4,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 15,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 53,
+        "name": "Nightfall",
+        "supportedRaces": [
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 4,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 14,
+                "rate": 0
+            },
+            "speed": {
+                "base": 9,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 54,
+        "name": "Lhang",
+        "supportedRaces": [
+            "Dwarves",
+            "Hobbits",
+            "Elves",
+            "Evil Men",
+            "Maiar",
+            "Men"
+        ],
+        "tier": 4,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 12,
+                "rate": 0
+            },
+            "focus": {
+                "base": 8,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 55,
+        "name": "Morgul Blade",
+        "supportedRaces": [
+            "Evil Men",
+            "Maiar",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 4,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 8,
+                "rate": 0
+            },
+            "focus": {
+                "base": 8,
+                "rate": 0
+            },
+            "speed": {
+                "base": 4,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 56,
+        "name": "Spear of Udûn",
+        "supportedRaces": [
+            "Maiar",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 4,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 10,
+                "rate": 0
+            },
+            "focus": {
+                "base": 4,
+                "rate": 0
+            },
+            "speed": {
+                "base": 6,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 57,
+        "name": "Hammer of Moria",
+        "supportedRaces": [
+            "Dwarves",
+            "Ents",
+            "Evil Men",
+            "Maiar",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 4,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 17,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 58,
+        "name": "The Black Mace",
+        "supportedRaces": [
+            "Dwarves",
+            "Maiar",
+            "Orcs",
+            "Uruk-hai",
+            "Undead",
+            "Ents"
+        ],
+        "tier": 4,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 16,
+                "rate": 0
+            },
+            "focus": {
+                "base": 4,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 59,
+        "name": "Reckoning",
+        "supportedRaces": [
+            "Evil Men",
+            "Maiar",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 4,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 13,
+                "rate": 0
+            },
+            "speed": {
+                "base": 10,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 60,
+        "name": "Sand Claw",
+        "supportedRaces": [
+            "Dwarves",
+            "Hobbits",
+            "Elves",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 4,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 10,
+                "rate": 0
+            },
+            "focus": {
+                "base": 4,
+                "rate": 0
+            },
+            "speed": {
+                "base": 9,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 61,
+        "name": "Reach of the Riddermark",
+        "supportedRaces": [
+            "Ents",
+            "Elves",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 4,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 10,
+                "rate": 0
+            },
+            "speed": {
+                "base": 10,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 62,
+        "name": "Mattock of the Iorn Hills",
+        "supportedRaces": [
+            "Dwarves",
+            "Ents",
+            "Elves",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 4,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 13,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 63,
+        "name": "Black Blow",
+        "supportedRaces": [
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 4,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 18,
+                "rate": 0
+            },
+            "speed": {
+                "base": 4,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 64,
+        "name": "Elven White Knife",
+        "supportedRaces": [
+            "Dwarves",
+            "Hobbits",
+            "Elves",
+            "Evil Men",
+            "Maiar",
+            "Men"
+        ],
+        "tier": 4,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 12,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 65,
+        "name": "Obsidian Dagger",
+        "supportedRaces": [
+            "Evil Men",
+            "Maiar",
+            "Undead"
+        ],
+        "tier": 4,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 8,
+                "rate": 0
+            },
+            "focus": {
+                "base": 12,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 66,
+        "name": "Mirkwood's Throns",
+        "supportedRaces": [
+            "Elves",
+            "Ents",
+            "Maiar"
+        ],
+        "tier": 4,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 4,
+                "rate": 0
+            },
+            "focus": {
+                "base": 10,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 67,
+        "name": "Gigantic Hammer",
+        "supportedRaces": [
+            "Dwarves",
+            "Ents",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Uruk-hai"
+        ],
+        "tier": 4,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 14,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 68,
+        "name": "Elven Cloak",
+        "supportedRaces": [
+            "Dwarves",
+            "Hobbits",
+            "Elves",
+            "Ents",
+            "Maiar",
+            "Men"
+        ],
+        "tier": 4,
+        "slot": 2,
+        "effects": [],
+        "stats": {
+            "focus": {
+                "base": 12,
+                "rate": 0
+            },
+            "speed": {
+                "base": 6,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 69,
+        "name": "Golden Skin",
+        "supportedRaces": [
+            "Dwarves",
+            "Hobbits",
+            "Elves",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 4,
+        "slot": 2,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 12,
+                "rate": 0
+            },
+            "focus": {
+                "base": 12,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 70,
+        "name": "Plate of the Citadel",
+        "supportedRaces": [
+            "Dwarves",
+            "Elves",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 4,
+        "slot": 2,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 4,
+                "rate": 0
+            },
+            "focus": {
+                "base": 11,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 71,
+        "name": "Durin's Plate",
+        "supportedRaces": [
+            "Dwarves",
+            "Elves",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 4,
+        "slot": 2,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 14,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 72,
+        "name": "High Elf Hauberk",
+        "supportedRaces": [
+            "Dwarves",
+            "Hobbits",
+            "Elves",
+            "Maiar",
+            "Men"
+        ],
+        "tier": 4,
+        "slot": 2,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 12,
+                "rate": 0
+            },
+            "focus": {
+                "base": 6,
+                "rate": 0
+            },
+            "speed": {
+                "base": 4,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 73,
+        "name": "Berserker's Raiment",
+        "supportedRaces": [
+            "Dwarves",
+            "Evil Men",
+            "Maiar",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 4,
+        "slot": 2,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 18,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 74,
+        "name": "Greatplate of the East",
+        "supportedRaces": [
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Uruk-hai"
+        ],
+        "tier": 4,
+        "slot": 2,
+        "effects": [],
+        "stats": {
+            "focus": {
+                "base": 10,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 75,
+        "name": "Warborn Battle Plate",
+        "supportedRaces": [
+            "Dwarves",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 4,
+        "slot": 2,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 11,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 76,
+        "name": "Ranger's Shroud",
+        "supportedRaces": [
+            "Hobbits",
+            "Elves",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 4,
+        "slot": 2,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 9,
+                "rate": 0
+            },
+            "speed": {
+                "base": 14,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 77,
+        "name": "Bone Armour",
+        "supportedRaces": [
+            "Evil Men",
+            "Maiar",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 4,
+        "slot": 2,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 12,
+                "rate": 0
+            },
+            "focus": {
+                "base": 5,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 78,
+        "name": "Explorer's Outfit",
+        "supportedRaces": [
+            "Hobbits",
+            "Maiar",
+            "Men"
+        ],
+        "tier": 4,
+        "slot": 2,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 10,
+                "rate": 0
+            },
+            "focus": {
+                "base": 10,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 79,
+        "name": "Massive Breastplate",
+        "supportedRaces": [
+            "Dwarves",
+            "Hobbits",
+            "Elves",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Orcs",
+            "Uruk-hai",
+            "Undead",
+            "Ents"
+        ],
+        "tier": 4,
+        "slot": 2,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 8,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 80,
+        "name": "Mithril Coat",
+        "supportedRaces": [
+            "Dwarves",
+            "Hobbits",
+            "Elves",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 4,
+        "slot": 2,
+        "effects": [],
+        "stats": {
+            "focus": {
+                "base": 8,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 81,
+        "name": "Night Star",
+        "supportedRaces": [
+            "Dwarves",
+            "Hobbits",
+            "Elves",
+            "Maiar",
+            "Men",
+            "Ents"
+        ],
+        "tier": 4,
+        "slot": 4,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 4,
+                "rate": 0
+            },
+            "focus": {
+                "base": 14,
+                "rate": 0
+            },
+            "speed": {
+                "base": 5,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 82,
+        "name": "Silver Harp of Rivendell",
+        "supportedRaces": [
+            "Dwarves",
+            "Hobbits",
+            "Elves",
+            "Maiar",
+            "Men",
+            "Ents"
+        ],
+        "tier": 4,
+        "slot": 4,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 4,
+                "rate": 0
+            },
+            "focus": {
+                "base": 16,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 83,
+        "name": "High Elf Hauberk",
+        "supportedRaces": [
+            "Dwarves",
+            "Hobbits",
+            "Elves",
+            "Maiar",
+            "Men"
+        ],
+        "tier": 4,
+        "slot": 3,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 12,
+                "rate": 0
+            },
+            "focus": {
+                "base": 6,
+                "rate": 0
+            },
+            "speed": {
+                "base": 4,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 84,
+        "name": "Drums of Barad-dûr",
+        "supportedRaces": [
+            "Maiar",
+            "Orcs",
+            "Uruk-hai",
+            "Undead",
+            "Evil Men"
+        ],
+        "tier": 4,
+        "slot": 4,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 8,
+                "rate": 0
+            },
+            "focus": {
+                "base": 10,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 85,
+        "name": "Fine Smoking Pipe",
+        "supportedRaces": [
+            "Dwarves",
+            "Hobbits",
+            "Elves",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Orcs",
+            "Uruk-hai",
+            "Ents"
+        ],
+        "tier": 4,
+        "slot": 4,
+        "effects": [],
+        "stats": {
+            "focus": {
+                "base": 20,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 86,
+        "name": "Plantir of Orthanc",
+        "supportedRaces": [
+            "Dwarves",
+            "Undead",
+            "Elves",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Orcs",
+            "Uruk-hai",
+            "Ents"
+        ],
+        "tier": 4,
+        "slot": 4,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 2,
+                "rate": 0
+            },
+            "focus": {
+                "base": 14,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 87,
+        "name": "Fiddle of the Eldest",
+        "supportedRaces": [
+            "Dwarves",
+            "Hobbits",
+            "Elves",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Ents"
+        ],
+        "tier": 4,
+        "slot": 4,
+        "effects": [],
+        "stats": {
+            "focus": {
+                "base": 4,
+                "rate": 0
+            },
+            "speed": {
+                "base": 10,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 88,
+        "name": "Lothlórien Belt",
+        "supportedRaces": [
+            "Dwarves",
+            "Hobbits",
+            "Elves",
+            "Evil Men",
+            "Maiar",
+            "Men"
+        ],
+        "tier": 4,
+        "slot": 4,
+        "effects": [],
+        "stats": {
+            "focus": {
+                "base": 12,
+                "rate": 0
+            },
+            "speed": {
+                "base": 10,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 89,
+        "name": "Erebor's Pride",
+        "supportedRaces": [
+            "Dwarves",
+            "Hobbits",
+            "Evil Men",
+            "Maiar",
+            "Men"
+        ],
+        "tier": 4,
+        "slot": 4,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 10,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 90,
+        "name": "Ent-draught Calabash",
+        "supportedRaces": [
+            "Dwarves",
+            "Hobbits",
+            "Elves",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Orcs",
+            "Uruk-hai",
+            "Ents",
+            "Undead"
+        ],
+        "tier": 4,
+        "slot": 4,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 10,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 91,
+        "name": "Defender of the Mountain ",
+        "supportedRaces": [
+            "Dwarves",
+            "Maiar"
+        ],
+        "tier": 4,
+        "slot": 4,
+        "effects": [],
+        "stats": {
+            "focus": {
+                "base": 14,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 92,
+        "name": "Box of Knowledge",
+        "supportedRaces": [
+            "Dwarves",
+            "Hobbits",
+            "Elves",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Orcs",
+            "Uruk-hai",
+            "Ents",
+            "Undead"
+        ],
+        "tier": 4,
+        "slot": 4,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 8,
+                "rate": 0
+            },
+            "focus": {
+                "base": 8,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 93,
+        "name": "Meara's Reins",
+        "supportedRaces": [
+            "Elves",
+            "Maiar",
+            "Men"
+        ],
+        "tier": 4,
+        "slot": 4,
+        "effects": [],
+        "stats": {
+            "focus": {
+                "base": 8,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 94,
+        "name": "Swan Helm",
+        "supportedRaces": [
+            "Dwarves",
+            "Hobbits",
+            "Elves",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 4,
+        "slot": 3,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 4,
+                "rate": 0
+            },
+            "focus": {
+                "base": 16,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 95,
+        "name": "High Elf's Helmet",
+        "supportedRaces": [
+            "Dwarves",
+            "Hobbits",
+            "Elves",
+            "Maiar",
+            "Men"
+        ],
+        "tier": 4,
+        "slot": 3,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 6,
+                "rate": 0
+            },
+            "focus": {
+                "base": 10,
+                "rate": 0
+            },
+            "speed": {
+                "base": 6,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 96,
+        "name": "Signet of the Barrows",
+        "supportedRaces": [
+            "Maiar",
+            "Evil Men",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 4,
+        "slot": 4,
+        "effects": [],
+        "stats": {
+            "focus": {
+                "base": 10,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 97,
+        "name": "Orthanc's Devilry",
+        "supportedRaces": [
+            "Maiar",
+            "Uruk-hai",
+            "Undead",
+            "Orcs"
+        ],
+        "tier": 4,
+        "slot": 4,
+        "effects": [],
+        "stats": {
+            "focus": {
+                "base": 12,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 98,
+        "name": "Esterling Helm",
+        "supportedRaces": [
+            "Dwarves",
+            "Hobbits",
+            "Elves",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 4,
+        "slot": 3,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 10,
+                "rate": 0
+            },
+            "focus": {
+                "base": 6,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 99,
+        "name": "Berserker's Gaze",
+        "supportedRaces": [
+            "Dwarves",
+            "Evil Men",
+            "Maiar",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 4,
+        "slot": 3,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 18,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 100,
+        "name": "War Helm",
+        "supportedRaces": [
+            "Evil Men",
+            "Maiar",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 4,
+        "slot": 3,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 10,
+                "rate": 0
+            },
+            "focus": {
+                "base": 10,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 101,
+        "name": "Iron Basinet",
+        "supportedRaces": [
+            "Dwarves",
+            "Hobbits",
+            "Elves",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 4,
+        "slot": 3,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 14,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 102,
+        "name": "Casque of Pride",
+        "supportedRaces": [
+            "Dwarves",
+            "Hobbits",
+            "Elves",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 4,
+        "slot": 3,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 11,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 103,
+        "name": "Hunter's Guide",
+        "supportedRaces": [
+            "Dwarves",
+            "Elves",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Uruk-hai"
+        ],
+        "tier": 4,
+        "slot": 3,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 9,
+                "rate": 0
+            },
+            "focus": {
+                "base": 9,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 104,
+        "name": "Casque of the submerged Isle",
+        "supportedRaces": [
+            "Dwarves",
+            "Hobbits",
+            "Elves",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Orcs",
+            "Uruk-hai",
+            "Undead"
+        ],
+        "tier": 4,
+        "slot": 3,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 10,
+                "rate": 0
+            },
+            "focus": {
+                "base": 6,
+                "rate": 0
+            },
+            "speed": {
+                "base": 4,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 105,
+        "name": "Caul of the Forest",
+        "supportedRaces": [
+            "Dwarves",
+            "Hobbits",
+            "Elves",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Ents",
+            "Undead"
+        ],
+        "tier": 4,
+        "slot": 3,
+        "effects": [],
+        "stats": {
+            "focus": {
+                "base": 8,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 106,
+        "name": "Grey Wizard Hat",
+        "supportedRaces": [
+            "Dwarves",
+            "Hobbits",
+            "Elves",
+            "Evil Men",
+            "Maiar",
+            "Men",
+            "Ents",
+            "Undead"
+        ],
+        "tier": 4,
+        "slot": 3,
+        "effects": [],
+        "stats": {
+            "focus": {
+                "base": 16,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 107,
+        "name": "Hard Casque",
+        "supportedRaces": [
+            "Evil Men",
+            "Maiar",
+            "Men"
+        ],
+        "tier": 4,
+        "slot": 3,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 10,
+                "rate": 0
+            },
+            "focus": {
+                "base": 4,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 108,
+        "name": "Fang of the East",
+        "Commander": 37,
+        "tier": 4,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 13,
+                "rate": 0
+            },
+            "focus": {
+                "base": 4,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 109,
+        "name": "Glaive of Minas Morgul",
+        "commander": 38,
+        "tier": 4,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 10,
+                "rate": 0
+            },
+            "focus": {
+                "base": 10,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 110,
+        "name": "Giant Axe",
+        "commander": 39,
+        "tier": 4,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 14,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 111,
+        "name": "Bone Totem",
+        "commander": 40,
+        "tier": 4,
+        "slot": 4,
+        "effects": [],
+        "stats": {
+            "focus": {
+                "base": 8,
+                "rate": 0
+            },
+            "speed": {
+                "base": 17,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 112,
+        "name": "Crimson Axe",
+        "commander": 41,
+        "tier": 4,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 14,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 113,
+        "name": "Mask of the Beholder",
+        "commander": 42,
+        "tier": 4,
+        "slot": 3,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 6,
+                "rate": 0
+            },
+            "focus": {
+                "base": 10,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 114,
+        "name": "Twin Daggers",
+        "commander": 43,
+        "tier": 4,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 13,
+                "rate": 0
+            },
+            "speed": {
+                "base": 14,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 115,
+        "name": "Grima's Dagger",
+        "commander": 44,
+        "tier": 4,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 10,
+                "rate": 0
+            },
+            "focus": {
+                "base": 12,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 116,
+        "name": "Rageblade",
+        "commander": 45,
+        "tier": 4,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 20,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 117,
+        "name": "Eviscerator",
+        "commander": 46,
+        "tier": 4,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 9,
+                "rate": 0
+            },
+            "focus": {
+                "base": 9,
+                "rate": 0
+            },
+            "speed": {
+                "base": 6,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 118,
+        "name": "Wraith Long Sword",
+        "commander": 47,
+        "tier": 4,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 8,
+                "rate": 0
+            },
+            "focus": {
+                "base": 8,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 119,
+        "name": "Pirate's Flask",
+        "commander": 48,
+        "tier": 4,
+        "slot": 4,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 7,
+                "rate": 0
+            },
+            "focus": {
+                "base": 10,
+                "rate": 0
+            },
+            "speed": {
+                "base": 8,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 120,
+        "name": "Corrupted Hauberk",
+        "commander": 49,
+        "tier": 4,
+        "slot": 2,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 17,
+                "rate": 0
+            },
+            "focus": {
+                "base": 5,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 121,
+        "name": "Bladed Bow",
+        "commander": 50,
+        "tier": 4,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 15,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 122,
+        "name": "Ugluck's Cleaver",
+        "commander": 51,
+        "tier": 4,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 12,
+                "rate": 0
+            },
+            "speed": {
+                "base": 6,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 123,
+        "name": "Faceless Mask",
+        "commander": 52,
+        "tier": 4,
+        "slot": 3,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 7,
+                "rate": 0
+            },
+            "focus": {
+                "base": 15,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 124,
+        "name": "Wrath",
+        "commander": 53,
+        "tier": 4,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 15,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 125,
+        "name": "Ebony Dancer",
+        "commander": 54,
+        "tier": 4,
+        "slot": 4,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 8,
+                "rate": 0
+            },
+            "focus": {
+                "base": 12,
+                "rate": 0
+            },
+            "speed": {
+                "base": 12,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 126,
+        "name": "Dread Cuirass",
+        "commander": 65,
+        "tier": 4,
+        "slot": 2,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 8,
+                "rate": 0
+            },
+            "focus": {
+                "base": 8,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 127,
+        "name": "Dark Trinket",
+        "commander": 66,
+        "tier": 4,
+        "slot": 4,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 4,
+                "rate": 0
+            },
+            "focus": {
+                "base": 17,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 128,
+        "name": "Dread Circlet",
+        "commander": 67,
+        "tier": 4,
+        "slot": 3,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 8,
+                "rate": 0
+            },
+            "focus": {
+                "base": 8,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 129,
+        "name": "Crow Staff",
+        "commander": 68,
+        "tier": 4,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "focus": {
+                "base": 16,
+                "rate": 0
+            },
+            "speed": {
+                "base": 5,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 130,
+        "name": "Black Serpent's Horn",
+        "commander": 55,
+        "tier": 4,
+        "slot": 4,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 6,
+                "rate": 0
+            },
+            "focus": {
+                "base": 6,
+                "rate": 0
+            },
+            "speed": {
+                "base": 6,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 131,
+        "name": "Visage of the East",
+        "commander": 56,
+        "tier": 4,
+        "slot": 3,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 7,
+                "rate": 0
+            },
+            "focus": {
+                "base": 9,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 132,
+        "name": "Dark Staff of Power",
+        "commander": 57,
+        "tier": 4,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "focus": {
+                "base": 16,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 133,
+        "name": "Smith's Gift",
+        "commander": 58,
+        "tier": 4,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "focus": {
+                "base": 16,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 134,
+        "name": "The Crown of Angmar",
+        "commander": 59,
+        "tier": 4,
+        "slot": 3,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 18,
+                "rate": 0
+            },
+            "focus": {
+                "base": 6,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 135,
+        "name": "Wraith's Cloak",
+        "commander": 60,
+        "tier": 4,
+        "slot": 2,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 10,
+                "rate": 0
+            },
+            "focus": {
+                "base": 10,
+                "rate": 0
+            },
+            "speed": {
+                "base": 4,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 136,
+        "name": "Stalker's Bow",
+        "commander": 61,
+        "tier": 4,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "focus": {
+                "base": 22,
+                "rate": 0
+            },
+            "speed": {
+                "base": 10,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 137,
+        "name": "Staff of Morgul",
+        "commander": 62,
+        "tier": 4,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "focus": {
+                "base": 22,
+                "rate": 0
+            },
+            "speed": {
+                "base": 9,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 138,
+        "name": "Tiara of the Fallen Queen",
+        "commander": 63,
+        "tier": 4,
+        "slot": 3,
+        "effects": [],
+        "stats": {
+            "focus": {
+                "base": 20,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 139,
+        "name": "Desert Gautlets",
+        "commander": 64,
+        "tier": 4,
+        "slot": 4,
+        "effects": [],
+        "stats": {
+            "focus": {
+                "base": 16,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 140,
+        "name": "Ranger's Cape",
+        "commander": 1,
+        "tier": 4,
+        "slot": 2,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 10,
+                "rate": 0
+            },
+            "focus": {
+                "base": 10,
+                "rate": 0
+            },
+            "speed": {
+                "base": 4,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 141,
+        "name": "Rohan's Refuge",
+        "commander": 2,
+        "tier": 4,
+        "slot": 4,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 16,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 142,
+        "name": "Marchwarden Outfit",
+        "commander": 3,
+        "tier": 4,
+        "slot": 2,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 10,
+                "rate": 0
+            },
+            "focus": {
+                "base": 8,
+                "rate": 0
+            },
+            "speed": {
+                "base": 6,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 143,
+        "name": "Twin Axes",
+        "commander": 4,
+        "tier": 4,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 14,
+                "rate": 0
+            },
+            "speed": {
+                "base": 12,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 144,
+        "name": "Dwarven Slingshot",
+        "commander": 5,
+        "tier": 4,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 6,
+                "rate": 0
+            },
+            "focus": {
+                "base": 14,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 145,
+        "name": "Red Arrow",
+        "commander": 6,
+        "tier": 4,
+        "slot": 4,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 10,
+                "rate": 0
+            },
+            "focus": {
+                "base": 9,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 146,
+        "name": "Barrow-blade",
+        "commander": 7,
+        "tier": 4,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 12,
+                "rate": 0
+            },
+            "focus": {
+                "base": 8,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 147,
+        "name": "Horn of Gondor",
+        "commander": 8,
+        "tier": 4,
+        "slot": 4,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 11,
+                "rate": 0
+            },
+            "speed": {
+                "base": 8,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 148,
+        "name": "Balin's Axe",
+        "commander": 9,
+        "tier": 4,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 22,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 149,
+        "name": "Evenstar",
+        "commander": 10,
+        "tier": 4,
+        "slot": 4,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 9,
+                "rate": 0
+            },
+            "focus": {
+                "base": 13,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 150,
+        "name": "Bow of the Galadhrim",
+        "commander": 11,
+        "tier": 4,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 16
+            }
+        }
+    },
+    {
+        "id": 151,
+        "name": "Globet of the Firts Steward",
+        "commander": 12,
+        "tier": 4,
+        "slot": 4,
+        "effects": [],
+        "stats": {
+            "focus": {
+                "base": 13,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 152,
+        "name": "Gúthwinë",
+        "commander": 13,
+        "tier": 4,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 10,
+                "rate": 0
+            },
+            "speed": {
+                "base": 10,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 153,
+        "name": "Sting",
+        "commander": 14,
+        "tier": 4,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 6,
+                "rate": 0
+            },
+            "focus": {
+                "base": 6,
+                "rate": 0
+            },
+            "speed": {
+                "base": 6,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 154,
+        "name": "Greatsword of Khazad-dûm",
+        "commander": 15,
+        "tier": 4,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 14,
+                "rate": 0
+            },
+            "focus": {
+                "base": 8,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 155,
+        "name": "Ring of Barahir",
+        "commander": 16,
+        "tier": 4,
+        "slot": 4,
+        "effects": [],
+        "stats": {
+            "focus": {
+                "base": 16,
+                "rate": 0
+            },
+            "speed": {
+                "base": 10,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 156,
+        "name": "Hardy Buckler",
+        "commander": 17,
+        "tier": 4,
+        "slot": 4,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 0,
+                "rate": 0
+            },
+            "focus": {
+                "base": 0,
+                "rate": 0
+            },
+            "speed": {
+                "base": 0,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 157,
+        "name": "Herugrim",
+        "commander": 18,
+        "tier": 4,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 10,
+                "rate": 0
+            },
+            "speed": {
+                "base": 10,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 158,
+        "name": "Nocturne",
+        "commander": 19,
+        "tier": 4,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 18,
+                "rate": 0
+            },
+            "focus": {
+                "base": 5,
+                "rate": 0
+            },
+            "speed": {
+                "base": 5,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 159,
+        "name": "Imladris Quiver",
+        "commander": 20,
+        "tier": 4,
+        "slot": 4,
+        "effects": [],
+        "stats": {
+            "focus": {
+                "base": 8,
+                "rate": 0
+            },
+            "speed": {
+                "base": 4,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 160,
+        "name": "Sindar Scepter",
+        "commander": 21,
+        "tier": 4,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "focus": {
+                "base": 10,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 161,
+        "name": "Dol Amorath Bulwark",
+        "commander": 22,
+        "tier": 4,
+        "slot": 4,
+        "effects": [],
+        "stats": {
+            "focus": {
+                "base": 8,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 162,
+        "name": "Wizard Smoking Pipe",
+        "commander": 23,
+        "tier": 4,
+        "slot": 4,
+        "effects": [],
+        "stats": {
+            "focus": {
+                "base": 22,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 163,
+        "name": "Hadhafang",
+        "commander": 24,
+        "tier": 4,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 9,
+                "rate": 0
+            },
+            "focus": {
+                "base": 9,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 163,
+        "name": "Glamdring",
+        "commander": 25,
+        "tier": 4,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 10,
+                "rate": 0
+            },
+            "focus": {
+                "base": 12,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 164,
+        "name": "Helm of the Mountain",
+        "commander": 26,
+        "tier": 4,
+        "slot": 3,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 18,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 165,
+        "name": "Phial of Galadriel",
+        "commander": 27,
+        "tier": 4,
+        "slot": 4,
+        "effects": [],
+        "stats": {
+            "focus": {
+                "base": 16,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 166,
+        "name": "Mirkwood Mail",
+        "commander": 28,
+        "tier": 4,
+        "slot": 2,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 6,
+                "rate": 0
+            },
+            "focus": {
+                "base": 6,
+                "rate": 0
+            },
+            "speed": {
+                "base": 6,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 167,
+        "name": "Aeglos",
+        "commander": 29,
+        "tier": 4,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 15,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 168,
+        "name": "Sailor Fieldglass",
+        "commander": 30,
+        "tier": 4,
+        "slot": 4,
+        "effects": [],
+        "stats": {
+            "focus": {
+                "base": 8,
+                "rate": 0
+            },
+            "speed": {
+                "base": 8,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 169,
+        "name": "Brown Wizard Hat",
+        "commander": 31,
+        "tier": 4,
+        "slot": 3,
+        "effects": [],
+        "stats": {
+            "focus": {
+                "base": 12,
+                "rate": 0
+            },
+            "speed": {
+                "base": 12,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 170,
+        "name": "Orcrist",
+        "commander": 32,
+        "tier": 4,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 14,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 171,
+        "name": "Gift of the Forest",
+        "commander": 33,
+        "tier": 4,
+        "slot": 4,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 10,
+                "rate": 0
+            },
+            "focus": {
+                "base": 12,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 172,
+        "name": "Coil of Dunharrow",
+        "commander": 34,
+        "tier": 4,
+        "slot": 4,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 14,
+                "rate": 0
+            },
+            "focus": {
+                "base": 10,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 173,
+        "name": "Andúril",
+        "commander": 35,
+        "tier": 4,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 17,
+                "rate": 0
+            }
+        }
+    },
+    {
+        "id": 174,
+        "name": "Narsil",
+        "commander": 36,
+        "tier": 4,
+        "slot": 1,
+        "effects": [],
+        "stats": {
+            "might": {
+                "base": 12,
+                "rate": 0
+            }
+        }
+    }
+]

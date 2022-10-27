@@ -1,5 +1,41 @@
 [
     {
+        "id": 1,
+        "name": "Gondor",
+        "alignment": "Good",
+        "firstCommander": 1
+    },
+    {
+        "id": 2,
+        "name": "Rohan",
+        "alignment": "Good",
+        "firstCommander": 2
+    },
+    {
+        "id": 3,
+        "name": "Lindon",
+        "alignment": "Good",
+        "firstCommander": 3
+    },
+    {
+        "id": 4,
+        "name": "Arnor",
+        "alignment": "Good",
+        "firstCommander": 1
+    },
+    {
+        "id": 6,
+        "name": "Lothlorien",
+        "alignment": "Good",
+        "firstCommander": 3
+    },
+    {
+        "id": 7,
+        "name": "Erebor",
+        "alignment": "Good",
+        "firstCommander": 4
+    },
+    {
         "id": 5,
         "name": "Angmar",
         "alignment": "Evil",

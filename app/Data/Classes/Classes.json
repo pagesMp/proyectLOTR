@@ -1,5 +1,5 @@
 [
-    {   
+    {
         "id": 1,
         "name": "Warrior",
         "effects": [
@@ -103,5 +103,35 @@
                 "amount": 2
             }
         ]
+    },
+    {
+        "id": 6,
+        "name": "Focus",
+        "effects": {}
+    },
+    {
+        "id": 7,
+        "name": "Tip Master",
+        "effects": {}
+    },
+    {
+        "id": 8,
+        "name": "Control",
+        "effects": {}
+    },
+    {
+        "id": 9,
+        "name": "Burn",
+        "effects": {}
+    },
+    {
+        "id": 10,
+        "name": "Poison",
+        "effects": {}
+    },
+    {
+        "id": 11,
+        "name": "Heal",
+        "effects": {}
     }
 ]
