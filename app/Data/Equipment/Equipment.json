@@ -180,7 +180,7 @@
         "stats": {
             "might": {
                 "base": 10,
-                "rate": 0
+                "rate": [0, 0, 0, 0]
             }
         }
     },
@@ -204,7 +204,7 @@
         "stats": {
             "might": {
                 "base": 10,
-                "rate": 0
+                "rate": [0, 0, 0, 0]
             }
         }
     },
@@ -228,11 +228,11 @@
         "stats": {
             "might": {
                 "base": 6,
-                "rate": 0
+                "rate": [0, 0, 0, 0]
             },
             "focus": {
                 "base": 6,
-                "rate": 0
+                "rate": [0, 0, 0, 0]
             }
         }
     },
@@ -256,11 +256,11 @@
         "stats": {
             "might": {
                 "base": 10,
-                "rate": 0
+                "rate": [0, 0, 0, 0]
             },
             "speed": {
                 "base": 2,
-                "rate": 0
+                "rate": [0, 0, 0, 0]
             }
         }
     },
@@ -284,15 +284,15 @@
         "stats": {
             "might": {
                 "base": 10,
-                "rate": 0
+                "rate": [0, 0, 0, 0]
             },
             "focus": {
                 "base": 3,
-                "rate": 0
+                "rate": [0, 0, 0, 0]
             },
             "speed": {
                 "base": 3,
-                "rate": 0
+                "rate": [0, 0, 0, 0]
             }
         }
     },
@@ -315,7 +315,7 @@
         "stats": {
             "might": {
                 "base": 6,
-                "rate": 0
+                "rate": [0, 0, 0, 0]
             }
         }
     },
@@ -339,7 +339,7 @@
         "stats": {
             "might": {
                 "base": 6,
-                "rate": 0
+                "rate": [0, 0, 0, 0]
             }
         }
     },
@@ -363,7 +363,7 @@
         "stats": {
             "might": {
                 "base": 6,
-                "rate": 0
+                "rate": [0, 0, 0, 0]
             }
         }
     },
@@ -387,7 +387,7 @@
         "stats": {
             "might": {
                 "base": 6,
-                "rate": 0
+                "rate": [0, 0, 0, 0]
             }
         }
     },
@@ -408,7 +408,7 @@
         "stats": {
             "might": {
                 "base": 12,
-                "rate": 0
+                "rate": [0, 0, 0, 0]
             }
         }
     },
@@ -429,15 +429,15 @@
         "stats": {
             "might": {
                 "base": 6,
-                "rate": 0
+                "rate": [0, 0, 0, 0]
             },
             "focus": {
                 "base": 4,
-                "rate": 0
+                "rate": [0, 0, 0, 0]
             },
             "speed": {
                 "base": 4,
-                "rate": 0
+                "rate": [0, 0, 0, 0]
             }
         }
     },
@@ -460,15 +460,15 @@
         "stats": {
             "might": {
                 "base": 6,
-                "rate": 0
+                "rate": [0, 0, 0, 0]
             },
             "focus": {
                 "base": 4,
-                "rate": 0
+                "rate": [0, 0, 0, 0]
             },
             "speed": {
                 "base": 4,
-                "rate": 0
+                "rate": [0, 0, 0, 0]
             }
         }
     },
@@ -491,11 +491,11 @@
         "stats": {
             "might": {
                 "base": 6,
-                "rate": 0
+                "rate": [0, 0, 0, 0]
             },
             "speed": {
                 "base": 9,
-                "rate": 0
+                "rate": [0, 0, 0, 0]
             }
         }
     },
@@ -518,7 +518,7 @@
         "stats": {
             "might": {
                 "base": 6,
-                "rate": 0
+                "rate": [0, 0, 0, 0]
             }
         }
     },
@@ -540,7 +540,7 @@
         "stats": {
             "might": {
                 "base": 6,
-                "rate": 0
+                "rate": [0, 0, 0, 0]
             }
         }
     },
@@ -561,11 +561,11 @@
         "stats": {
             "might": {
                 "base": 8,
-                "rate": 0
+                "rate": [0, 0, 0, 0]
             },
             "speed": {
                 "base": 6,
-                "rate": 0
+                "rate": [0, 0, 0, 0]
             }
         }
     },
@@ -587,11 +587,11 @@
         "stats": {
             "might": {
                 "base": 4,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 10,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -614,11 +614,11 @@
         "stats": {
             "focus": {
                 "base": 6,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "speed": {
                 "base": 9,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -641,7 +641,7 @@
         "stats": {
             "might": {
                 "base": 15,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -664,11 +664,11 @@
         "stats": {
             "might": {
                 "base": 6,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 6,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -692,11 +692,11 @@
         "stats": {
             "might": {
                 "base": 8,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "speed": {
                 "base": 8,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -716,7 +716,7 @@
         "stats": {
             "focus": {
                 "base": 12,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -737,7 +737,7 @@
         "stats": {
             "focus": {
                 "base": 12,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -761,7 +761,7 @@
         "stats": {
             "focus": {
                 "base": 15,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -783,7 +783,7 @@
         "stats": {
             "focus": {
                 "base": 10,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -806,11 +806,11 @@
         "stats": {
             "might": {
                 "base": 8,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "speed": {
                 "base": 6,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -830,15 +830,15 @@
         "stats": {
             "might": {
                 "base": 4,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 10,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "speed": {
                 "base": 6,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -860,15 +860,15 @@
         "stats": {
             "might": {
                 "base": 4,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 4,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "speed": {
                 "base": 6,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -889,11 +889,11 @@
         "stats": {
             "might": {
                 "base": 4,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 6,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -916,11 +916,11 @@
         "stats": {
             "focus": {
                 "base": 8,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "speed": {
                 "base": 6,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -944,15 +944,15 @@
         "stats": {
             "might": {
                 "base": 10,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 4,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "speed": {
                 "base": 6,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -975,7 +975,7 @@
         "stats": {
             "might": {
                 "base": 10,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -998,11 +998,11 @@
         "stats": {
             "might": {
                 "base": 6,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 6,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -1026,11 +1026,11 @@
         "stats": {
             "might": {
                 "base": 10,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "speed": {
                 "base": 12,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -1051,15 +1051,15 @@
         "stats": {
             "might": {
                 "base": 6,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 6,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "speed": {
                 "base": 4,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -1083,11 +1083,11 @@
         "stats": {
             "might": {
                 "base": 8,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 8,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -1109,7 +1109,7 @@
         "stats": {
             "might": {
                 "base": 12,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -1133,11 +1133,11 @@
         "stats": {
             "might": {
                 "base": 8,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "speed": {
                 "base": 6,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -1160,7 +1160,7 @@
         "stats": {
             "might": {
                 "base": 12,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -1183,7 +1183,7 @@
         "stats": {
             "might": {
                 "base": 12,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -1206,7 +1206,7 @@
         "stats": {
             "might": {
                 "base": 12,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -1225,11 +1225,11 @@
         "stats": {
             "might": {
                 "base": 8,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "speed": {
                 "base": 6,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -1253,7 +1253,7 @@
         "stats": {
             "might": {
                 "base": 21,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -1274,15 +1274,15 @@
         "stats": {
             "might": {
                 "base": 10,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 5,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "speed": {
                 "base": 5,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -1301,15 +1301,15 @@
         "stats": {
             "might": {
                 "base": 14,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 4,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "speed": {
                 "base": 5,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -1329,7 +1329,7 @@
         "stats": {
             "might": {
                 "base": 15,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -1350,11 +1350,11 @@
         "stats": {
             "might": {
                 "base": 14,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "speed": {
                 "base": 9,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -1375,11 +1375,11 @@
         "stats": {
             "might": {
                 "base": 12,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 8,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -1399,15 +1399,15 @@
         "stats": {
             "might": {
                 "base": 8,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 8,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "speed": {
                 "base": 4,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -1426,15 +1426,15 @@
         "stats": {
             "might": {
                 "base": 10,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 4,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "speed": {
                 "base": 6,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -1456,7 +1456,7 @@
         "stats": {
             "might": {
                 "base": 17,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -1477,11 +1477,11 @@
         "stats": {
             "might": {
                 "base": 16,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 4,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -1501,11 +1501,11 @@
         "stats": {
             "might": {
                 "base": 13,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "speed": {
                 "base": 10,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -1529,15 +1529,15 @@
         "stats": {
             "might": {
                 "base": 10,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 4,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "speed": {
                 "base": 9,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -1560,11 +1560,11 @@
         "stats": {
             "might": {
                 "base": 10,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "speed": {
                 "base": 10,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -1588,7 +1588,7 @@
         "stats": {
             "might": {
                 "base": 13,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -1609,11 +1609,11 @@
         "stats": {
             "might": {
                 "base": 18,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "speed": {
                 "base": 4,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -1634,7 +1634,7 @@
         "stats": {
             "might": {
                 "base": 12,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -1652,11 +1652,11 @@
         "stats": {
             "might": {
                 "base": 8,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 12,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -1674,11 +1674,11 @@
         "stats": {
             "might": {
                 "base": 4,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 10,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -1699,7 +1699,7 @@
         "stats": {
             "might": {
                 "base": 14,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -1720,11 +1720,11 @@
         "stats": {
             "focus": {
                 "base": 12,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "speed": {
                 "base": 6,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -1748,11 +1748,11 @@
         "stats": {
             "might": {
                 "base": 12,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 12,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -1775,11 +1775,11 @@
         "stats": {
             "might": {
                 "base": 4,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 11,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -1802,7 +1802,7 @@
         "stats": {
             "might": {
                 "base": 14,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -1822,15 +1822,15 @@
         "stats": {
             "might": {
                 "base": 12,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 6,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "speed": {
                 "base": 4,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -1851,7 +1851,7 @@
         "stats": {
             "might": {
                 "base": 18,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -1870,7 +1870,7 @@
         "stats": {
             "focus": {
                 "base": 10,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -1892,7 +1892,7 @@
         "stats": {
             "might": {
                 "base": 11,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -1915,11 +1915,11 @@
         "stats": {
             "might": {
                 "base": 9,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "speed": {
                 "base": 14,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -1939,11 +1939,11 @@
         "stats": {
             "might": {
                 "base": 12,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 5,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -1961,11 +1961,11 @@
         "stats": {
             "might": {
                 "base": 10,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 10,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -1990,7 +1990,7 @@
         "stats": {
             "might": {
                 "base": 8,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -2014,7 +2014,7 @@
         "stats": {
             "focus": {
                 "base": 8,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -2035,15 +2035,15 @@
         "stats": {
             "might": {
                 "base": 4,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 14,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "speed": {
                 "base": 5,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -2064,11 +2064,11 @@
         "stats": {
             "might": {
                 "base": 4,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 16,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -2088,15 +2088,15 @@
         "stats": {
             "might": {
                 "base": 12,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 6,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "speed": {
                 "base": 4,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -2116,11 +2116,11 @@
         "stats": {
             "might": {
                 "base": 8,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 10,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -2144,7 +2144,7 @@
         "stats": {
             "focus": {
                 "base": 20,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -2168,11 +2168,11 @@
         "stats": {
             "might": {
                 "base": 2,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 14,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -2194,11 +2194,11 @@
         "stats": {
             "focus": {
                 "base": 4,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "speed": {
                 "base": 10,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -2219,11 +2219,11 @@
         "stats": {
             "focus": {
                 "base": 12,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "speed": {
                 "base": 10,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -2243,7 +2243,7 @@
         "stats": {
             "might": {
                 "base": 10,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -2268,7 +2268,7 @@
         "stats": {
             "might": {
                 "base": 10,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -2285,7 +2285,7 @@
         "stats": {
             "focus": {
                 "base": 14,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -2310,11 +2310,11 @@
         "stats": {
             "might": {
                 "base": 8,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 8,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -2332,7 +2332,7 @@
         "stats": {
             "focus": {
                 "base": 8,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -2356,11 +2356,11 @@
         "stats": {
             "might": {
                 "base": 4,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 16,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -2380,15 +2380,15 @@
         "stats": {
             "might": {
                 "base": 6,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 10,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "speed": {
                 "base": 6,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -2407,7 +2407,7 @@
         "stats": {
             "focus": {
                 "base": 10,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -2426,7 +2426,7 @@
         "stats": {
             "focus": {
                 "base": 12,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -2450,11 +2450,11 @@
         "stats": {
             "might": {
                 "base": 10,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 6,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -2475,7 +2475,7 @@
         "stats": {
             "might": {
                 "base": 18,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -2495,11 +2495,11 @@
         "stats": {
             "might": {
                 "base": 10,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 10,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -2523,7 +2523,7 @@
         "stats": {
             "might": {
                 "base": 14,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -2547,7 +2547,7 @@
         "stats": {
             "might": {
                 "base": 11,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -2568,11 +2568,11 @@
         "stats": {
             "might": {
                 "base": 9,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 9,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -2596,15 +2596,15 @@
         "stats": {
             "might": {
                 "base": 10,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 6,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "speed": {
                 "base": 4,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -2627,7 +2627,7 @@
         "stats": {
             "focus": {
                 "base": 8,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -2650,7 +2650,7 @@
         "stats": {
             "focus": {
                 "base": 16,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -2668,11 +2668,11 @@
         "stats": {
             "might": {
                 "base": 10,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 4,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -2686,11 +2686,11 @@
         "stats": {
             "might": {
                 "base": 13,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 4,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -2704,11 +2704,11 @@
         "stats": {
             "might": {
                 "base": 10,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 10,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -2722,7 +2722,7 @@
         "stats": {
             "might": {
                 "base": 14,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -2736,11 +2736,11 @@
         "stats": {
             "focus": {
                 "base": 8,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "speed": {
                 "base": 17,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -2754,7 +2754,7 @@
         "stats": {
             "might": {
                 "base": 14,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -2768,11 +2768,11 @@
         "stats": {
             "might": {
                 "base": 6,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 10,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -2786,11 +2786,11 @@
         "stats": {
             "might": {
                 "base": 13,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "speed": {
                 "base": 14,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -2804,11 +2804,11 @@
         "stats": {
             "might": {
                 "base": 10,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 12,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -2822,7 +2822,7 @@
         "stats": {
             "might": {
                 "base": 20,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -2836,15 +2836,15 @@
         "stats": {
             "might": {
                 "base": 9,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 9,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "speed": {
                 "base": 6,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -2858,11 +2858,11 @@
         "stats": {
             "might": {
                 "base": 8,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 8,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -2876,15 +2876,15 @@
         "stats": {
             "might": {
                 "base": 7,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 10,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "speed": {
                 "base": 8,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -2898,11 +2898,11 @@
         "stats": {
             "might": {
                 "base": 17,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 5,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -2916,7 +2916,7 @@
         "stats": {
             "might": {
                 "base": 15,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -2930,11 +2930,11 @@
         "stats": {
             "might": {
                 "base": 12,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "speed": {
                 "base": 6,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -2948,11 +2948,11 @@
         "stats": {
             "might": {
                 "base": 7,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 15,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -2966,7 +2966,7 @@
         "stats": {
             "might": {
                 "base": 15,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -2980,15 +2980,15 @@
         "stats": {
             "might": {
                 "base": 8,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 12,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "speed": {
                 "base": 12,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -3002,11 +3002,11 @@
         "stats": {
             "might": {
                 "base": 8,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 8,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -3020,11 +3020,11 @@
         "stats": {
             "might": {
                 "base": 4,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 17,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -3038,11 +3038,11 @@
         "stats": {
             "might": {
                 "base": 8,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 8,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -3056,11 +3056,11 @@
         "stats": {
             "focus": {
                 "base": 16,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "speed": {
                 "base": 5,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -3074,15 +3074,15 @@
         "stats": {
             "might": {
                 "base": 6,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 6,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "speed": {
                 "base": 6,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -3096,11 +3096,11 @@
         "stats": {
             "might": {
                 "base": 7,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 9,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -3114,7 +3114,7 @@
         "stats": {
             "focus": {
                 "base": 16,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -3128,7 +3128,7 @@
         "stats": {
             "focus": {
                 "base": 16,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -3142,11 +3142,11 @@
         "stats": {
             "might": {
                 "base": 18,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 6,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -3160,15 +3160,15 @@
         "stats": {
             "might": {
                 "base": 10,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 10,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "speed": {
                 "base": 4,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -3182,11 +3182,11 @@
         "stats": {
             "focus": {
                 "base": 22,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "speed": {
                 "base": 10,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -3200,11 +3200,11 @@
         "stats": {
             "focus": {
                 "base": 22,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "speed": {
                 "base": 9,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -3218,7 +3218,7 @@
         "stats": {
             "focus": {
                 "base": 20,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -3232,7 +3232,7 @@
         "stats": {
             "focus": {
                 "base": 16,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -3246,15 +3246,15 @@
         "stats": {
             "might": {
                 "base": 10,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 10,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "speed": {
                 "base": 4,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -3268,7 +3268,7 @@
         "stats": {
             "might": {
                 "base": 16,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -3282,15 +3282,15 @@
         "stats": {
             "might": {
                 "base": 10,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 8,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "speed": {
                 "base": 6,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -3304,11 +3304,11 @@
         "stats": {
             "might": {
                 "base": 14,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "speed": {
                 "base": 12,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -3322,11 +3322,11 @@
         "stats": {
             "might": {
                 "base": 6,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 14,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -3340,11 +3340,11 @@
         "stats": {
             "might": {
                 "base": 10,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 9,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -3358,11 +3358,11 @@
         "stats": {
             "might": {
                 "base": 12,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 8,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -3376,11 +3376,11 @@
         "stats": {
             "might": {
                 "base": 11,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "speed": {
                 "base": 8,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -3394,7 +3394,7 @@
         "stats": {
             "might": {
                 "base": 22,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -3408,11 +3408,11 @@
         "stats": {
             "might": {
                 "base": 9,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 13,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -3439,7 +3439,7 @@
         "stats": {
             "focus": {
                 "base": 13,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -3453,11 +3453,11 @@
         "stats": {
             "might": {
                 "base": 10,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "speed": {
                 "base": 10,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -3471,15 +3471,15 @@
         "stats": {
             "might": {
                 "base": 6,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 6,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "speed": {
                 "base": 6,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -3493,11 +3493,11 @@
         "stats": {
             "might": {
                 "base": 14,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 8,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -3511,11 +3511,11 @@
         "stats": {
             "focus": {
                 "base": 16,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "speed": {
                 "base": 10,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -3529,15 +3529,15 @@
         "stats": {
             "might": {
                 "base": 0,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 0,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "speed": {
                 "base": 0,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -3551,11 +3551,11 @@
         "stats": {
             "might": {
                 "base": 10,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "speed": {
                 "base": 10,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -3569,15 +3569,15 @@
         "stats": {
             "might": {
                 "base": 18,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 5,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "speed": {
                 "base": 5,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -3591,11 +3591,11 @@
         "stats": {
             "focus": {
                 "base": 8,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "speed": {
                 "base": 4,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -3609,7 +3609,7 @@
         "stats": {
             "focus": {
                 "base": 10,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -3623,7 +3623,7 @@
         "stats": {
             "focus": {
                 "base": 8,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -3637,7 +3637,7 @@
         "stats": {
             "focus": {
                 "base": 22,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -3651,11 +3651,11 @@
         "stats": {
             "might": {
                 "base": 9,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 9,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -3669,7 +3669,7 @@
         "stats": {
             "might": {
                 "base": 18,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -3683,7 +3683,7 @@
         "stats": {
             "focus": {
                 "base": 16,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -3697,15 +3697,15 @@
         "stats": {
             "might": {
                 "base": 6,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 6,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "speed": {
                 "base": 6,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -3719,7 +3719,7 @@
         "stats": {
             "might": {
                 "base": 15,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -3733,11 +3733,11 @@
         "stats": {
             "focus": {
                 "base": 8,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "speed": {
                 "base": 8,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -3751,11 +3751,11 @@
         "stats": {
             "focus": {
                 "base": 12,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "speed": {
                 "base": 12,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -3769,7 +3769,7 @@
         "stats": {
             "might": {
                 "base": 14,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -3783,11 +3783,11 @@
         "stats": {
             "might": {
                 "base": 10,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 12,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -3801,11 +3801,11 @@
         "stats": {
             "might": {
                 "base": 14,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 10,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -3819,7 +3819,7 @@
         "stats": {
             "might": {
                 "base": 17,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -3833,7 +3833,7 @@
         "stats": {
             "might": {
                 "base": 12,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     },
@@ -3847,11 +3847,11 @@
         "stats": {
             "might": {
                 "base": 10,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             },
             "focus": {
                 "base": 12,
-                "rate": 0
+                "rate": [0, 0, 0, 0, 0]
             }
         }
     }
