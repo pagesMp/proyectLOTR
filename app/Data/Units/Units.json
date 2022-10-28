@@ -623,6 +623,7 @@
     {
         "id": 29,
         "name": "Ravager",
+        "alignment": "Evil",
         "units": 4,
         "tier": 4,
         "race": 11,
@@ -644,6 +645,7 @@
     {
         "id": 30,
         "name": "War Chariot",
+        "alignment": "Evil",
         "units": 4,
         "tier": 4,
         "race": 3,
@@ -662,6 +664,7 @@
     {
         "id": 31,
         "name": "Fallen",
+        "alignment": "Evil",
         "units": 50,
         "tier": 4,
         "race": 3,
@@ -680,6 +683,7 @@
     {
         "id": 32,
         "name": "Snaga Thrak",
+        "alignment": "Evil",
         "units": 50,
         "tier": 4,
         "race": 9,
@@ -698,6 +702,7 @@
     {
         "id": 33,
         "name": "Champion",
+        "alignment": "Evil",
         "units": 50,
         "tier": 4,
         "race": 3,
@@ -716,6 +721,7 @@
     {
         "id": 34,
         "name": "Warlord",
+        "alignment": "Evil",
         "units": 50,
         "tier": 4,
         "race": 7,
