@@ -384,7 +384,7 @@
         "name": "Crusher",
         "alignment": "Evil",
         "units": 100,
-        "tier": 23,
+        "tier": 3,
         "race": 7,
         "skills": [
             1,
