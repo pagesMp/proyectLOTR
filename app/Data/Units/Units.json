@@ -2047,11 +2047,11 @@
         "units": 50,
         "tier": 4,
         "race": 6,
-        "skills": [],
+        "skills": [40, 41],
         "stats": {
             "damage": [
-                40,
-                41
+                35,
+                38
             ],
             "hp": 86,
             "defence": 49,
