@@ -163,8 +163,7 @@
         "id": 33,
         "name":"Trample",
         "effect":{}
-    }
-    ,
+    },
     {
         "id": 34,
         "name":"Heatproof Skin",
@@ -364,5 +363,45 @@
         "id": 73,
         "name":"Vile Stench",
         "effect":{}
-    }    
+    },
+    {
+        "id": 74,
+        "name":"Scythes",
+        "effect":{}
+    },
+    {
+        "id": 75,
+        "name":"Reap",
+        "effect":{}
+    },
+    {
+        "id": 76,
+        "name":"Spite",
+        "effect":{}
+    },
+    {
+        "id": 77,
+        "name":"Cruelty",
+        "effect":{}
+    },
+    {
+        "id": 78,
+        "name":"Cool-Headed",
+        "effect":{}
+    },
+    {
+        "id": 79,
+        "name":"Challenge",
+        "effect":{}
+    },
+    {
+        "id": 80,
+        "name":"Unlimited Power",
+        "effect":{}
+    },
+    {
+        "id": 81,
+        "name":"Shove",
+        "effect":{}
+    }        
 ]

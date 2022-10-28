@@ -649,7 +649,7 @@
         "units": 4,
         "tier": 4,
         "race": 3,
-        "skills": [],
+        "skills": [5, 74, 75],
         "stats": {
             "damage": [
                 225,
@@ -668,7 +668,7 @@
         "units": 50,
         "tier": 4,
         "race": 3,
-        "skills": [],
+        "skills": [76, 3],
         "stats": {
             "damage": [
                 30,
@@ -687,7 +687,7 @@
         "units": 50,
         "tier": 4,
         "race": 9,
-        "skills": [],
+        "skills": [77, 78],
         "stats": {
             "damage": [
                 6,
@@ -706,7 +706,7 @@
         "units": 50,
         "tier": 4,
         "race": 3,
-        "skills": [],
+        "skills": [3, 79],
         "stats": {
             "damage": [
                 35,
@@ -725,7 +725,7 @@
         "units": 50,
         "tier": 4,
         "race": 7,
-        "skills": [],
+        "skills": [80, 81],
         "stats": {
             "damage": [
                 50,
