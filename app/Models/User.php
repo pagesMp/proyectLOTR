@@ -40,7 +40,7 @@ class User extends Authenticatable implements JWTSubject
      * @var array<string, string>
      */
     protected $casts = [
-        'email_verified_at' => 'datetime',
+        'email_verified_at' => 'datetime'        
     ];
 
     public function getJWTIdentifier()
@@ -60,4 +60,7 @@ class User extends Authenticatable implements JWTSubject
     /**
      * The roles that belong to the user.
      */
+    public function build(){
+        return $this->hasMany(Build::class);
+    }
 }
