@@ -23,7 +23,13 @@ Route::group(
         Route::group(
             ['prefix' => 'public'],
             function(){
-
+                //Public users routes
+                Route::group(
+                    ['prefix' => 'users'],
+                    function(){
+                        Route::post('/create', [UserController::class, 'create']);
+                    }
+                );
             }
             
         );
