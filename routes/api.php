@@ -1,6 +1,6 @@
 <?php
 
-use App\Http\Controllers\RegisterController;
+use App\Http\Controllers\UserController;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 use PHPUnit\TextUI\XmlConfiguration\Group;
@@ -28,7 +28,8 @@ Route::group(
                 Route::group(
                     ['prefix' => 'users'],
                     function(){
-                        Route::post('/create', [RegisterController::class, 'register']);
+                        Route::post('/create', [UserController::class, 'register']);
+                        Route::post('/login', [UserController::class, 'login']);
                     }
                 );
             }
@@ -36,9 +37,9 @@ Route::group(
         );
         //Private routes group
         Route::group(
-            ['prefix' => 'private', 'middleware' => 'jwt'],
+            ['prefix' => 'private', 'middleware' => 'jwt.auth'],
             function(){
-
+                
             }
 
         );       
