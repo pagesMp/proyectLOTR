@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\RegisterController;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 use PHPUnit\TextUI\XmlConfiguration\Group;
@@ -17,7 +18,7 @@ use PHPUnit\TextUI\XmlConfiguration\Group;
 
 
 Route::group(
-    ['prefix' => 'api/v1'],
+    ['prefix' => '/v1'],
     function () {
         //Public routes group
         Route::group(
@@ -27,7 +28,7 @@ Route::group(
                 Route::group(
                     ['prefix' => 'users'],
                     function(){
-                        Route::post('/create', [UserController::class, 'create']);
+                        Route::post('/create', [RegisterController::class, 'register']);
                     }
                 );
             }

@@ -52,7 +52,7 @@ class RegisterController extends Controller
             Log::error('Error to create user' . $exception->getMessage());
             return response()->json(
                 [
-                    'seccess' => false,
+                    'success' => false,
                     'message' => ' Error to create new User'
                 ],
                 404
