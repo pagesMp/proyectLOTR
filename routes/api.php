@@ -31,6 +31,7 @@ Route::group(
                         Route::post('/create', [UserController::class, 'create']);
                         Route::post('/login', [UserController::class, 'login']);
                         Route::get('/profile/{id}', [UserController::class, 'get']);
+                        Route::get('/profile/{id}/get', [UserController::class, 'get']);
                     }
                 );
             }
@@ -44,6 +45,7 @@ Route::group(
                     ['prefix' => 'users'],
                     function(){
                         Route::get('/profile/{id}', [UserController::class, 'get']);
+                        Route::get('/profile/{id}/get', [UserController::class, 'get']);
                         Route::put('/profile/{id}/update', [UserController::class, 'update']);
                     }
                 );
