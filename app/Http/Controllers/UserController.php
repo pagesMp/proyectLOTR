@@ -12,7 +12,7 @@ use Tymon\JWTAuth\Facades\JWTAuth;
 
 class UserController extends Controller
 {
-   public function register(Request $request){
+   public function create(Request $request){
         try {
             $validator = Validator::make(
                 $request->all(),
@@ -97,7 +97,7 @@ class UserController extends Controller
         }
     }
 
-    public function profile($id){
+    public function get($id){
 
         $user = User::find($id);
 
@@ -143,7 +143,7 @@ class UserController extends Controller
         }
     }
 
-    public function updateProfile(Request $request, $id){
+    public function update(Request $request, $id){
         try {
 
             $validator = Validator::make(

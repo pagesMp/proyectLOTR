@@ -28,9 +28,9 @@ Route::group(
                 Route::group(
                     ['prefix' => 'users'],
                     function(){
-                        Route::post('/create', [UserController::class, 'register']);
+                        Route::post('/create', [UserController::class, 'create']);
                         Route::post('/login', [UserController::class, 'login']);
-                        Route::get('/profile/{id}', [UserController::class, 'profile']);
+                        Route::get('/profile/{id}', [UserController::class, 'get']);
                     }
                 );
             }
@@ -43,8 +43,8 @@ Route::group(
                 Route::group(
                     ['prefix' => 'users'],
                     function(){
-                        Route::get('/profile/{id}', [UserController::class, 'profile']);
-                        Route::put('/profile/{id}/update', [UserController::class, 'updateProfile']);
+                        Route::get('/profile/{id}', [UserController::class, 'get']);
+                        Route::put('/profile/{id}/update', [UserController::class, 'update']);
                     }
                 );
             }
