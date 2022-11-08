@@ -30,6 +30,7 @@ Route::group(
                     function(){
                         Route::post('/create', [UserController::class, 'register']);
                         Route::post('/login', [UserController::class, 'login']);
+                        Route::get('/profile/{id}', [UserController::class, 'profile']);
                     }
                 );
             }
@@ -39,10 +40,14 @@ Route::group(
         Route::group(
             ['prefix' => 'private', 'middleware' => 'jwt.auth'],
             function(){
-                
+                Route::group(
+                    ['prefix' => 'users'],
+                    function(){
+                        Route::get('/profile/{id}', [UserController::class, 'profile']);
+                        Route::put('/profile/{id}/update', [UserController::class, 'updateProfile']);
+                    }
+                );
             }
-
-        );       
-
+        );
     }
 );
