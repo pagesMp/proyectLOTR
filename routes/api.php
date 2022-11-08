@@ -18,7 +18,7 @@ use PHPUnit\TextUI\XmlConfiguration\Group;
 
 
 Route::group(
-    ['prefix' => '/v1'],
+    ['prefix' => 'v1'],
     function () {
         //Public routes group
         Route::group(

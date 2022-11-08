@@ -98,7 +98,9 @@ class UserController extends Controller
     }
 
     public function profile($id){
+
         $user = User::find($id);
+
         try {
             $me = auth()->user();
 
@@ -110,7 +112,9 @@ class UserController extends Controller
                     ],
                     200
                 );
-            }
+            } 
+
+        } catch (\Exception $exception) {
 
             if($user->id == $user->id){
                 return response()->json(
@@ -118,24 +122,24 @@ class UserController extends Controller
                         "success" => true,
                         "data" => (
                             [
-                                "alias" => $user->alias ,
+                                "alias" => $user->alias,
                                 "email" => $user->email
                             ]
                         )               
                     ],
                     200
                 );
-            }  
+            }else{
 
-        } catch (\Exception $exception) {
-            Log::error('Error to show this profile' . $exception->getMessage());
-            return response()->json(
-                [
-                    'success' => false,
-                    'message' => ' Error to show this profile'
-                ],
-                404
-            );
+                Log::error('Error to show this profile' . $exception->getMessage());
+                return response()->json(
+                    [
+                        'success' => false,
+                        'message' => ' Error to show this profile'
+                    ],
+                    404
+                );
+            }
         }
     }
 
@@ -175,39 +179,26 @@ class UserController extends Controller
                 );
             }
 
-            $alias = $request->input('alias');
-            $email = $request->input('email');
-            $avatar = $request->input($id);
-            $password = $request->input('password');
+            $fields = ['alias', 'email', 'avatar', 'password'];
 
-            if(isset($alias)){
-                $user->alias = $alias;
-                $user->save();               
-            };
+            foreach($fields as $field){
+                $value = $request->input($field);
+                if(isset($value)){
+                    if($field == 'password'){
+                        $user->password = bcrypt($value);
+                    }
+                    else{
+                        $user->$field = $value;
+                    }
+                }
+            }   
 
-            if(isset($email)){
-                $user->email = $email;
-                $user->save();               
-            };
-
-            if(isset($avatar)){
-                $user->avatar = $id; 
-                $user->save();              
-            };            
-
-            if(isset($password)){
-                $user->password = bcrypt($password);  
-                $user->save();             
-            };      
+            $user->save();
 
             return response()->json(
                 [
                     'success' => true,
-                    'message' => 'you have modifcate your profile successfully',
-                    'name' => $alias,
-                    'email' => $email,
-                    'avatar' => $avatar,
-                    'password' => 'password changed'
+                    'message' => 'you have modifcate your profile successfully'
                 ],
             200
             );
