@@ -34,8 +34,7 @@ Route::group(
                         Route::get('/profile/{id}/get', [UserController::class, 'get']);
                     }
                 );
-            }
-            
+            }            
         );
         //Private routes group
         Route::group(
@@ -47,6 +46,7 @@ Route::group(
                         Route::get('/profile/{id}', [UserController::class, 'get']);
                         Route::get('/profile/{id}/get', [UserController::class, 'get']);
                         Route::put('/profile/{id}/update', [UserController::class, 'update']);
+                        Route::delete('/profile/{id}/delete', [UserController::class, 'delete']);
                     }
                 );
             }
