@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\BuildController;
 use App\Http\Controllers\UserController;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
@@ -31,7 +32,14 @@ Route::group(
                         Route::post('/create', [UserController::class, 'create']);
                         Route::post('/login', [UserController::class, 'login']);
                         Route::get('/profile/{id}', [UserController::class, 'get']);
-                        Route::get('/profile/{id}/get', [UserController::class, 'get']);
+                        Route::get('/profile/{id}/get', [UserController::class, 'get']);                        
+                    }
+                );
+                Route::group(
+                    ['prefix' => 'builds'],
+                    function(){
+                        Route::post('/create', [BuildController::class, 'create']);
+                        Route::get('/{id}/get', [BuildController::class, 'get']);                        
                     }
                 );
             }            
@@ -49,6 +57,12 @@ Route::group(
                         Route::delete('/profile/{id}/delete', [UserController::class, 'delete']);
                     }
                 );
+                Route::group(
+                    ['prefix' => 'builds'],
+                    function(){
+                        Route::delete('/{id}/delete', [BuildController::class, 'delete']);
+                    }
+                );        
             }
         );
     }

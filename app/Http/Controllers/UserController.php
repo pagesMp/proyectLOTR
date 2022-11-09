@@ -44,7 +44,7 @@ class UserController extends Controller
                 200
             );
         } catch (\Exception $exception) {
-            error("Error to create user", 400, $exception);
+            return error("Error to create user", 400, $exception);
         }
     }
 
@@ -70,13 +70,13 @@ class UserController extends Controller
                 'token' => $jwt_token,
             ]);
         } catch (\Exception $exception) {
-            error("Error to login", 400, $exception);
+            return error("Error to login", 400, $exception);
         }
     }
 
     public function get($id)
     {
-        $user = User::find($id);
+        $user = User::firstOrFail($id);
 
         try {
             $me = isUserAuthenticated();
@@ -102,7 +102,7 @@ class UserController extends Controller
                 );
             }
         } catch (\Exception $exception) {
-            error('Error to show this profiel', 400, $exception);
+            return error('Error to show this profiel', 400, $exception);
         }
     }
 
@@ -119,7 +119,7 @@ class UserController extends Controller
                 ]
             );
 
-            $user = User::query()->find($id);
+            $user = User::query()->firstOrFail($id);
             $me = isUserAuthenticated();
             
             if ($user->id != $me->id) {
@@ -157,13 +157,13 @@ class UserController extends Controller
             }
 
         } catch (\Exception $exception) {
-            error("Error to update your profile", 400, $exception);            
+            return error("Error to update your profile", 400, $exception);            
         }
     }
 
     public function delete($id)
     {
-        $user = User::query()->find($id);
+        $user = User::query()->firstOrFail($id);
         try {
             $me = isUserAuthenticated();
             $alias = $user->alias;
@@ -191,7 +191,7 @@ class UserController extends Controller
             };
 
         } catch (\Exception $exception) {
-            error("Error to delere your profile", 400, $exception);           
+            return error("Error to delere your profile", 400, $exception);           
         }
     }
 }

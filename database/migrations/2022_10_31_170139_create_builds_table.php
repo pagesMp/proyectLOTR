@@ -17,7 +17,6 @@ return new class extends Migration
             $table->id();
             $table->string('title');
             $table->integer('views');
-            $table->integer('respect');
             $table->json('data');
             $table->json('tags');
             $table->unsignedBigInteger('user_id');

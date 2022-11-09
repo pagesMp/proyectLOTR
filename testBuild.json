@@ -1,18 +1,21 @@
-{
-    "commander": {
-        "id": 0
+{   
+    "title": "",
+    "data": {
+        "commander": {
+            "id": 0
+        },
+        "levels": {
+            "experience": 0,
+            "respect": 0,
+            "influence": 0
+        },
+        "effects": [
+            {
+                "targetType": "SkillPoints",
+                "targetScope": "Commander",
+                "amount": 0
+            }
+        ]
     },
-    "levels": {
-        "experience": 0,
-        "respect": 0,
-        "influence": 0
-    },
-    "effects": [
-        {
-            "targetType": "SkillPoints",
-            "targetScope": "Commander",
-            "amount": 0
-        }
-    ],
     "tags": []
 }

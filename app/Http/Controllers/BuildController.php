@@ -6,113 +6,105 @@ use App\Models\Build;
 use App\Models\User;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Log;
-use Illuminate\Support\Facades\Validator;
+
+use function App\Http\Utils\error;
+use function App\Http\Utils\isUserAuthenticated;
+use function App\Http\Utils\validate;
 
 class BuildController extends Controller
 {
-    public function create(Request $request, $id){
+    public function create(Request $request)
+    {
         try {
-            
-            $validator = Validator::make($request->all(),
+            $me = isUserAuthenticated();
+            validate(
+                $request,
                 [
                     'title' => 'required|string|max:25',
-                    'respect' => 'required|integer|max:2',                   
-                    'data' => 'required|array',
-                    'tags' => 'array|string'
+                    'tags' => 'array'
                 ]
             );
-
-            if($validator->fails()){
-                return response()->json(
-                    [
-                        'success'=> false,
-                        'message' => $validator->errors()
-                    ],
-                    400
-                );
-            }
             
-            // $newTitle = $request->input('title');
-            // $newRespect = $request->input('respect');
-            // $newData = $request->input('data');
-
-            // $user = User::query()->find($id);               
-            // $me = auth()->user();           
+            $newTitle = $request->input('title');
+            $newData = $request->input('data');
+            $newTags = $request->input('tags');           
 
             $newBuild = new Build();
-            // $newBuild->title = $newTitle;
-            // $newBuild->respect = $newRespect;
-            // $newBuild->data = $newData;
-            // $newBuild->user_id= auth()->user()->id;
+            $newBuild->title = $newTitle;
+            $newBuild->data = $newData;
+            $newBuild->views = 0;
+            $newBuild->tags = $newTags;
 
-            // $newBuild->save();
-
-            $fields = ['title', 'respect', 'data', 'tags'];
-
-            foreach($fields as $field){
-                $value = $request->input($field);
-                if(isset($value)){
-                    if($field == 'data' && 'tags'){
-                        
-                    }
-                    else{
-                        $newBuild->$field = $value;
-                    }
-                }
-            } 
+            if($me){
+                $newBuild->user_id = auth()->user()->id;
+            }else{
+                $newBuild->user_id = 0;
+            };         
 
             $newBuild->save();
 
-        } catch (\Exception $exception) {
-            Log::error('You can not create a new build');
             return response()->json(
                 [
-                    'success' => false,
-                    'message' => 'error to create a new build'
-                ]
+                    'success' => true,
+                    'data' => $newBuild
+                ],
+               200
             );
+            
+        } catch (\Exception $exception) {
+            return error("Error to create a new build", 400, $exception);
         }
     }
 
-    public function get(){
+    public function get($id)
+    {
         try {
-            //code...
-        } catch (\Exception $exception) {
-            Log::error('You can not get this build');
+            $build = Build::query()->where('id', $id)->firstOrFail();
+
             return response()->json(
                 [
-                    'success' => false,
-                    'message' => 'error to getting this build'
-                ]
+                    'success' => true,
+                    'data' => $build
+                ],
+               200
             );
+        } catch (\Exception $exception) {
+            return error("Error to get build", 400, $exception);
         }
     }
 
-    public function put(){
+    public function delete($id)
+    {
         try {
-            //code...
-        } catch (\Exception $exception) {
-            Log::error('You can not update this build');
-            return response()->json(
-                [
-                    'success' => false,
-                    'message' => 'error to update this build'
-                ]
-            );
-        }
-    }
 
-    public function delete(){
-        try {
-            //code...
+            $build = Build::query()->where('id', $id)->firstOrFail();;
+
+            $me = isUserAuthenticated();
+
+            if($build && $me->id == $build->user_id){
+                $buildName = $build->title;
+
+                $build->delete();
+
+                return response()->json(
+                    [
+                        'success' => true,
+                        'message' => "build $buildName has been deleted successfully"
+                    ],
+                   200
+                );
+            }else{
+                return response()->json(
+                    [
+                        'success' => false,
+                        'message' => "You dont have permissions to delete this build"
+                    ],
+                   400
+                );
+            };
+            
         } catch (\Exception $exception) {
-            Log::error('You can not delete this build');
-            return response()->json(
-                [
-                    'success' => false,
-                    'message' => 'error to delete this build'
-                ]
-            );
+           return error("Error to delete build", 400, $exception); 
         }
     }
-}
+}   
