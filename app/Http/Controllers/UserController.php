@@ -204,7 +204,7 @@ class UserController extends Controller
             );
 
         } catch (\Exception $exception) {
-            Log::error('Error toupdate your profile' . $exception->getMessage());
+            Log::error('Error tu update your profile' . $exception->getMessage());
             return response()->json(
                 [
                     'success' => false,
@@ -213,5 +213,43 @@ class UserController extends Controller
                 404
             );
         }        
-    }   
+    }
+    
+    public function delete($id){
+        $user = User::query()->find($id);
+        try {
+            $me = auth()->user();
+            $alias = $user->alias;
+
+            if($user->id != $me->id){
+                return response()->json(
+                    [
+                        "success" => false,
+                        "message" => "you dont have permissions"
+                    ],
+                   400
+                ); 
+            }
+
+            $user -> delete();
+
+            return response()->json(
+                [
+                    'success' => true,
+                    'message' => "user {$alias} deleted successfully"
+                ],
+                200
+            );
+
+        } catch (\Exception $exception) {
+            Log::error('Error to delete your profile' . $exception->getMessage());
+            return response()->json(
+                [
+                    'success' => false,
+                    'message' => ' Error to delete your profile'
+                ],
+                404
+            );
+        }
+    }
 }
