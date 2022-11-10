@@ -16,7 +16,7 @@ class UserController extends Controller
     public function create(Request $request)
     {
         try {
-            validate(
+            $isValidated = validate(
                 $request,
                 [
                     'alias' => 'required|string|max:25',
@@ -24,6 +24,10 @@ class UserController extends Controller
                     'password' => 'required|string|min:6|max:25|regex:/[#$%^&*()+=!?¿.,:;]/i'
                 ]
             );
+
+            if($isValidated !== true){
+                return $isValidated;
+            };
 
             $user = User::create(
                 [
@@ -109,7 +113,7 @@ class UserController extends Controller
     public function update(Request $request, $id)
     {
         try {
-            validate(
+            $isValidated = validate(
                 $request,
                 [
                     'alias' => 'string|max:25',
@@ -119,7 +123,11 @@ class UserController extends Controller
                 ]
             );
 
-            $user = User::query()->firstOrFail($id);
+            if($isValidated !== true){
+                return $isValidated;
+            };
+
+            $user = User::query()->firstOrFail($id); 
             $me = isUserAuthenticated();
             
             if ($user->id != $me->id) {

@@ -11,8 +11,10 @@ function validate(Request $request, array $fields)
 {
 
     $validator = Validator::make($request->all(), $fields);
-
-    if ($validator->fails()) {
+    if ($validator->passes()) {
+        return true;
+    }
+    else {
         return response()->json(
             [
                 'success' => false,
@@ -21,6 +23,7 @@ function validate(Request $request, array $fields)
             400
         );
     }
+    
 }
 
 function isUserAuthenticated()

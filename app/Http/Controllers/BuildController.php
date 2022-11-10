@@ -3,7 +3,6 @@
 namespace App\Http\Controllers;
 
 use App\Models\Build;
-use App\Models\User;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Log;
 
@@ -17,13 +16,23 @@ class BuildController extends Controller
     {
         try {
             $me = isUserAuthenticated();
-            validate(
+            $isValidated = validate(
                 $request,
                 [
-                    'title' => 'required|string|max:25',
+                    'title' => 'required|string|max:15',
+                    'data' => 'required|array',
+                    'data.commander' => 'required|array',
+                    'data.commander.id' => 'required|integer',
+                    'data.levels.experience' => 'required|numeric|min:1|max:50',
+                    'data.levels.respect' => 'required|numeric|min:0|max:25',
+                    'data.levels.influence' => 'required|numeric|min:0',
                     'tags' => 'array'
                 ]
             );
+
+            if($isValidated !== true){
+                return $isValidated;
+            };
             
             $newTitle = $request->input('title');
             $newData = $request->input('data');
@@ -78,13 +87,17 @@ class BuildController extends Controller
             $build = Build::query()->where('id', $id)->firstOrFail();
             $me = isUserAuthenticated();
 
-            validate(
+            $isValidated = validate(
                 $request,
                 [
                     'title' => 'required|string|max:25',
                     'tags' => 'array'
                 ]
             );
+
+            if($isValidated !== true){
+                return $isValidated;
+            };
 
             if($build && $me->id == $build->user_id){
 
