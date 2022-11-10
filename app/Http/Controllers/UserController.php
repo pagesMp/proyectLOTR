@@ -32,8 +32,8 @@ class UserController extends Controller
                     'password' => bcrypt($request->password),
                 ]
             );
-
-            $user->roles()->attach(1);
+            
+            $user->roles()->attach("f97c0620-12bc-42e5-b9c3-4e7f5618285e");
 
             return response()->json(
                 [

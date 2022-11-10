@@ -1,5 +1,6 @@
 <?php
 
+// use Illuminate\Support\Str;
 use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
@@ -14,12 +15,12 @@ return new class extends Migration
     public function up()
     {
         Schema::create('builds', function (Blueprint $table) {
-            $table->id();
+            $table->uuid('id')->primary();
             $table->string('title');
             $table->integer('views');
             $table->json('data');
             $table->json('tags');
-            $table->unsignedBigInteger('user_id');
+            $table->uuid('user_id');
             $table->timestamps();
         });
     }
