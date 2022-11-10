@@ -61,6 +61,7 @@ Route::group(
                     ['prefix' => 'builds'],
                     function(){
                         Route::delete('/{id}/delete', [BuildController::class, 'delete']);
+                        Route::put('/{id}/update', [BuildController::class, 'update']);
                     }
                 );        
             }

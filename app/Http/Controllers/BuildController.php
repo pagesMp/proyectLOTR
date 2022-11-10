@@ -73,12 +73,60 @@ class BuildController extends Controller
         }
     }
 
+    public function update(Request $request, $id){
+        try {
+            $build = Build::query()->where('id', $id)->firstOrFail();
+            $me = isUserAuthenticated();
+
+            validate(
+                $request,
+                [
+                    'title' => 'required|string|max:25',
+                    'tags' => 'array'
+                ]
+            );
+
+            if($build && $me->id == $build->user_id){
+
+                $newTitle = $request->input('title');
+                $newData = $request->input('data');
+                $newTags = $request->input('tags');           
+
+                
+                $build->title = $newTitle;
+                $build->data = $newData;
+                $build->tags = $newTags;
+
+                $build->update(); 
+
+                return response()->json(
+                    [
+                        'success' => true,
+                        'message' => "build has been updated successfully"
+                    ],
+                   200
+                );
+
+            }else{
+                return response()->json(
+                    [
+                        'success' => false,
+                        'message' => "You dont have permissions to update this build"
+                    ],
+                   400
+                );
+            };            
+
+        } catch (\Exception $exception) {
+            return error("Error to update this build", 400, $exception);
+        }
+    }
+
     public function delete($id)
     {
         try {
 
-            $build = Build::query()->where('id', $id)->firstOrFail();;
-
+            $build = Build::query()->where('id', $id)->firstOrFail();
             $me = isUserAuthenticated();
 
             if($build && $me->id == $build->user_id){
