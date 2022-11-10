@@ -8,14 +8,7 @@
             "experience": 0,
             "respect": 0,
             "influence": 0
-        },
-        "effects": [
-            {
-                "targetType": "SkillPoints",
-                "targetScope": "Commander",
-                "amount": 0
-            }
-        ]
+        }
     },
     "tags": []
 }
