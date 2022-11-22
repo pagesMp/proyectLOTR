@@ -4,7 +4,6 @@ namespace App\Http\Controllers;
 
 use App\Models\Build;
 use Illuminate\Http\Request;
-use Illuminate\Support\Facades\Log;
 
 use function App\Http\Utils\error;
 use function App\Http\Utils\isUserAuthenticated;
@@ -167,5 +166,21 @@ class BuildController extends Controller
         } catch (\Exception $exception) {
            return error("Error to delete build", 400, $exception); 
         }
+    }
+
+    public function addView(string $id){
+        try {
+            $build = Build::query()->where('id', $id)->firstOrFail();
+            $build->views += 1;
+            $build->update();
+
+            return response()->json(
+                ['success' => true], 200
+            );
+
+        } catch (\Exception $exception) {
+            return error("Error to delete build", 400, $exception); 
+        }
+
     }
 }   

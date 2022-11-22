@@ -39,7 +39,8 @@ Route::group(
                     ['prefix' => 'builds'],
                     function(){
                         Route::post('/create', [BuildController::class, 'create']);
-                        Route::get('/{id}/get', [BuildController::class, 'get']);                        
+                        Route::get('/{id}/get', [BuildController::class, 'get']);
+                        Route::post('/{id}/view', [BuildController::class, 'addView']);                        
                     }
                 );
             }            
@@ -62,6 +63,7 @@ Route::group(
                     function(){
                         Route::delete('/{id}/delete', [BuildController::class, 'delete']);
                         Route::put('/{id}/update', [BuildController::class, 'update']);
+                        Route::post('/{id}/view', [BuildController::class, 'addView']);
                     }
                 );        
             }
