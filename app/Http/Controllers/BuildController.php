@@ -44,7 +44,7 @@ class BuildController extends Controller
             $newBuild->tags = $newTags;
 
             if($me){
-                $newBuild->user_id = auth()->user()->id;
+                $newBuild->user_id = $me->id;
             }else{
                 $newBuild->user_id = 0;
             };         

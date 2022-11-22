@@ -37,7 +37,7 @@ class UserController extends Controller
                 ]
             );
             
-            $user->roles()->attach("f97c0620-12bc-42e5-b9c3-4e7f5618285e");
+            $user->roles()->attach("5b606e4b-a37f-43e8-aa26-c41192e36053");
 
             return response()->json(
                 [

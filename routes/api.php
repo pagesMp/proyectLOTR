@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\BuildController;
+use App\Http\Controllers\ClanController;
 use App\Http\Controllers\UserController;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
@@ -64,6 +65,13 @@ Route::group(
                         Route::delete('/{id}/delete', [BuildController::class, 'delete']);
                         Route::put('/{id}/update', [BuildController::class, 'update']);
                         Route::post('/{id}/view', [BuildController::class, 'addView']);
+                    }
+                ); 
+                Route::group(
+                    ['prefix' => 'clan'],
+                    function(){
+                        Route::post('/create', [ClanController::class, 'create']);
+                        
                     }
                 );        
             }

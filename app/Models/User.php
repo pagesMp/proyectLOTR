@@ -72,6 +72,6 @@ class User extends Authenticatable implements JWTSubject
     }
 
     public function clan(){
-        return $this->belongsToMany(Clan::class);
+        return $this->belongsTo(Clan::class);
     }
 }
