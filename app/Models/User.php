@@ -70,4 +70,8 @@ class User extends Authenticatable implements JWTSubject
     public function build(){
         return $this->hasMany(Build::class);
     }
+
+    public function clan(){
+        return $this->belongsToMany(Clan::class);
+    }
 }
